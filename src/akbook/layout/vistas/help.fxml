@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="300.0" styleClass="anchor-pane" stylesheets="@../css/styleCover.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="akbook.layout.controller.HelpController">
+   <children>
+      <ScrollPane prefHeight="300.0" prefWidth="300.0">
+        <content>
+          <AnchorPane maxHeight="700.0" minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="283.0" styleClass="anchor-pane">
+               <children>
+                  <VBox prefHeight="354.0" prefWidth="283.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <children>
+                        <Label fx:id="lblHelp" text="Instrucciones..." textOverrun="WORD_ELLIPSIS" wrapText="true" />
+                        <Label text="Creditos:" />
+                        <Hyperlink fx:id="overfly" text="Gremio Overfly - ES" textFill="WHITE" underline="true" />
+                        <Hyperlink fx:id="database" text="Aura Kingdom Database" underline="true" />
+                        <Hyperlink fx:id="puertoSkandia" text="Puerto Skandia" underline="true" />
+                        <Hyperlink fx:id="consejos" text="AuraKingdomGuia" underline="true" />
+                        <Label text="Aura Kingdom ©2018 Aeria Games GmbH." />
+                        <Label text="Todos sus derechos reservados." wrapText="true" />
+                        <Hyperlink fx:id="pageOficial" text="es.aurakingdom.aeriagames.com/" underline="true" wrapText="true" />
+                        <Label fx:id="lblAutor" text="autor" wrapText="true">
+                           <VBox.margin>
+                              <Insets left="2.0" top="3.0" />
+                           </VBox.margin></Label>
+                        <Hyperlink fx:id="linkAutor" alignment="CENTER" contentDisplay="CENTER" prefHeight="95.0" prefWidth="290.0">
+                           <graphic>
+                              <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                                 <children>
+                                    <ImageView fitHeight="86.0" fitWidth="73.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../../../../../../Descargas/prof_20190130_191249-1.png" />
+                                       </image>
+                                    </ImageView>
+                                    <VBox alignment="CENTER" prefHeight="87.0" prefWidth="150.0">
+                                       <children>
+                                          <Label text="Aura Kingdom Recipe's Book ©2019" wrapText="true" />
+                                          <Label text="Created by CrystalMoon." wrapText="true" />
+                                       </children>
+                                       <HBox.margin>
+                                          <Insets left="9.0" />
+                                       </HBox.margin>
+                                    </VBox>
+                                 </children>
+                              </HBox>
+                           </graphic>
+                        </Hyperlink>
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

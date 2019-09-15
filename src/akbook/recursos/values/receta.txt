@@ -1,0 +1,29 @@
+﻿---> Recetas ubicaciones
+5501#Luma (Arboleda Katakara)#Templo Alabastro (Colina Creciente)#Enciclopedia por Puntos Dragon
+5502#Luma (Arboleda Katakara)#Templo Alabastro (Colina Creciente)#Jefe Noryim, Lumia
+5503#Luma (Arboleda Katakara)#Templo Alabastro (Colina Creciente)#Jefe Fiale, Lumia
+5504#Luma (Arboleda Katakara)#Templo Alabastro (Colina Creciente)#Jefe Jai, Lumia
+5505#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+5506#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Tunel del Prodigio (Mina del Prodigio)#Jefe Argos, Gruta de Argos
+5507#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Tunel del Prodigio (Mina del Prodigio)#Jefe Genbu, Cueva Sumergida
+5508#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Tunel del Prodigio (Mina del Prodigio)#Jefe Algana, Cueva Sumergida
+5509#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+5510#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Jefe Monchester, Ultramundo: Templo Alabastro
+5511#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Jefe Taland, Cueva de la Lagrima
+5512#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Jefe Morfos, Templo Arenas
+5513#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Tundra Escarchada (Tundra Silenciosa)#Secreto de Cadila (Humedal Aguasverdes)#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+5514#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Jefe Talmudan, Templo Arenas
+5515#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Templo arenas (Desierto Astral)#Cueva Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Jefe Carolina, Templo Arenas
+5516#Tundra Escarchada (Tundra Silenciosa)
+5517#Bosque Crepuscular (valle de la Desolacion)#Tumba Antigua (Valle Cazacol)#Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Ultramundo: Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+5518#Ultramundo: Humedal Aguasverdes (Arboleda katakara)#Enciclopedia por Puntos Dragon
+5519#Comerciante de Cronicas en Navea
+5520#Tree Cave (Secret Forest Lake)#Cripta del Dios Ancestral (Desierto Desolado)#Cueva Glacial (Montañas Frigga)#Ultramundo Destrozado (Desierto Tempestuoso)
+5521#Tree Cave (Secret Forest Lake)#Cripta del Dios Ancestral (Desierto Desolado)#Cueva Glacial (Montañas Frigga)#Caverna Bosque del Tiempo (Bosque Perpetuo)
+5522#Ultramundo: Tundra Silenciosa (Arboleda Katakara)
+5523#Ultramundo: Tumba antigua (Valle Cazacol)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)
+5524#Silen Ancient Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval [?])
+5525#Ultramundo: Colina Coleus (Arboleda Katakara)
+5526#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)#Ultamundo: Caverna Bosque de la Cronologia (Bosque Perpetuo)
+5527#Torre Celeste Piso 1-10#Enciclopedia por Puntos Dragon
+5528#Herrera Templaria Anelas en Navea

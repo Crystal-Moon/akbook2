@@ -1,0 +1,38 @@
+﻿---> Espada escudo stats
+1001#DMG + 7640#HP + 705#DEF + 101#EVA + 216#DEF + 5% #Cada ataque tiene un 5% de probabilidad de activar la valentía, lo que disminuye el daño recibido en un 4% durante 15 segundos.
+1002#DMG + 10459#HP + 941#DEF + 145#EVA + 317#DEF + 5% #Daño recibido de los jefes -5%#Cada ataque tiene un 8% de probabilidad de convertirse en Defensor, lo que disminuye el daño recibido un 5% durante 15 segundos
+1003#DMG + 9603#HP + 802#DEF + 119#EVA + 256#DEF + 5% #Cada ataque tiene un 8% de probabilidad de obtener Dominio Real, lo que disminuye el daño recibido en un 4% durante 15 segundos
+1004#DMG + 7640#HP + 705#DEF + 101#EVA + 216#DEF + 5%
+1005#DMG + 9603#HP + 870#DEF + 131#EVA + 285#DEF + 5% #Cada ataque tiene un 5% de probabilidad de activar Resolucion, lo que crea un escudo que puede negar el 30% del daño recibido (hasta 5490) durante 15 segundos
+1006#DMG + 12294#HP + 1091#DEF + 175#EVA + 387#Máximo HP + 5% #5% de DEF agregado a DMG #Cada ataque tiene un 8% de probabilidad de invocar el poder de Forseti, que reduce el daño recibido un 5% durante 15 segundos
+1007#DMG + 11819#HP + 1053#DEF + 167#EVA + 368#DEF + 5% #Cada ataque tiene un 5% de probabilidad de entrar en la Posición de asalto, lo que aumenta la DEF en 369 y la Curación recibida en 332 durante 15 segundos
+1008#DMG + 15360#HP + 1337#DEF + 226#EVA + 508#DEF + 5% #Daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de conferir la Inmortalidad del Conquistador, lo que aumenta la DEF en 472 y la Potencia de curación en 424 durante 15 segundos
+1009#DMG + 14296#HP + 1252#DEF + 208#EVA + 465#DEF + 5% de #daño de "Golpe de Rayo" + 25% #Tus ataques tienen un 8% de probabilidad de activar Regeneración, recuperando 2480 HP.
+1010#DMG + 14296#HP + 1252#DEF + 208#EVA + 465#DEF + 5% #Cada ataque tiene un 5% de probabilidad de oobtener Herida Saturada, que recupera 496 HP por segundo durante 15 segundos
+1011#DMG + 14296#SPD + 143#HP + 1337#DEF + 191#Máximo HP + 5% #Cada ataque tiene un 5% de probabilidad de activar el Infierno Feerico, lo que reduce el daño recibido un 3% durante 15 segundos.
+1012#DMG + 17039#HP + 1498#DEF + 255#EVA + 579#DEF + 5% #Cada ataque tiene un 5% de probabilidad de invocar Brillo Divino, lo que crea un escudo que anulará el 30% de todo el daño (hasta 8190) durante 15 segundos.
+1013#DMG + 17039#SPD + 361#HP + 1622#DEF + 236#Máximo HP + 5% #Cada ataque tiene un 5% de probabilidad de ofrecer Energia de la Realeza, lo que aumenta la DEF en 520 durante 15 segundos
+1014#DMG + 21342#HP + 1962#DEF + 331#EVA + 762#DEF + 5% de #daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de obtener Adjudicacion, lo que crea un escudo que anulará el 30% del daño recibido (hasta 10095) durante 15 segundos
+1015#DMG + 21342#SPD + 476#HP + 2110#DEF + 308#Max HP + 5% de #daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de mostrar tu comportamiento real, lo que aumenta la DEF en 641 y la potencia de curación en 576 durante 15 segundos
+1016#DMG + 18212#HP + 1622#DEF + 275#EVA + 627#Máximo HP + 8% #5% de DEF agregado a DMG #Daño + 50% a objetivos de Atributo de Hielo #Cada ataque tiene un 8% de probabilidad de obtener Poder del Dios del Fuego, lo que disminuye el Daño recibido en un 6% durante 15 segundos
+1017#DMG + 22673#HP + 2110#DEF + 356#EVA + 821#Máx. De HP + 5% del #índice de golpes críticos del Golpe de escudo + 8% #Cada ataque tiene un 8% de probabilidad de recibir la Bendición de la Rosa, que anula el 30% del daño recibido (hasta 10676) durante 15 segundos
+1018#DMG + 22673#SPD + 477#HP + 2110#DEF + 308#Máx. HP + 5% #Duración del escudo reflejado +10 segundos #Cada ataque tiene un 8% de probabilidad de recibir la Poder Atrronador, lo que disminuye el daño recibido en un 5% durante 15 segundos
+1019#DMG + 22673#HP + 1962#DEF + 332#EVA + 762#Máx HP + 8% #Daño de Furia de Viento + 20% #50% de bonificación Daño a los objetivos de atributo de la Llama #Cada ataque tiene un 8% de probabilidad de desencadenar Bendicion del Leviatan, que recupera 4269 HP
+1020#DMG + 15360#HP + 1337#DEF + 226#EVA + 508#DEF + 5% #PRE + 10% #Daño recibido de jugadores -10% #Daño contra jugadores + 25%
+1021#DMG + 22673#HP + 1962#DEF + 331#EVA + 762#DEF + 5% #PRE + 10% #Daño recibido de jugadores -10% #Daño contra jugadores + 25%
+1022#DMG + 20056#HP + 1821#DEF + 308#EVA + 706#DEF + 5% #5% de probabilidad de activar Poder Escarlata cuando atacas, que recupera 660 HP por segundo durante 15 segundos.
+1023#DMG + 20056#SPD + 441#HP + 1962#DEF + 286#Máx. De HP + 5% #5% de probabilidad de activar la Bendicion de la Naturaleza, lo que aumenta 545 la Potencia de curación durante 15 segundos.
+1024#DMG + 23356#SPD + 532#HP + 2186#DEF + 368
+1025#DMG + 28462#SPD + 679#HP + 2774#DEF + 465#DMG recibido de monstruos Jefes -5% #DMG a monstruos Jefe + 10%
+1026#DMG + 30028#SPD + 726#HP + 3152#DEF + 465#DMG por Espada y Escudo + 6%#Duración del efecto Muro Protector +5 seg.
+1027#DMG + 28462#HP + 2774#DEF + 465#EVA + 1087#HP + 8% #ACC + 10% #DMG recibido de los jugadores -15%.#El daño causado a los jugadores + 30%
+1028#DMG + 30028#HP + 2959#DEF + 495#EVA + 1161#Máx. HP + 3%. #El daño de espada y escudo aumenta un 3%. #El daño de "Azote de escudo" aumenta un 20%
+1029#DMG + 26944#HP + 2774#DEF + 435#EVA + 1016
+1030#DMG + 30829#HP + 3054#DEF + 510#EVA + 1200
+1031#DMG + 36780#HP + 3779#DEF + 629#EVA + 1491#DMG recibido de monstruops Jefes -5%. #DMG a monstruos Jefes + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+1032#DMG + 36780#HP + 3779#DEF + 629#EVA + 1491#HP + 10% #ACC + 15% #DMG recibido de jugadores enemigos -18% #DMG + 35% contra jugadores enemigos
+1033#DMG + 38592#HP + 4005#DEF + 666#EVA + 1582#HP máx. + 5% #Daño de espada y escudo + 8% #DMG de "Golpe de Rayo" + 20% #PEN + 10%
+1034#DMG + 46354#HP + 4998#DEF + 827#EVA + 1983#HP + 12% #ACC + 20% #DMG recibido de jugadores -20% #DMG contra jugadores + 40%
+1035#DMG + 35018#HP + 3779#DEF + 593#EVA + 1404
+1036#DMG + 39518#HP + 4122#DEF + 685#EVA + 1629
+1037#DMG + 46354#HP + 4998#DEF + 827#EVA + 1983#DMG recibido de monstruos Jefes -8% #DMG contramonstruos Jefes + 10% #Nivel de habilidad con armas +2 #PEN + 12%

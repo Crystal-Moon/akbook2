@@ -1,0 +1,39 @@
+﻿---> shuriken ubicacion
+1801#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+1802#--- refinado
+1803#Recompensa de mision 'La peticion de alvay' (Mina del Prodigio)
+1804#Recompensa de mision 'Detener el desastre' (Mina del Prodigio)
+1805#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1806#Maestro del Shuriken Hanson en Navea
+1807#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1808#--- refinado
+1809#Enciclopedia por Puntos Dragon
+1810#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1811#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1812#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1813#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1814#-- refinado
+1815#--- refionado
+1816#Abismo Infernal (Prsaderas Vendaval)#Enciclopedia por Puntos Dragon
+1817#Torre Celetse Piso 9
+1818#Abismo Remolino (Costa de Helonia)
+1819#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1820#Lugarteniente Fred en Navea
+1821#Lugarteniente Fred en Navea
+1822#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1823#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1824#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1825#--- refinado
+1826#Cofres de Torre celeste Elite#Enciclopedia por Puntos Dragon
+1827#Lugarteniente Fred en Navea
+1828#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)
+1829#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+1830#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+1831#--- refinado
+1832#Lugarteniente Fred en Navea
+1833#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1834#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverda Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+1835#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1836#-- refinado
+1837#Lugarteniente Fred en Navea
+1838#Torre Celeste Piso 36

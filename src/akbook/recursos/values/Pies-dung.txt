@@ -1,0 +1,77 @@
+﻿---> Pies ubicacion
+1901#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+1902#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+1903#--- refinado
+1904#--- refinado
+1905#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1906#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1907#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1908#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1909#--- refinado
+1910#-- refinado
+1911#NPC Lugarteniente Orha en Navea
+1912#NPC Lugarteniente Imes en Navea#Enciclopedia por Puntos Dragon
+1913#NPC Teniente Gerald en Navea#Enciclopedia por Puntos Dragon
+1914#NPC Teniente Gerald en Navea
+1915#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1916#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1917#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1918#NPC Comerciante de Armaduras Petunia en Navea#POsibilidades en pesca#Enciclopedia por Puntos Dragon
+1919#Comerciante de Armaduras Petunia en Navea#Posibilidades en Pesca#Enciclopedia por Puntos Dragon
+1920#Comerciante de armaduras Petunia en Navea#Posibilidades en Pesca#Enciclopedia por Puntos Dragon
+1921#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Cueva de la Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1922#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Cueva de la Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1923#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Cueva de la Lagrima (Bosque del Olvido)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1924#--- rerfinado
+1925#--- refinado
+1926#--- refiado
+1927#NPC Lugarteniente Dickie
+1928#NPC Lugarteniente Dickie en Navea
+1929#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1930#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1931#Ultramundo: Templo Alabastro (Colina Creciente)#Enciclopedia por Puntos Dragon
+1932#Ultramundo: Templo Alabastro (Colina Creciente)#Ascenso del Rey Dragon (Colina Creciente)#Enciclopedi apor Puntos Dragon
+1933#Acenso de la Reina Acuatica (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1934#Ascenso de la Reina Acuatica (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1935#Cofres de recompensa de Elite con el guardian de los mapas:#-Floresta Amanita#-Humedal Aguasverdes#-Tundra Silenciosa#-Morton#-Meseta del Meteoro#-Colina Coleus#Enciclopedia por Puntos Dragon
+1936#Cofres de recompensa de Elite con el guardian de los mapas:#-Floresta Amanita#-Humedal Aguasverdes#-Tundra Silenciosa#-Morton#-Meseta del Meteoro#-Colina Coleus#Enciclopedia por Puntos Dragon
+1937#Cofres de recompensa de Elite con el guardian de los mapas:#-Floresta Amanita#-Humedal Aguasverdes#-Tundra Silenciosa#-Morton#-Meseta del Meteoro#-Colina Coleus#Enciclopedia por Puntos Dragon
+1938#Ultramundo: Raiz del Titan (Florsta Amanita)#Ultramundo: Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por Puntos Dragon
+1939#Ultramund: Raiz del Titan (Floresta Amanita)#Ultramundo: Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por Puntos Dragon
+1940#Ultramund: Raiz del Titan (Floresta Amanita)#Ultramundo: Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por Puntos Dragon
+1941#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por puntos Dragon
+1942#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por puntos Dragon
+1943#--- refinado
+1944#--- refinado
+1945#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1946#NPC Lugarteniente Dickie en Navea#Encilcopedia por Puntos Dragon
+1947#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+1948#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+1949#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1950#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1951#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1952#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1953#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1954#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1955#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1956#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1957#--- refinado
+1958#--- refinado
+1959#Torre Celeste (Piso 30)#Enciclopedia por Puntos Dragon
+1960#Torre Celeste (Piso 30)#Enciclopedia por Puntos dragon
+1961#Torre Celeste (Piso 30)#Enciclopedi apor Puntos Dragon
+1962#Torre Celeste (Piso 30)#Enciclopedia por Puntos Dragon
+1963#NPM Lugarteniente Dickien en navea#Enciclopediia por Puntos Dragon
+1964#NPM Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1965#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1966#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1967#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1968#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1969#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1970#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1971#--- refinado
+1972#--- refinado
+1973#--- refinado
+1974#--- refinado
+1975#NPC Lugarteniente Dickie en Navea
+1976#NPC Lugarteniente Dickie en Navea

@@ -1,0 +1,38 @@
+﻿---> Katana ubicaciones
+2501#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+2502#--- refinado
+2503#Completar la mision "La peticion de Alvay" en Mina del Prodigio
+2504#Completar la mision "Detener el desastre" en Mina del Prodigio
+2505#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2506#NPC Maestro de Katana Muramasa en Navea#Enciclopedia por Puntos Dragon
+2507#Gruta de Argos (Altiplano del Juicio)#Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2508#--- refinado
+2509#Enciclopedia por Puntos Dragon
+2510#Templo de Guerra (Praderas Vendaval)#Templo Arenas (Desierto Astral)#Cueva del la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2511#Templo de Guerra (Praderas Vendaval)#Templo Arenas (Desierto Astral)#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2512#Ultramundo: Templo Alabastro (Colina Creciiente)#Ultrmaundo: Lumia (Arboleda Katakara)#Ultramundo:Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2513#Ultramundo: Templo Alabastro (Colina Creciiente)#Ultrmaundo: Lumia (Arboleda Katakara)#Ultramundo:Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2514#--- refinado
+2515#--- refinado
+2516#Abismo Infernal (Prederas Vendaval)#Enciclopedia por Puntos Dragon
+2517#Torre Celeste (Piso 9)
+2518#Abismo Remolino (Costa de Helonia)#Enciclopedia por Puntos Dragon
+2519#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2520#NPC Lugarteniente Fred en Navea
+2521#NPC Lugarteniente Fred en Navea
+2522#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2523#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2524#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+2525#--- refinado
+2526#Tore Celeste (Piso 24)#Enciclopedia por Puntos Dragon
+2527#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2528#NPC Lugarteniente Fred en Navea
+2529#Abismo Avaricia (Praderas Esmeralda)#Enciclopedi apor Puntos Dragon
+2530#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2531#--- refinado
+2532#NPC Lugarteniente Fred en Navea
+2533#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Ultramundo : Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+2534#Abismo Luminoso (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)#Caverna Bosque del Tiempo (Bosque Perpetuo)
+2535#Abismo Luminoso (Bosque Perpetuo)#Caverena Bosque del Tiempo (Bosque Perpetuo)#Ultramundo : Laboratorio de las Sarpias (Selva de Cascadas)#Ultramunod: Tumba Antigua (valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)
+2536#--- refinado
+2537#NPC Lugarteniente Fred en Navea

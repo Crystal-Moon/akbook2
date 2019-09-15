@@ -1,0 +1,38 @@
+﻿---> Grimorio ubicaciones
+2301#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+2302#--- refinado
+2303#Completar la mision "La peticion de Alvay" en Mina del Prodigio
+2304#Completar la mision "Detener el desastre" en Mina del Prodigio
+2305#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2306#NPC Maestro del Grimorio Holm en Navea#Enciclopedia por Puntos Dagon
+2307#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2308#--- refinado
+2309#Enciclopedoia por Puntos Dagon
+2310#Templo de Guerra (Praderas Vendaval)#Templo de las Arenas (Desierto Astral)#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2311#Templo de Guerra (Praderas Vendaval)#Templo de las Arenas (Desierto Astral)#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2312#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2313#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2314#--- refinado
+2315#--- refinado
+2316#Abismo Infernal (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2317#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2318#Torre Celeste (Piso 3)#Enciclopedia por Puntos Dragon
+2319#Abismo Remolino (Costa de Helonia)#Enciclopediia por Puntos Drragon
+2320#NPC Lugarteniente Fredn en Navea
+2321#NPC Lugarteniente Fred en Navea
+2322#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2323#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2324#Tundra Escarchada (Tundra Silenciosa)#Ultramundo:Cueva Sumergida (Cinaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+2325#--- refinado
+2326#Torre Celeste (Piso 22)#Enciclopedia por Puntos Dragon
+2327#NPC Lugarteniente Fred en Navea
+2328#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dagon
+2329#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2330#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dagon
+2331#--- refinado
+2332#NPC Lugarteniente Fred en Navea
+2333#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+2334#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2335#Abismo Luminoso (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo:Tumba Antigua (Valle cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado(Desierto Tempestuoso)
+2336#--- refinado
+2337#NPC Lugarteniente Fred en Navea

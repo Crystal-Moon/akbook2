@@ -1,0 +1,106 @@
+﻿---> Botin ubicaciones
+2001#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+2002#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+2003#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+2004#--- refinado
+2005#--- refinado
+2006#--- refinado
+2007#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2008#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2009#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2010#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2011#Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2012#Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2013#--- refinado
+2014#--- refoinaod
+2015#--- refinado
+2016#Jefe Sheralo, Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2017#Jefe Genbu, Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2018#jefe Algana, Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2019#jefe Shan, Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2020#jefe Hydracnoida, Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2021#jefe Argos, Grutad e Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2022#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2023#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2024#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2025#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2026#Encoclopedia por Puntos Dragon#Pesca
+2027#Enciclopedia por Puntos Dragon#Pesca#Arquelogia
+2028#Enciclopedia por Puntos Dragon#Pesa#Arqueologia
+2029#Enciclopedia por Puntos Dragon\#Pesca #Arqueologia
+2030#Enciclopedia por Puntos Dragon#Pesca#Arqueologia
+2031#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2032#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2033#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+2034#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+2035#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+2036#---refinado
+2037#--- refinado
+2038#-- refinado
+2039#--- refinado
+2040#--- refinado
+2041#Torre Celeste Piso 10#Enciclopedia por Puntos Dragon
+2042#Pez Dorado en puerto Skandia, Arboleda Katakara y Floresta Amanita#Enciclopedia por Puntos Dragon
+2043#Pez dorado en Praderas Vendaval, Humedal Aguasverdes, Valle de la Desolacion, Valle Cazacol y Desierto Tempestuoso#Enciclopedia por Puntos Dragon
+2044#Pez dorado en Bosque del Olvido, Altiplano Condor, Tundra Silenciosa y Praderas Esmeralda#Enciclopedia por Puntos Dragon
+2045#Pez dorado en Colina Creciente, Desierto Astral y Meseta del Meteoro#Enciclopedia por Puntos Dragon
+2046#Pez dorado en Costa Helonia, Cienaga Candeo y Morton#Enciclopedia por Puntos Dragon
+2047#Pez dorado en Mina del Prodigio, Altiplano del Juicio y Colina Coleus#Enciclopedia por Puntos Dragon
+2048#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2049#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2050#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2051#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2052#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2053#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2054#jefe Titan, Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2055#jefe Avidas, Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2056#jefe Rael, Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+2057#jefe Naemo, Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon 
+2058#jefe Segadora, Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2059#jefe Gainey, Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2060#Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por puntos Dragon
+2061#Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por puntos Dragon
+2062#Tundra Escarchada (Tundra Silenciosa)#Enciclopedia por puntos Dragon
+2063#--- refinado
+2064#--- refinado
+2065#--- refiando
+2066#Torre Celeste Piso 24#Enciclopedia por puntos Dragon
+2067#Torre Celeste Piso 22#Encuclopedia por Puntos Dragon
+2068#Torre Celeste Piso 23#Enciclopedia por Puntos Dragon
+2069#Torre Celeste Piso 24#Enciclopedia por Puntos Dragon
+2070#Torre Celeste Piso 25#Enciclopedia por Puntos Dragon
+2071#Cofre de Tesoros Reino Celeste
+2072#Cofre Tesoro Reino Celeste#Enciclopedia por Puntos Dragon
+2073#Cofre Tesoro Reino Celeste#Enciclopedia por Puntos Dragon
+2074#Cofre Tesoro Reino Celeste#Enciclopedia por puntos Dragon
+2075#Tienda Cronicas en Navea
+2076#Teinda de Cronica en Navea
+2077#Tienda de Cronicas en Navea
+2078#Tienda de Cronica en Navea
+2079#--- refinado
+2080#--- refinado
+2081#--- refiado
+2082#-- refinado
+2083#jefe Rabisu, Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+2084#jefe Manticora, Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+2085#jefe Keres, Bosque Crepuscular (Valle de la Desolacion)#Enciclopesia por Puntos Dragon
+2086#jefe Gandam, Laboratorio de las Sarpias (Selva de Cascadas)#Enciclopedia por Puntos Dragon
+2087#jefe Remko, Laboratorio de las Sarpias (Selva de Cascadas)#Enciclopedia por Puntos Dragon
+2088#jefe Fatima, Laboratorio de las Sarpias (Selva de Cascadas)#Enciclopedia por Puntos Dragon
+2089#jefe Beleg, Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+2090#jefe Gorka, Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+2091#jefe Zahr-Kazaal, Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+2092#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2093#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2094#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2095#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2096#--- refinado
+2097#--- refinado
+2098#--- refinado
+2099#--- erfinado
+2100#jefe Eonus,  Caverna Bosque del Tiempo (Bosque Perpetuo)
+2101#jefe Dagon, Caverna Bosque del Tiempo (Bosque Perpetuo)
+2102#jefe Winston,  Caverna Bosque del Tiempo (Bosque Perpetuo)
+2103#jefe Neqzal, Ultramundo Destrozado (Desierto Tempestuoso)
+2104#jefe Fatima, Ultramundo Destrozado (Desierto Tempestuoso)
+2105#jefe Delfi, Ultramundo Destrozado (Desierto Tempestuoso)

@@ -1,0 +1,38 @@
+﻿---> Lanza ubicaciones
+2301#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+2302#--- refinado
+2303#recompensa de mision 'La Peticion de Alvay' (Mina del Prodigio)
+2304#Recompensa de mision 'Detener el Desastre; (Mina del Prodigio)
+2305#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2306#Maestro de Lanza Wills en Navea#Enciclopedia por Puntos Dragon
+2307#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon#
+2308#--- refinado
+2309#Enciclopedia por Puntos Dragon
+2310#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2311#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2312#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2313#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2314#--- refinado
+2315#--- refinado
+2316#Abismo Infernal (Praderas Vendabal)#Enciclopedia por puntos Dragon
+2317#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)
+2318#Abismo Remolino (Costa de Helonia)#Enciclopedia por Puntos Dragon
+2319#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)
+2320#lugarteniente Fred en Navea
+2321#Lugarteniente Fred en Navea
+2322#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2323#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2324#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+2325#--- refinado
+2326#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)
+2327#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)
+2328#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2329#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)
+2330#--- refinado
+2331#Lugarteniente Fred en navea
+2332#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Emnciclopedia por Puntos Dragon
+2333#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+2334#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+2335#--- refinado
+2336#Lugarteniente Fred en Navea
+2337#Torre Celeste Pisos 36+

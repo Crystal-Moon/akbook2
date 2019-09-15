@@ -1,0 +1,39 @@
+﻿---> Lira stats
+1501#DMG + 5730#CRIT + 162#SPD + 169#HP + 705#Mover SPD + 5% #Cada uso de habilidad tiene un 5% de probabilidad de invocar al Viento del Océano, lo que reduce el daño recibido en un 3% durante 15 segundos para todos los aliados en un radio de 10 metros
+1502#DMG + 7844#CRIT + 238#SPD + 242#HP + 941#Mueve SPD + 5% de #daño recibido de los jefes -5% #Cada lanzamiento tiene un 8% de probabilidad de tararear una melodía melodiosa, lo que disminuye el daño recibido un 5% durante 15 segundos para todos los aliados en un radio de 10 metros
+1503#DMG + 7202#CRIT + 192#SPD + 198#HP + 802#Mueve SPD + 5% #Cada ataque tiene un 8% para zumbar una melodía innegable, lo que disminuye el daño recibido en un 4% para los aliados en rango durante 15 segundos
+1504#DMG + 5730#CRIT + 162#SPD + 169#HP + 705#Mueve SPD + 5%
+1505#DMG + 7202#CRIT + 214#SPD + 219#HP + 870#Mover SPD + 5% #Cada uso de habilidad tiene un 5% de probabilidad de cantar un Refrain musical, que recupera 341 HP por segundo durante 15 segundos para todos los aliados en un radio de 10 metros
+1506#DMG + 9220#CRIT + 290#SPD + 291#HP + 1091#Max HP + 5% #HEAL + 10% #Cada ataque tiene un 8% de probabilidad de invocar el poder de Randall, lo que reduce el daño recibido de los jefes en un 4% durante 15 segundos para los aliados en el rango
+1507#DMG + 8865#CRIT + 276#SPD + 278#HP + 1053#Mover SPD + 5% #Cada uso de habilidad tiene un 5% de probabilidad de cantar una canción principal, lo que aumenta la DEF en 184 y el EVA en 284 durante 15 segundos para todos los aliados en un radio de 10 metros
+1508#DMG + 11520#CRIT + 381#SPD + 376#HP + 1337#Mueve SPD + 5% de #daño recibido de los jefes -5% #Cada lanzamiento tiene un 8% de probabilidad de jugar el Vicissitune, lo que aumenta la DEF en 236 y el EVA en 363 para los objetivos amistosos dentro de los 10 metros durante 15 segundos
+1509#DMG + 10722#CRIT + 349#SPD + 346#HP + 1252#Mueve SPD + 5% #de daño de canción de tormenta + 25% #Cada uso de habilidad tiene un 10% de probabilidad de tocar una melodía relajante, que recupera 496 HP por segundo durante 15 segundos para los aliados en el rango
+1510#DMG + 10722#CRIT + 349#SPD + 346#HP + 1252#Mueve SPD + 5% #Cada uso de habilidad tiene un 5% de probabilidad de recitar un Poema romántico, lo que aumenta el SPD en 407 y la Potencia de curación en 397 durante 15 segundos
+1511#DMG + 10722#CRIT + 381#SPD + 291#HP + 1337#Máx. HP + 5% #Cada uso de habilidad tiene un 5% de probabilidad de realizar un Baile Ritual, que disminuye el daño recibido en un 3% durante 15 segundos para todos los aliados en un radio de 10 metros
+1512#DMG + 12779#CRIT + 433#SPD + 425#HP + 1498#Move SPD + 5% #Cada lanzamiento tiene un 5% de probabilidad de tocar una Melodía alegre, que recupera 585 HP por segundo durante 15 segundos para todos los aliados en un radio de 10 metros
+1513#DMG + 12779#CRIT + 470#SPD + 361#HP + 1622#HP máx. + 5% #Cada lanzamiento tiene un 5% de probabilidad de recitar Poesía Marina, lo que aumenta el SPD en 960 durante 15 segundos
+1514#DMG + 16006#CRIT + 572#SPD + 552#HP + 1962#Mueve SPD + 5% de #daño recibido de los jefes -5% #Cada uso de habilidad tiene un 8% de probabilidad de cantar la Melodía de la Luna, que recupera 720 HP por segundo durante 15 segundos para todos los aliados en un radio de 10 metros
+1515#DMG + 16006#CRIT + 616#SPD + 476#HP + 2110#Max HP + 5% de #daño recibido de los jefes -5% #Cada uso de habilidad tiene un 8% de probabilidad de llevar a cabo la Sinfonía de Poseidón, lo que aumenta el SPD en 1183 durante 15 segundos
+1516#DMG + 13659#CRIT + 470#SPD + 459#HP + 1622#HP máx. + 8% #SPD +271 #Potencia de curación + 10% #Tus habilidades tienen un 8% de probabilidad de activar Song of Flames. Otorga a los aliados en un radio de 10 metros + 20% de daño contra objetivos de hielo durante 15 segundos.
+1517#DMG + 17005#CRIT + 616#SPD + 593#HP + 2110#Máx. HP + 5% #Radio de armonía de curación + 3m #Cada uso de habilidad tiene un 8% de probabilidad de obtener la Protección de Gaia, lo que aumenta el SPD en 1000 y la Potencia de curación en 610 durante 15 segundos
+1518#DMG + 17005#CRIT + 616#SPD + 477#HP + 2110#Max HP + 5% de #rango de tonos de curación +5 metros #Cada uso de habilidad tiene un 8% de probabilidad de tocar una Melodía apasionada, lo que aumenta el DMG en un 3% durante 15 segundos para los aliados en un radio de 10 m
+1519#DMG + 17005#CRIT + 572#SPD + 552#HP + 1962#HP + 8% #de habilidad de Sanación de la armonía curativa + 15% #50% de bonificación Objetivos de los atributos de Daño a la Llama #Cada lanzamiento tiene un 5% de probabilidad de tocar la Canción de las Rosas, que recupera 762 CV por segundo durante 15 segundos para los aliados en un radio de 10 m
+1520#DMG + 11520#CRIT + 381#SPD + 376#HP + 1337#Max HP + 5% #ACC + 10% #Daño recibido de jugadores -10% #Daño contra jugadores + 25%
+1521#DMG + 16006#CRIT + 572#SPD + 552#HP + 1962#Max HP + 5% #ACC + 10% #Daño recibido de jugadores -10% #Daño contra jugadores + 25%
+1522#DMG + 15042#CRIT + 530#SPD + 513#HP + 1821#Mueve SPD + 5% #5% de probabilidad de activar Godfire Melody al usar una habilidad, lo que aumenta el SPD en 559 y la Potencia de curación en 545 durante 15 segundos.
+1523#DMG + 15042#CRIT + 572#SPD + 441#HP + 1962#Máx. De HP + 5% #5% de probabilidad de activar Aura's Mist al usar habilidades, que es de 660 HP por segundo para todos los miembros del grupo dentro de los 10 metros durante 15 segundos.
+1524#DMG + 17517#CRIT + 639#SPD + 614#HP + 2186
+1525#DMG + 21347#CRIT + 815#SPD + 774#HP + 2774#DMG recibido de Boss Monsters y Elite Monsters -5% #DMG repartido a Boss Monsters + 10%
+1526#DMG + 22521#CRIT + 929#SPD + 726#HP + 3152#DMG + 6% para Armas de arpa #"Tonos de curación" G-Healing + 10%
+1527#DMG + 21347#CRIT + 815#SPD + 774#HP + 2774#HP + 8% #ACC + 10% #DMG recibido de los jugadores oponentes se reduce en un 15%. El #daño causado a los jugadores oponentes aumenta un 30%
+1528#DMG + 22521#CRIT + 871#SPD + 825#HP + 2959#Máx. HP + 3%. #El daño de arma de arpa pequeña aumenta un 3%. El #nivel de habilidad de "Balada" aumenta un 5.
+1529#DMG + 20208#CRIT + 762#SPD + 726#HP + 2597
+1530#DMG + 23122#CRIT + 900#SPD + 851#HP + 3054
+1531#DMG + 27585#CRIT + 1021#SPD + 1118#HP + 3779#DMG recibido de Boss y Elite Monsters -5%. #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+1532#DMG + 27585#CRIT + 1118#SPD + 1048#HP + 3779#HP + 10% #ACC + 15% #DMG recibido de jugadores enemigos -18% #DMG + 35% contra jugadores enemigos
+1533#DMG + 28944#CRIT + 1187#SPD + 1109#HP + 4005#Max HP + 5% #Harp DMG + 8% #Duración de "Balada" +5 seg. #PEN + 10%
+1534#DMG + 26263#CRIT + 1053#SPD + 989#HP + 3562
+1535#DMG + 29638#CRIT + 1222#SPD + 1141#HP + 4122
+1536#DMG + 34765#CRIT + 1487#SPD + 1379#HP + 4998#DMG recibido de Boss y Elite Monsters -8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+1537#DMG + 34765#CRIT + 1487#SPD + 1379#HP + 4998#HP + 12% #ACC + 20% #DMG recibido de jugadores oponentes -20% #DMG Dealt to Opposing Players + 40%
+1538#DMG + 36318#CRIT + 1569#SPD + 1452#HP + 5269#El Arma Arpa DMG tiene un + 10% #Nivel de habilidad de arpa +3 #Al lanzar Ambient Drone, los objetivos reciben el efecto Siren Swirl. DMG tomado de Ambient Drone, Storm Song y Blissful Harmony + 20%, dura 6 segundos #PEN + 12%

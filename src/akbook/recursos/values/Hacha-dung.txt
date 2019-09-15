@@ -1,0 +1,38 @@
+﻿---> Hacha ubicaciones
+2401#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+2402#--- refinado
+2403#Completar la mision "La peticion de Alvay" en Mina del Prodigio
+2404#Completar la mision "Detener el Desastre" en Mina del Prodigio
+2405#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2406#NPV maestro de Hachas Harim en Navea
+2407#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2408#--- refinado
+2409#Enciclopedia por Puntos Dragon
+2410#Templo de Guerra (Praderas Vendaval)#Cueva de la Lagrima (Cienaga Candeo)#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+2411#Templo de Guerra (Praderas Vendaval)#Cueva de la Lagrima (Cienaga Candeo)#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+2412#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2413#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2414#--- refinado
+2415#--- refinado
+2416#Abismo Infernarl (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2417#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2418#Torre Celeste (Piso 8)#Enciclopedia por Puntos Dragon
+2419#Abismo Remolino  (Costa de Helonia)#Enciclopedia por Puntos Dragon
+2420#NPC Lugrateniente Fred en Navea
+2421#NPC Lugarteniente Fred en Navea
+2422#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2423#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Encilopedia por Puntos Dragon
+2424#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+2425#--- refinado
+2426#Torre Celeste (Piso 25)#Enciclopedia por Puntos Dragon
+2427#NPC Lugarteniente Fred en Navea
+2428#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)3Enciclopedia por Puntos Dragon
+2429#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2430#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2431#--- refinado
+2432#NPC Lugarteniente Fred en Navea
+2433#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle cazacol)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+2434#Abismo Luminoso (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destruzado (Desierto Tempestuoso)
+2435#Abismo Luminoso (Bosque Perpetuo)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)
+2436#--- refinado
+2437#NPC Lugarteniente Fred en Navea

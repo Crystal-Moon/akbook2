@@ -1,0 +1,38 @@
+﻿---> Guadana ubicaciones
+2601#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+2602#--- refinado
+2603#Completar la mision "La peticion de Alvay" en Mina del Prodigio
+2604#completar ,la mision "Detener el desastre" en Mina del Prodigio
+2605#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2606#NPC Maestra de Guadaña Audy en Navea
+2607#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2608#--- refinado
+2609#Enciclopedia por Puntos Dragon
+2610#Cueva de la Lagrima (Bosque del Olvido)#Templo arenas (Desierto Astral)#Templo de Guerra (Praderas Vemndaval)#Enciclopedia por Puntos Dragon
+2611#Cueva de la Lagrima (Bosque del Olvido)#Templo arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2612#Ultramundo Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2613#Ultramundo Lumia (Arboleda Katakara)#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2614#--- refionado
+2615#--- refinado
+2616#Abismo Infernal (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2617#Torre Celeste (Piso 9)#Encicloepdia por Puntos Dragon
+2618#Abismo Remolino (Costa de Helonia)
+2619#Ultramundo: Templo Alabasrtro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Draogn
+2620#NPC Lugarteniente Fred en Navea
+2621#NPC Lugarteniente Fred en Navea
+2622#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2623#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)\#Enciclopedia por Puntos Dragon
+2624#Tundra Escarchada (Tunda Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+2625#--- reifnado
+2626#Torre Celeste (Piso 22)#Enciclopedia por Puntos Dragon
+2627#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2628#NPC Lugarteniente Fred en Navea
+2629#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2630#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2631#--- refinado
+2632#NPC Lugarteniente Fred en Navea
+2633#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+2634#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+2635#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramuno Destrozado (Desierto Tempestuoso)
+2636#-- refinado
+2637#NPC Lugarteniente Fred en Navea

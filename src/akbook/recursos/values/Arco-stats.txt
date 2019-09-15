@@ -1,0 +1,37 @@
+﻿---> Arco stats
+2101#DMG +7869#CRIT +162#SPD +169#EVA +242#SPD +5% #Al atacar tienes un 5% de probabilidad de activar Pluma Escarlata, que inflige 852 de daño por segundo durante 15 segundos.
+2102#DMG +10773#CRIT +238#SPD +242#EVA +351#SPD +5%#Daño contra jefes +10%#Cada ataque tiene un 8% de probabilidad de activar Flecha Argentea, que inflige 1233 de daño por segundo durante 15 segundos.
+2103#DMG +10773#CRIT +238#SPD +242#EVA +351#SPD +5%#Cada ataque tiene un 8% de activar Poder de la Diosa, lo que aumenta el DMG en 1820 durante 15 segundos.
+2104#DMG +9052#CRIT +192#SPD +198#EVA +285#SPD +5%
+2105#DMG +9891#CRIT +214#SPD +219#EVA +317#SPD +5%#Cada ataque tiene un 5% de probabilidad de liberar el Abrazo Nocturno, lo que aumenta el SPD en 560 durante 15 segundos.
+2106#DMG +11696#CRIT +263#SPD +266#EVA +387#DMG +5%#+5% de daño para todas las habilidades de atributo Luz#Cada ataque tiene un 8% de probabilidad de activar Fuerza de Berlin, que inflige 1436 de daño por segundo durante 15 segundos.
+2107#DMG +12174#CRIT +276#SPD +278#EVA +405#SPD +5%#Cada ataque tiene un 5% de probabilidad de activar Poderes Secretos, que inflige daño adicional.
+2108#DMG +15821#CRIT +381#SPD +376#EVA +554#SPD +5%#daño contra los jefes + 10%#Cada ataque tiene un 5% de probabilidad de activar Poderes Secretos, que inflige daño adicional.
+2109#DMG +14193#CRIT +334#SPD +332#EVA +487#SPD +5%#Aumenta el DMG de "Flecha de la Luz" en un 25%#Cada ataque tiene un 8% de probabilidad de entregar la Bendición de la Naturaleza, lo que aumenta el SPD en 814 durante 15 segundos.
+2110#DMG +14724#CRIT +349#SPD +346#EVA +508#SPD +5%#Cada ataque tiene un 5% de probabilidad de envolver al objetivo en una Pesadilla Interminable, que inflige 1655 de daño por segundo durante 15 segundos.
+2111#DMG +14724#CRIT +381#SPD +291#EVA +554#SPD mov. +5%#Cada ataque tiene un 5% de probabilidad de activar Poder del Rey Dragon, lo que aumenta el DMG en un 5% durante 15 segundos.
+2112#DMG + 17550#CRIT +433#SPD +424##EVA +627#SPD +5%#Cada ataque tiene un 5% de probabilidad de incantar una Bendición del Cristal Galacial, lo que aumenta el SPD en 960 durante 15 segundos.
+2113#DMG + 17550#CRIT +470#SPD +361#EVA +679#SPD mov. +5%#Cada ataque tiene un 5% de probabilidad de activar In Temor, lo que aumenta el DMG en 3120 durante 15 segundos.
+2114#DMG +21982#CRIT +572#SPD +552#EVA +821#SPD +5%#daño contra jefes +10%#Cada ataque tiene un 8% de probabilidad de activar Magia de Cristal Oscuro, lo que aumenta el SPD en 1183 durante 15 segundos.
+2115#DMG +21982#CRIT +616#SPD +476#EVA +883#SPD mov. +5%#daño contra los jefes +10%#Cada ataque tiene un 8% de probabilidad de otorgar la Bendición de Valkiria, lo que aumenta el DMG en 3846 durante 15 segundos.
+2116#DMG +20013#CRIT +509#SPD +495#EVA +734#El HP máx. +8%#DMG se incrementa en un 10% de SPD.#50% de bonificación Daño al hielo.#Cada ataque tiene un 8% de probabilidad de otorgar Poder del Dios del Fuego, que causa 2074 de daño por segundo durante 15 segundos.
+2117#DMG +23353#CRIT +616#SPD +593#EVA +883#SPD +5%#daño de habilidad de Disparo triple +20%#Cada ataque tiene un 8% de probabilidad de invocar Diana Magica, que inflige 1274 de daño por segundo durante 15 segundos.
+2118#DMG +23353#CRIT +662#SPD +513#EVA +948#Máx. HP +8%#daño de la habilidad Flecha Vitrea +30%#50% de bonificación Daño a los objetivos de fuego#Cada ataque tiene un 8% de probabilidad de invocar Poder del Leviatan, lo que aumenta el DMG en 4066 durante 15 segundos.
+2119#DMG +23353#CRIT +616#SPD +593#EVA +883#Máx. De HP +5%#Daño crítico de Lluvia de flechas +30%#Cada ataque tiene un 5% de probabilidad de pasar por Múltiples dimensiones, lo que inflige daño adicional.
+2120#DMG +15821#CRIT +381#SPD +376#EVA +554#SPD +5%#PRE +10%#Tasa CRIT contra jugadores +10%#Daño contra jugadores +25%
+2121#DMG +21982#CRIT +572#SPD +552#EVA +821#SPD +5%#PRE +10%#Tasa CRIT contra jugadores +10%#Daño contra jugadores +25%
+2122#DMG +20658#CRIT +530#SPD +513#EVA +762#SPD +5%#5% de probabilidad de activar 'Herida Sangrante' cuando atacas, lo que reparte 2269 DPS continuos durante 15 segundos.
+2123#DMG +20658#CRIT +572#SPD +441#EVA +821#SPD mov. +5%#5% de probabilidad de activar Glamour Maligno cuando atacas, lo que aumenta el SPD en 1117 durante 15 segundos.
+2124#DMG +24057#CRIT +639#SPD +614#EVA +915
+2125#DMG +29316#CRIT +815#SPD +774#EVA +1161#CRIT DMG contra monstruos Jefe +25%#DMG contra monstruos Jefe +10%
+2126#DMG +30929#CRIT +929#SPD +726#EVA +1319#DMG +6%#habilidad Tiro corrosivo +5
+2127#DMG +30929#CRIT +871#SPD +825#EVA +1239#Máx. HP +3%#Daño con arco +3%#El daño de "Disparo dimensional" aumenta un 20%
+2128#DMG +29316#CRIT +815#SPD +774#EVA +1161#SPD +8%#PRE +10%#Tasa CRIT contra jugadores se incrementa en un 15%#El daño causado a los jugadores oponentes aumenta un 30%
+2129#DMG +27753#CRIT +762#SPD +726#EVA +1087
+2130#DMG +31754#CRIT +900#SPD +851#EVA +1279
+2131#DMG +37884#CRIT +1118#SPD +1048#EVA +1582#CRIT DMG a monstruos Jefe +25%#DMG a monstruos Jefe +10%.#Nivel de habilidad con armas +1#Penetracion + 10%
+2132#DMG +37884#CRIT +1118#SPD +1048#EVA +1582#SPD +10%#PRE +15%#CRIT +20% contra jugadores#DMG +35% contra jugadores
+2133#DMG +39750#CRIT +1187#SPD +1109#EVA +1677#HP máx. +5%#DMG con arco +8%#Duración de "Bendición de los vientos" +5 seg.#Penetracion + 10%
+2134#DMG +36069#CRIT +1053#SPD +989#EVA +1491
+2135#DMG +40703#CRIT +1222#SPD +1141#EVA +1725
+2136#DMG +47744#CRIT +1487#SPD +1379#EVA +2092#CRIT DMG en Boss Monsters +30%#DMG contra Boss Monsters +10%#Nivel de habilidad con armas+2#Penetracion +12%

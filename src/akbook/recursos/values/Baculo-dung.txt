@@ -1,0 +1,37 @@
+﻿---> Baculo ubicaiones
+2101#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+2102#---Refinado
+2103#Completar la mision "La peticion de Alvay" (Mina del Prodigio)#NPC Cazafantasmas Kyros en Navea
+2104#Completar la mision "Detener el desastre" (Mina del Prodigio)
+2105#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2106#NPC Maestro del Baculo Fonos en Navea#Enciclopedia por Puntos Dragon
+2107#Gruta de Argos (Altiplano del Juicio)#Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+2108#---Refinado
+2109#NPC Maestro del Arco Berlin en Navea#Enciclopedia por Puntos Dragon
+2110#Templo de Guerra (Praderas Vendaval)#Templo Arenas (Desierto Astral)#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2111#Templo de Guerra (Praderas Vendaval)#Templo Arenas (Desierto Astral)#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2112#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2113#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2114#--- Refinado
+2115#--- Refinado
+2116#Abismo Infernal#Enciclopedia por Puntos Dragon
+2117#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+2118#Torre Celeste (piso 2)#Enciclopedia por Puntos Dragon
+2119#Abismo remolino#Enciclopedia por Puntos Dragon
+2120#NPC lugarteniente Fred en Navea
+2121#NPC lugarteniente Fred en Navea
+2122#Raiz del titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2123#Raiz del Titan (Floresta Amanita)#Secreto de Cadilia (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+2124#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+2125#--- Refinado
+2126#Torre Celeste (piso 23)#Enciclopedia por Puntos Dragon
+2127#NPC lugarteniente Fred en Navea
+2128#Ultramundo: Cueva de Argos (Altiplano del Juicio)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+2129#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+2130#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2131#--- Refinado
+2132#NPC lugarteniente Fred en Navea
+2133#Laboratorio de las Sarpias(Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Ultramundo: Bosque Crepuscular (Valle de la Desolaciuon)#Enciclopedia por Puntos Dragon
+2134#Caverna de la Cronologia (Bosque Perpetuo)#Abismo luminoso (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)
+2135#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo destrozado (Desierto tempestuoso)
+2136#--- refinado

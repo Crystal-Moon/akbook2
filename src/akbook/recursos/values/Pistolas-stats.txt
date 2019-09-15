@@ -1,0 +1,39 @@
+﻿--> pistolas stats
+1901#DMG + 6112#CRIT + 182#SPD + 169#EVA + 216#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar la Línea de fuego, lo que aumenta el DMG en 1466 durante 15 segundos
+1902#DMG + 8367#CRIT + 263#SPD + 242#EVA + 317#Mueve SPD + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de superar el motín, lo que aumenta el DMG en 1974 durante 15 segundos
+1903#DMG + 7683#CRIT + 214#SPD + 198#EVA + 256#Mueve SPD + 5% #Cada ataque tiene un 8% de probabilidad de disparo de Red Hot Barrels, lo que aumenta el DMG en 1820 durante 15 segundos.
+1904#DMG + 6112#CRIT + 182#SPD + 169#EVA + 216#Mueve SPD + 5%
+1905#DMG + 7683#CRIT + 238#SPD + 219#EVA + 285#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar Craftiness, lo que aumenta el SPD en 560 durante 15 segundos
+1906#DMG + 9835#CRIT + 319#SPD + 291#EVA + 387#DMG +5%#2% of Damage dealt is absorbed as HP#Every attack has an 8% chance to call upon Turin's Power, which increases DMG by 2298 for 15 seconds
+1907#DMG + 9456#CRIT + 304#SPD + 278#EVA + 368#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar Ten Paces, lo que aumenta el DMG en un 5% durante 15 segundos
+1908#DMG + 12288#CRIT + 415#SPD + 376#EVA + 508#Mueve SPD + 5% de #daño de crítico contra jefes + 25% #Cada ataque tiene un 8% de probabilidad de activar un robo rápido, lo que aumenta el DMG en un 6% durante 15 segundos
+1909#DMG + 11436#CRIT + 381#SPD + 346#EVA + 465#Mueve SPD + 5% #Daño de crítico con disparo de puntería + 50% #Cada ataque tiene un 8% de probabilidad de impartir Rapidez, lo que aumenta el SPD en 814 durante 15 segundos
+1910#DMG + 11436#CRIT + 381#SPD + 346#EVA + 465#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar In The Back, lo que aumenta el CRIT en 815 durante 15 segundos
+1911#DMG + 11436#CRIT + 415#SPD + 291#EVA + 508#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de hacer sonar la Bugle Call, lo que aumenta el CRIT DMG en un 25% durante 15 segundos
+1912#DMG + 13631#CRIT + 470#SPD + 425#EVA + 578#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de oprimir a la gente, lo que aumenta el SPD en 960 durante 15 segundos
+1913#DMG + 13631#CRIT + 509#SPD + 361#EVA + 627#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de saqueo y saqueo, lo que inflige daño adicional
+1914#DMG + 17074#CRIT + 616#SPD + 552#EVA + 762#Mueve SPD + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de dar un paso antes, lo que aumenta el SPD en 1183 durante 15 segundos
+1915#DMG + 17074#CRIT + 662#SPD + 476#EVA + 821#CRIT + 3% de #daño crítico contra jefes + 25% #Cada ataque tiene un 8% de probabilidad de encender una Llama destructiva, que inflige daño adicional
+1916#DMG + 14570#CRIT + 509#SPD + 459#EVA + 627#Máx HP + 8% #Nivel de habilidad de Trampa de destello oscuro +5 #Daño + 50% a objetivos de Atributo de hielo #Cada uso de habilidad tiene un 8% de probabilidad de invocar el Fuego infernal, lo que aumenta el DMG en 1659 y el CRIT en 510 durante 15 segundos
+1917#DMG + 18138#CRIT + 662#SPD + 593#EVA + 821#Máx. De HP + 5% de #daño de Disparo dirigido + 20% #Cada ataque tiene un 8% de probabilidad de activar Eagle Flight, lo que aumenta el DMG en 4066 durante 15 segundos
+1918#DMG + 18138#CRIT + 662#SPD + 477#EVA + 821#CRIT + 3% #Crit Rate of Bombardment + 8% #Cada ataque tiene un 8% de probabilidad de disparar una bala de plaga, lo que aumenta el CRIT DMG en un 35% durante 15 segundos
+1919#DMG + 18138#CRIT + 616#SPD + 552#EVA + 762#Máx. HP + 5% #Absorbe 2% del daño infligido como HP #50% de bonificación Daño a los objetivos de las llamas #Cada ataque tiene un 8% de probabilidad de activar Deepsea Fury, lo que aumenta el CRIT en 1251 durante 15 segundos
+1920#DMG + 12288#CRIT + 415#SPD + 376#EVA + 508#Mueve SPD + 5% #ACC + 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
+1921#DMG + 17074#CRIT + 616#SPD + 552#EVA + 762#Mueve SPD + 5% #ACC + 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
+1922#DMG + 16045#CRIT + 572#SPD + 513#EVA + 706#Mueve SPD + 5% #5% de probabilidad de activar la Gracia de Hearth cuando atacas, lo que aumenta el CRIT en 1117 durante 15 segundos.
+1923#DMG + 16045#CRIT + 616#SPD + 441#EVA + 762#CRIT + 3% #5% de probabilidad de infligir mayores cantidades de DMG al atacar.
+1924#DMG + 18685#CRIT + 686#SPD + 614#EVA + 852
+1925#DMG + 22770#CRIT + 871#SPD + 774#EVA + 1087#CRIT DMG contra Boss Monsters + 25% #DMG otorgado a Boss Monsters + 10%
+1926#DMG + 24023#CRIT + 990#SPD + 726#EVA + 1239#DMG + 6% para el arma de doble pistola #"Sonic Bomb" CRIT DMG + 20%
+1927#DMG + 22770#CRIT + 871#SPD + 774#EVA + 1087#Mover SPD + 8% #ACC + 10% #CRIT La tasa contra jugadores oponentes se incrementa en un 15% El #daño infligido a jugadores oponentes aumenta un 30%
+1928#DMG + 24023#CRIT + 929#SPD + 825#EVA + 1161#Máx. HP + 3%. #Daño de arma de pistolas duales aumenta un 3%. #Daño de "Bombardeo" aumenta un 20%
+1929#DMG + 21556#CRIT + 815#SPD + 726#EVA + 1016
+1930#DMG + 24663#CRIT + 959#SPD + 851#EVA + 1200
+1931#DMG + 29424#CRIT + 1187#SPD + 1048#EVA + 1491#CRIT DMG a Boss Monsters + 25% #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+1932#DMG + 29424#CRIT + 1187#SPD + 1048#EVA + 1491#Mueve SPD + 10% #ACC + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
+1933#DMG + 30874#CRIT + 1258#SPD + 1109#EVA + 1582#Max HP + 5% #Pistolas dobles DMG + 8% #DMG de "Sonic Bomb" + 15% #PEN + 10%#
+1934#DMG + 28014#CRIT + 1118#SPD + 989#EVA + 1404
+1935#DMG + 31614#CRIT + 1294#SPD + 1141#EVA + 1629
+1936#DMG + 37083#CRIT + 1569#SPD + 1379#EVA + 1983#CRIT DMG a Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+1937#DMG + 37083#CRIT + 1569#SPD + 1379#EVA + 1983#Mueve SPD + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt a jugadores opuestos + 40%
+1938#DMG + 38739#CRIT + 1654#SPD + 1452#EVA + 2092#Dual Pistols Weapon DMG se incrementa en un 10%. #Dual Pistols Skill Level +3 #al lanzar Tiro Apuntado, recibe el estado de Gun de Sharpshooter, aumenta la Tasa de CRIT y el máximo CRIT DMG en un 20%, dura 4 segundos #PEN + 12%

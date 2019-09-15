@@ -1,0 +1,39 @@
+﻿---> Pistolas ubicaciones
+1901#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+1902#-- refiando
+1903#Recompensa de mision "la peticion de Alvay" (Mina del Prodigio)
+1904#Recompensa de mision "Detener el Desastre" (Minas del Prodigio)
+1905#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1906#Maestro de las Pistolas Turin en navea#Enciclopedia por Putos Dragon
+1907#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1908#--- refinado
+1909#Enciclopedi apor Puntos Dragon
+1910#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1911#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1912#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1913#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1914#--- refinado
+1915#---refinado
+1916#Abismo Infernal (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1917#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)
+1918#Torre Celeste Piso 9#Enciclopedia por Puntos Dragon
+1919#Abismo Remolino (Costa de Helonia)#Enciclopedia por Puntos Dragon
+1920#Lugarteniente Fred en Navea
+1921#Lugarteniente Fred en Navea
+1922#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1923#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1924#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1925#---refinado
+1926#Torre Celeste Piso 23#Enciclopedia por Puntos Dragon
+1927#Lugarteniente Fred en Navea
+1928#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+1929#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
+1930#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+1931#--- refinado
+1932#Lugarteniente Fred en navea
+1933#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1934#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverda Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+1935#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1936#--- refinado
+1937#Lugarteniente Fred en navea
+1938#Torre Celeste Piso 36

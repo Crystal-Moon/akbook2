@@ -1,0 +1,65 @@
+﻿---> Espalda stats
+3701#SPD + 131#HP + 555#EVA + 191#Max HP + 1%
+3702#DMG + 444#CRIT + 156#HP + 484#DMG + 1%
+3703#CRIT + 143#SPD + 131#EVA + 228#EVA + 1%
+3704#SPD + 131#HP + 555#EVA + 191#Max HP + 1% #Daño recibido de jugadores -3%
+3705#DMG + 444#CRIT + 156#HP + 484#DMG + 1% #Daño sufrido por los jugadores -2% #Daño crítico contra jugadores + 3%
+3706#SPD + 149#HP + 616#EVA + 218#Max HP + 1%
+3707#DMG + 504#CRIT + 178#HP + 537#DMG + 1%
+3708#CRIT + 163#SPD + 148#EVA + 258#EVA + 1%
+3709#DEF + 105#CRIT + 178#EVA + 258#Max HP + 3% #Daño crítico causado -5%
+3710#DMG + 462#SPD + 161#HP + 668#DMG + 3% #CRIT DMG + 4%
+3711#DMG + 546#CRIT + 194#EVA + 237#EVA + 3% #CRIT DMG + 8%
+3712#DEF + 152#DMG + 686#HP + 904#Daño de habilidades de llamas + 15%
+3713#DEF + 152#DMG + 686#HP + 904#Daño de habilidades de hielo + 8%
+3714#DEF + 152#DMG + 738#HP + 841#DMG + 1%
+3715#DEF + 152#DMG + 686#HP + 904#Max HP + 2%
+3716#DEF + 152#DMG + 738#HP + 841#CRIT + 2%
+3717#DEF + 152#DMG + 686#HP + 904#CRIT DMG + 10%
+3718#SPD + 197#HP + 751#EVA + 269#Max HP + 1% #Daño recibido de jugadores -3%
+3719#DMG + 613#CRIT + 218#HP + 642#DMG + 1% #Daño recibido de jugadores -2% #Daño crítico contra jugadores + 3%
+3720#SPD + 220#HP + 904#EVA + 406#EVA + 2%
+3721#DMG + 738#SPD + 254#HP + 841#SPD + 2%
+3722#DMG + 738#CRIT + 305#HP + 841#CRIT + 2%
+3723#DMG + 686#HP + 971#EVA + 379#Max HP + 2%
+3724#DMG + 765#CRIT + 294#SPD + 245
+3725#SPD + 189#HP + 937#EVA + 392
+3726#DMG + 970#CRIT + 373#SPD + 311
+3727#SPD + 245#HP + 1189#EVA + 498
+3728#SPD + 220#HP + 1076#EVA + 451
+3729#DMG + 878#CRIT + 338#SPD + 282
+3730#SPD + 245#HP + 1189#EVA + 498#Max HP + 1% #EVA + 1% #SPD + 1% #DMG recibido de jugadores -6% #Tasa CRIT contra jugadores + 2%
+3731#DMG + 970#CRIT + 373#SPD + 311#DMG + 1% #CRIT + 1% #SPD + 1% #Daño recibido de jugadores -5% #Daño crítico contra jugadores + 15%
+3732#DEF + 159#DMG + 1035#CRIT + 398#SPD + 332
+3733#DEF + 199#SPD + 263#HP + 1268#EVA + 531
+3734#DMG + 1137#CRIT + 411#SPD + 321
+3735#SPD + 254#HP + 1393#EVA + 548
+3736#SPD + 365#HP + 1309#EVA + 514
+3737#DMG + 1069#CRIT + 437#SPD + 321
+3738#DMG + 1401#CRIT + 509#SPD + 399
+3739#SPD + 321#HP + 1717#EVA + 678
+3740#SPD + 449#HP + 1620#EVA + 639
+3741#DMG + 1322#CRIT + 539#SPD + 399
+3742#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3743#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3744#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3745#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3746#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3747#DEF + 233#SPD + 342#HP + 1817#EVA + 719
+3748#SPD + 342#HP + 1620#EVA + 678#HP máx. + 2% #EVA + 2% #SPD + 2% #DMG recibido de jugadores -8% #CRIT contra jugadores + 5%
+3749#DMG + 1322#CRIT + 509#SPD + 424#DMG + 2% #CRIT + 2% #SPD + 2% #DMG recibido de jugadores -7% #CRIT DMG contra jugadores +20%
+3750#SPD + 311#HP + 1268#EVA + 565#EVA + 2%
+3751#DMG + 1035#SPD + 353#HP + 1189#SPD + 2%
+3752#DMG + 1322#HP + 1817#EVA + 719#Max HP + 2%
+3753#DMG + 1401#CRIT + 571#HP + 1620#CRIT + 2%
+3754#DEF + 233#SPD + 475#HP + 1717#EVA + 678
+3755#DMG + 1526#CRIT + 555#SPD + 436
+3756#SPD + 353#HP + 1869#EVA + 739
+3757#SPD + 489#HP + 1766#EVA + 698
+3758#DMG + 1442#CRIT + 587#SPD + 436
+3759#DMG + 1843#CRIT + 673#SPD + 531
+3760#SPD + 436#HP + 2258#EVA + 897
+3761#SPD + 591#HP + 2142#EVA + 850
+3762#DMG + 1749#CRIT + 709#SPD + 531
+3763#SPD + 462#HP + 2142#EVA + 897#HP máx. + 3% #EVA + 3% #SPD + 3% #DMG tomado de jugadores  -10% #Tasa CRIT contra jugadores +10%
+3764#DMG + 1749#CRIT + 673#SPD + 560#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores -8% #CRIT DMG contra jugadores +25%

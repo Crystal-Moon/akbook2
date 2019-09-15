@@ -1,0 +1,38 @@
+﻿---> Guadana stats
+2601#DMG + 7792#CRIT + 182#SPD + 135#HP + 769#Máx HP + 5% 5% de probabilidad de activar Sombra Lunar Distorcionada cuando atacas, lo que reparte 682 DPS continuos y convierte el 30% del DMG en HP recuperado. Efectivo durante 15 segundos.
+2602#DMG + 10668#CRIT + 263#SPD + 198#HP + 1015#Máximo HP + 5% #DMG contra los jefes + 10% #8% de probabilidad de activar Estocada Gelida cuando atacas, lo que reparte 986 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2603#DMG + 10668#CRIT + 263#SPD + 198#HP + 1015#Máx HP + 5% #8% de probabilidad de activar Oscuridad Fatal al atacar, que reparte 986 DPS continuos y convierte el 30% del DMG en HP recuperado. Efectivo durante 15 segundos.
+2604#DMG + 8964#CRIT + 214#SPD + 160#HP + 870#Máx. De HP + 5% #5% de probabilidad de activar la Maldición de Ritual al atacar, lo que permite 816 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2605#DMG + 9795#CRIT + 238#SPD + 178#HP + 941#Máx HP + 5% #5% de probabilidad de activar labendicion Marina cuando atacas, lo que aumenta el DMG en 1820 durante 15 segundos.
+2606#DMG + 11583#CRIT + 290#SPD + 219#HP + 1091#HP máx. + 5% #Convierte 2% de DMG recibido en HP recuperado. #8% de probabilidad de activar Golpe Magnífico al atacar, lo que genera mayores cantidades de DMG.
+2607#DMG + 12056#CRIT + 304#SPD + 230#HP + 1130#Máx HP + 5% #5% de probabilidad de activar la Fuerza Indomable cuando atacas, lo que aumenta el CRIT en 682 durante 15 segundos.
+2608#DMG + 15668#CRIT + 415#SPD + 318#HP + 1438#Máximo HP + 5% #CRIT DMG contra los jefes + 25% #8% de probabilidad de activar la Fuerza de Colmillo Blanco al atacar, lo que aumenta el CRIT en 871 durante 15 segundos.
+2609#DMG + 14055#CRIT + 365#SPD + 278#HP + 1294#Máx HP + 5% #Shadowbolt Barrage DMG + 20% #8% de probabilidad de activar Trampa Sacra cuando atacas, lo que da 1279 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2610#DMG + 14581#CRIT + 381#SPD + 291#HP + 1337#Máx HP + 5% #5% de probabilidad de activar Fuego Violeta al atacar, lo que da 1324 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2611#DMG + 14581#CRIT + 381#SPD + 346#HP + 1170#SPD + 5% #5% de probabilidad de activar Truwno Letal cuando atacas, lo que aumenta el DMG en 2648 durante 15 segundos.
+2612##CRIT + 470#SPD + 361#HP + 1622#Max HP + 5% #5% de probabilidad de activar Aguila Roja al atacar, lo que genera mayores cantidades de DMG.
+2613#DMG + 17380#CRIT + 470#SPD + 424#HP + 1380#SPD + 5% #5% de probabilidad de activar Ala Dragontina cuando atacas, lo que aumenta el SPD en 960 durante 15 segundos.
+2614#DMG + 21769#CRIT + 616#SPD + 476#HP + 2110#Máximo HP + 5% de #DMG contra los jefes + 10% #8% de probabilidad de activar Aguila Funesta al atacar, lo que genera mayores cantidades de DMG.
+2615#DMG + 21769#CRIT + 616#SPD + 476#HP + 2110#SPD + 5% #CRIT DMG contra jefes + 25% #8% de probabilidad de activar el Ala demoníaca cuando ataca, lo que aumenta el SPD en 1183 durante 15 segundos.
+2616#DMG + 19819#CRIT + 550#SPD + 424#HP + 1891#Máximo HP + 8% #Shadowflame Toss CRIT DMG + 30% #DMG + 50% contra objetivos de Hielo #8% de probabilidad de activar Poder del Dios del Fuego cuando atacas, que reparte 1659 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2617#DMG + 23127#CRIT + 662#SPD + 513#HP + 2265#Máx. HP + 5% #Shadowbolt Barrage DMG + 30% #8% de probabilidad de activarEstoca Aniquiladora cuando atacas, lo que genera mayores cantidades de DMG.
+2618##CRIT + 662#SPD + 593#HP + 1962#Max HP + 8% de #Tumba congelada DMG + 20% #DMG + 50% contra los objetivos de la Llama #8% de probabilidad de activar Furia de las profundidades al atacar, lo que aumenta la DMG en 4066 durante 15 segundos.
+2619#DMG + 23127#CRIT + 662#SPD + 513#HP + 2265#Máx HP + 5% #DMG de Muerte en Vida + 20% #8% de probabilidad de activar Trueno Sismico cuando atacas, lo que reparte 2034 DPS continuos durante 15 segundos. También convierte el 30% de DMG recibido en HP recuperado.
+2620#DMG + 15668#CRIT + 415#SPD + 318#HP + 1438#Max HP + 5% #PRE+ 10% #CRIT Tasa + 10% contra jugadores #DMG + 25% contra jugadores 
+2621#DMG + 21769#CRIT + 616#SPD + 476#HP + 2110#Max HP + 5% #PRE+ 10% #CRIT Tasa + 10% contra jugadores #DMG + 25% contra jugadores 
+2622#DMG + 20458#CRIT + 572#SPD + 441#HP + 1962#Max HP + 5% #5% de probabilidad de activar Bendicion de Pelamis cuando atacas, lo que aumenta el CRIT en 1117 durante 15 segundos.
+2623#DMG + 20458#CRIT + 572#SPD + 513#HP + 1962#SPD + 5% #5% de probabilidad de activar la Fragancia de la Flor cuando ataca, lo que aumenta el SPD en 1117 durante 15 segundos.
+2624#DMG + 23823#CRIT + 686#SPD + 532#HP + 2345
+2625##CRIT + 871#SPD + 679#HP + 2959#CRIT DMG contra Boss Monsters + 25% #DMG repartido a Boss Monsters + 10%
+2626#DMG + 30629#CRIT + 929#SPD + 825#HP + 2774#DMG +6 para el #nivel de habilidad "murciélagos del purgatorio" +5
+2627#DMG + 30629#CRIT + 929#SPD + 726#HP + 3152#HP + 3%#DMG por Guadaña +3%#DMG por Muerte en Vida +15%
+2628#DMG + 29032#CRIT + 871#SPD + 679#HP + 2959#HP + 8% #ACC + 10% #CRIT La tasa contra jugadores se incrementa en un 15%. El #daño infligido a jugadores aumenta un 30%
+2629#DMG + 27483#CRIT + 815#SPD + 635#HP + 2774
+2630#DMG + 31446#CRIT + 959#SPD + 750#HP + 3251
+2631#DMG + 37516#CRIT + 1187#SPD + 932#HP + 4005#CRIT DMG a Boss Monsters + 25% #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+2632#DMG + 37516#CRIT + 1187#SPD + 932#HP + 4005#HP + 10% #PRE+ 15% #CRIT + 20% contra jugadores #DMG + 35% contra jugadores 
+2633#DMG + 39364#CRIT + 1258#SPD + 989#HP + 4240#Max HP + 5% #DMG + 8% #DMG de "Tumba Helada" + 20% #PEN + 10%
+2634#DMG + 35718#CRIT + 1118#SPD + 877#HP + 3779
+2635#DMG + 40308#CRIT + 1294#SPD + 1018#HP + 4361
+2636#DMG + 47281#CRIT + 1569#SPD + 1239#HP + 5269#CRIT DMG en Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+2637#DMG + 47281#CRIT + 1569#SPD + 1239#HP + 5269#HP + 12% #PRE+ 20% #Tasa CRIT contra jugadores + 25% #DMG repartido contra jugadores + 40%

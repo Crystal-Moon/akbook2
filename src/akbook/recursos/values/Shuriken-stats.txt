@@ -1,0 +1,39 @@
+﻿---> Shuriken stats
+1801#DMG + 8251#CRIT + 182#SPD + 169#EVA + 216#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de aumentar tu enfoque, lo que aumenta el DMG en 1466 durante 15 s.
+1802#DMG + 11296#CRIT + 263#SPD + 242#EVA + 317#CRIT + 3% #DMG a Boss Monsters + 10%. #Tus ataques tienen un 8% de probabilidad de activar el Juramento de sangre demoníaca, lo que aumenta el DMG en +1974, dura 15 segundos.
+1803#DMG + 11296#CRIT + 290#SPD + 198#EVA + 351#Mover SPD + 5% #Tus ataques tienen un 8% de probabilidad de activar Storm Slash, lo que aumenta el DMG en +1974 durante 15 segundos.
+1804#DMG + 9491#CRIT + 214#SPD + 198#EVA + 256#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Happy Feet, lo que aumenta el SPD en 502 durante 15 s.
+1805#DMG + 10372#CRIT + 238#SPD + 219#EVA + 285#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar Shining Blade, lo que aumenta el SPD en 560 durante 15 s.
+1806#DMG + 12264#CRIT + 290#SPD + 266#EVA + 351#CRIT + 3% #Shuriken Storm CRIT DMG + 20% #Tus ataques tienen un 8% de probabilidad de activar una Explosión tóxica, lo que inflige un daño masivo.
+1807#DMG + 12765#CRIT + 304#SPD + 278#EVA + 368#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de provocar una maldición de sombra sobre tus enemigos, lo que inflige un aumento de DMG.
+1808#DMG + 16589#CRIT + 415#SPD + 376#EVA + 508#CRIT + 3% #CRIT DMG a Boss Monsters + 25% #Tus ataques tienen un 8% de probabilidad de activar Polar Blast, lo que aumenta el CRIT en +871 durante 15 s.
+1809#DMG + 14882#CRIT + 365#SPD + 332#EVA + 445#CRIT + 3% #Shuriken Toss DMG + 25% #Tus ataques tienen un 8% de probabilidad de activar Soul Steal, lo que aumenta el daño en +2648 durante 15 segundos.
+1810#DMG + 15439#CRIT + 381#SPD + 346#EVA + 465#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de desencadenar Wicked Force, lo que aumenta el CRIT DMG en un 25% durante 15 s.
+1811#DMG + 15439#CRIT + 415#SPD + 291#EVA + 508#Mover SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar el Sello forestal, lo que aumenta el CRIT en 815 durante 15 segundos.
+1812#DMG + 18402#CRIT + 470#SPD + 424#EVA + 578#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de desencadenar Alma Sanguina, lo que aumenta el daño infligido.
+1813#DMG + 18402#CRIT + 509#SPD + 361#EVA + 627#Mueve SPD + 5% #Cada ataque tiene un 5% de probabilidad de activar la Estrella Sagrada, lo que aumenta el EVA en 800 durante 15 s.
+1814#DMG + 23049#CRIT + 616#SPD + 552#EVA + 762#CRIT + 3% #CRIT DMG a Boss Monsters + 25% #Tus ataques tienen un 8% de probabilidad de activar Golden Bonemarang, lo que aumenta el daño infligido.
+1815#DMG + 23049#CRIT + 662#SPD + 476#EVA + 821#Mueve SPD + 5% #DMG a Boss Monsters + 10%. #Tus ataques tienen un 8% de probabilidad de activar la Estrella Sagrada Flotante, lo que aumenta el SPD en +1183 durante 15 s.
+1816#DMG + 20985#CRIT + 550#SPD + 495#EVA + 679#HP + 8% #Gran DMG explosiva de bola de fuego + 30% Los #objetivos con atributos de hielo reciben un 50% de daño #Tus ataques tienen un 8% de probabilidad de otorgar Poder de Dios de Fuego, lo que aumenta el DMG en un + 6% durante 15 s.
+1817#DMG + 24487#CRIT + 711#SPD + 513#EVA + 883#Mueve SPD + 5%. #Corrupción de sangre. CRIT DMG + 20%. #Tus ataques tienen un 8% de probabilidad de disparar Espadas de furia, lo que inflige un daño masivo.
+1818#DMG + 24487#CRIT + 662#SPD + 593#EVA + 821#HP + 8% El #2% del DMG repartido se absorbe para recuperar el #Daño repartido de HP a los objetivos con atributos de Llama + 50% #Sus ataques tienen un 8% de probabilidad de activar la Herencia de Nazrudin, aumentando el DMG en +2033 y el CRIT en +938. Dura 15 segundos.
+1819#DMG + 24487#CRIT + 662#SPD + 593#EVA + 821#CRIT + 3% #Shadow Assault CRIT DMG + 8% #Tus ataques tienen un 8% de probabilidad de activar Guardián espiritual, lo que aumenta el CRIT DMG en un + 35% durante 15 s.
+1820#DMG + 16589#CRIT + 415#SPD + 376#EVA + 508#CRIT + 3% #ACC + 10% #CRIT Rate + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
+1821#DMG + 23049#CRIT + 616#SPD + 552#EVA + 762#CRIT + 3% #ACC + 10% #CRIT Rate + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
+1822#DMG + 21661#CRIT + 616#SPD + 441#EVA + 762#Mover SPD + 5% #Tus ataques tienen un 5% de probabilidad de activar el Aura de la Victoria, lo que inflige un gran daño.
+1823#DMG + 21661#CRIT + 572#SPD + 513#EVA + 706#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar un Sello de Shadowvine, lo que aumenta el CRIT en +1117. Dura 15 segundos.
+1824#DMG + 25224#CRIT + 686#SPD + 614#EVA + 852
+1825#DMG + 30739#CRIT + 871#SPD + 774#EVA + 1087#CRIT DMG a Boss Monsters + 25% #DMG a Boss Monsters + 10%.
+1826#DMG + 32431#CRIT + 929#SPD + 825#EVA + 1161#Shuriken DMG + 6% #Tasa de CRIT de viento de afeitar + 8%
+1827#DMG + 30739#CRIT + 871#SPD + 774#EVA + 1087#CRIT + 6%. #ACC + 10% #CRIT Rate contra jugadores oponentes + 15% de #daño infligido a jugadores oponentes + 30%
+1828#DMG + 32431#CRIT + 990#SPD + 729#EVA + 1239#Max HP + 3% #Shuriken DMG + 3% #Maple Star DMG + 20%
+1829#DMG + 29100#CRIT + 815#SPD + 726#EVA + 1016
+1830#DMG + 33296#CRIT + 959#SPD + 851#EVA + 1200
+1831#DMG + 39723#CRIT + 1187#SPD + 1048#EVA + 1491#CRIT DMG a Boss Monsters + 25% #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+1832#DMG + 39723#CRIT + 1187#SPD + 1048#EVA + 1491#Mueve SPD + 10% #ACC + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
+1833#DMG + 41680#CRIT + 1258#SPD + 1109#EVA + 1582#HP máx. + 5% #Shuriken DMG + 8% #CRIT DMG de "Gran bola de fuego" + 20% #PEN + 10%
+1834#DMG + 37819#CRIT + 1118#SPD + 989#EVA + 1404
+1835#DMG + 42679#CRIT + 1294#SPD + 1141#EVA + 1629
+1836#DMG + 50062#CRIT + 1569#SPD + 1379#EVA + 1983#CRIT DMG a Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+1837#DMG + 50062#CRIT + 1569#SPD + 1379#EVA + 1983#Mueve SPD + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt a jugadores opuestos + 40%
+1838#DMG + 52298#CRIT + 1654#SPD + 1452#EVA + 2092#Shuriken DMG + 10% #Nivel de habilidad Shuriken +3 #Mientras lanzas Shuriken Storm, recibirás el estado Rápido como Rayo. Incrementa la DMG de la estrella de arce y la corrupción de sangre en un + 15% #PEN + 12%

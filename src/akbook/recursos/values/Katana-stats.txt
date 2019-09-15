@@ -1,0 +1,38 @@
+﻿---> Katana stats
+2501#DMG + 8403#CRIT + 203#HP + 644#EVA + 242#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Poder Arcano, lo que aumenta DMG +1466 durante 15 segundos.
+2502#DMG + 11505#CRIT + 290#HP + 870#EVA + 351#CRIT + 3% de #DMG contra Boss Monsters + 10% #Los ataques tienen un 8% de probabilidad de activar Encanto Oscuro, lo que aumenta DMG +1974 durante 15 s.
+2503#DMG + 11505#CRIT + 290#HP + 870#EVA + 351#CRIT + 3% #Cada ataque tiene un 8% de probabilidad de activar Deflagacion, aumentando DMG +1974 durante 15 segundos
+2504#DMG + 9667#CRIT + 238#HP + 737#EVA + 285#CRIT + 3%
+2505#DMG + 10564#CRIT + 263#HP + 802#EVA + 317#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de invocar rayos, lo que le otorga un DMG más alto.
+2506#DMG + 12491#CRIT + 319#HP + 941#EVA + 387#CRIT + 3% #DMG de habilidades de llamas + 5% #Los ataques tienen un 8% de probabilidad de activar el poder de Muramasa, lo que aumenta el CRIT DMG + 25% durante 15 s.
+2507#DMG + 13001#CRIT + 334#HP + 978#EVA + 405#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar la Bendición de Luchador, lo que aumenta el CRIT +682 durante 15 segundos.
+2508#DMG + 16896#CRIT + 452#HP + 1252#EVA + 554#CRIT + 3% #CRIT DMG contra Boss Monsters + 25% #Los ataques tienen un 8% de probabilidad de activar la Bendición de Guerra, lo que aumenta CRIT +871 durante 15 s.
+2509#DMG + 15157#CRIT + 398#HP + 1130#EVA + 487#CRIT + 3% #de DMG de Danza Abrazadora + 25% #Los ataques tienen un 8% de probabilidad de activar Influencia Demoniaca, lo que aumenta DMG +2648 durante 15 s.
+2510#DMG + 15725#CRIT + 415#HP + 1170#EVA + 508#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Fuerza de las Arenas, lo que aumenta DMG +2648 durante 15 segundos.
+2511#DMG + 15725#CRIT + 415#HP + 1170#EVA + 508#EVA + 5% #Cada ataque tiene un 5% de probabilidad de lidiar con mayor DMG
+2512#DMG + 18743#CRIT + 509#HP + 1380#EVA + 627#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Espíritus del Mal, lo que aumenta el CRIT DMG + 25%.
+2513#DMG + 18743#CRIT + 433#HP + 1498#EVA + 679#EVA + 5% #Cada ataque tiene un 5% de probabilidad de activarNoche Horrible, lo que aumenta EVA +800 durante 15 segundos
+2514#DMG + 23476#CRIT + 662#HP + 1821#EVA + 821#CRIT + 3% #DMG contra Boss Monsters + 10% #Los ataques tienen un 8% de probabilidad de provocar el aura de Observacion, lo que aumenta el CRIT DMG + 35%
+2515#DMG + 23476#CRIT + 572#HP + 1962#EVA + 883#EVA + 5% #CRIT DMG contra Boss Monsters + 25% #Los ataques tienen un 8% de probabilidad de activar la Poder de Vacío, lo que aumenta EVA +986 durante 15 s.
+2516#DMG + 21374#CRIT + 594#HP + 1622#EVA + 734#Máximo HP + 8% #CRIT DMG de Brillante Dragon Flash + 30% #Ofrece 50% adicional de DMG a objetivos de Hielo #Los ataques tienen un 8% de probabilidad de activar el Poder del Dios del Fuego, lo que hace que tenga más DMG
+2517#DMG + 24940#CRIT + 711#HP + 1962#EVA + 883#CRIT + 3% #CRIT DMG de Iaido + 20% #Los ataques tienen un 8% de probabilidad de lidiar con mayor DMG.
+2518#DMG + 24940#CRIT + 616#HP + 2110#EVA + 948#Máximo HP + 8% #CRITO de la Furia del Dragón + 8% #Ofrece 50% adicional de DMG a los objetivos Llama #Los ataques tienen un 8% de probabilidad de activar Poder del Levatan, lo que aumenta EVA +1043 durante 15 s.
+2519##CRIT + 711#HP + 1962#EVA + 883#CRIT + 3% #DMG de Black Swallow + 20% #Los ataques tienen un 8% de probabilidad de activar Infusión luminosa, lo que aumenta DMG +4066 durante 15 s.
+2520#DMG + 16896#CRIT + 452#HP + 1252#EVA + 554#CRIT + 3% #PRE + 10% #CRIT contra jugadores + 10% #DMG contra jugadores + 25%
+2521#DMG + 23476#CRIT + 662#HP + 1821#EVA + 821#CRIT + 3% #PRE + 10% #CRIT contra jugadores + 10% #DMG contra jugadores + 25%
+2522#DMG + 22062#CRIT + 616#HP + 1687#EVA + 762#CRIT + 3% #5% de probabilidad de activar Segador de Almas, lo que aumenta el CRIT DMG en un 25%.
+2523#DMG + 22062#CRIT + 530#HP + 1821#EVA + 821#EVA + 5% #5% de probabilidad de activar Corte Acuatico cuando atacas, lo que aumenta el DMG en 3630 durante 15 segundos.
+2524#DMG + 25691#CRIT + 736#HP + 2035#EVA + 915
+2525#DMG + 31309#CRIT + 929#HP + 2597#EVA + 1161#CRIT DMG contra Jefes + 25% #DMG a Jefes + 10%
+2526#DMG + 33031#CRIT + 871#HP + 2959#EVA + 1319#DMG por Katana + 6% #Tasa CRIT de "Colmillo Negrio" + 8%
+2527#DMG + 33031#CRIT + 990#HP + 2774#EVA + 1239#Máx. HP + 3%. #El daño de arma Katana aumenta un 3%. #El daño de "Golpes Repentinos" aumenta un 15%
+2528#DMG + 31309#CRIT + 929#HP + 2597#EVA + 1161#CRIT + 6%. #PRE + 10% #La tasa de CRIT contra jugadores aumenta un 15%. #El daño infligido a jugadores aumenta un 30%
+2529#DMG + 29639#CRIT + 871#HP + 2427#EVA + 1087
+2530#DMG + 33912#CRIT + 1021#HP + 2865#EVA + 1279
+2531#DMG + 40458#CRIT + 1258#HP + 3562#EVA + 1582#CRIT DMG a monstruos Jefe + 25% #DMG a monstruos Jefe + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+2532#DMG + 40458#CRIT + 1258#HP + 3562#EVA + 1582#CRIT + 10%. #ACC + 15% #CRIT + 20% contra jugadores#DMG + 35% contra jugadores
+2533#DMG + 42452#CRIT + 1331#HP + 3779#EVA + 1677#HP máx. + 5% #DMG por Katana + 8% #CRIT DMG de "Iaido" + 20% #PEN + 10%
+2534#DMG + 38520#CRIT + 1187#HP + 3353#EVA + 1491
+2535#DMG + 43469#CRIT + 1369#HP + 3891#EVA + 1725
+2536#DMG + 50989#CRIT + 1654#HP + 4736#EVA + 2092#CRIT DMG en Jefes + 30% #DMG contra Jefes + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+2537#DMG + 50989#CRIT + 1654#HP + 4736#EVA + 2092#CRIT + 12%. #ACC + 20% #TASA DE CRITO contra jugadores + 25% #DMG repartido entre jugadores + 40%

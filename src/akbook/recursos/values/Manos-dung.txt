@@ -1,0 +1,77 @@
+﻿---> Manos ubicaciones
+1601#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+1602#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+1603#--- refinado
+1604#--- refinado
+1605#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1606#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1607#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1608#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1609#--- refinado
+1610#--- refinado
+1611#NPC Lugarteniente Ohra en Navea#Enciclopedia por Puntos Dragon
+1612#NPC Lugarteniente Imes en Navea#Enciclopedia por Puntos Dragon
+1613#NPC Teniente Gerald en Navea#Enciclopedia por Puntos Dragon
+1614#NPC Tenienete Gerald en Navea#Enciclopedia por Puntos Dragon
+1615#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1616#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1617#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1618#Enciclopedia por Puntos Dragon
+1619#Enciclopedia por Puntos Dragon
+1620#Encclopedia por Puntos Dragon
+1621#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1622#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1623#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1624#--- refinado
+1625#--- refinado
+1626#--- refinado
+1627#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1628#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1629#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1630#Posibilidad de obtenerlo por Arqueologia#Enciclopedia por Puntos Dragon
+1631#Ultramundo: Templo alabastro (Colina Creciente)#Enciclopedia por Puntos Dragon
+1632#Ultramundo: Templo alabastro (Colina Creciente)#Enciclopedia por Puntos dragon
+1633#Asedio de la Reina Dragon Acuatico (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1634#Asedio de la Reina Dragon Acuatico (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1635#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1636#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1637#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1638#Raiz del Titan (Floresta Amanita)#Enciclopedi apor Puntos Draogn
+1639#Raiz del Titan (Floresta Amanirta)#Enciclopedia por Puntos Dragon
+1640#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+1641#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1642#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1643#--- refinado
+1644#--- refinado
+1645#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1646#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1647#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+1648#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+1649#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+1650#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+1651#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1652#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1653#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1654#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1655#--- refinado
+1656#--- refinado
+1657#--- refinado
+1658#--- refinado
+1659#Torre Celeste (Piso 30)
+1660#Torre Celeste (Piso 30)
+1661#Torre Celeste (Piso 30)
+1662#Torre Celeste (Piso 30)
+1663#NPC Lugarteniente Dickie en Navea
+1664#NPC Lugarteniente Dickie en Navea
+1665#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1666#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1667#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1668#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1669#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1670#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1671#--- refinado
+1672#--- refinado
+1673#--- refinado
+1674#--- refinado
+1675#NPC Lugarteniente Dickie en Navea
+1676#NPC Lugarteniente Dickie en Navea

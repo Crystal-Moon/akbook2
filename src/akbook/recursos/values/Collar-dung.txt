@@ -1,0 +1,65 @@
+﻿---> Collar ubicaciones
+3601#Templo de las Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+3602#Cueva Sumergida (Cienaga Candeo)#Enciclopedia por Puntos Dragon
+3603#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Pumtos Dragon
+3604#NPC Lugarteniente Ohra en Navea#Enciclopedia por Puntos Dragon
+3605#NPC Lugarteniente Imes en Navea#Enciclopedia por Puntos Dragon
+3606#Enciclopedia por Puntos Dragon
+3607#Enciclopedia por Puntos Dragon
+3608#Enciclopedia por Puntos Dragon
+3609#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+3610#Cueva de la Lagrima (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+3611#Templo de las Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+3612#Abismo Infernal (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+3613#Abismo Remolino (Costa de Helonia)#Enciclopedia por Puntos Dragon
+3614#Torre Celeste (Piso 12)#Enciclopedia por Puntos Dragon
+3615#Torre Celeste (Piso 15)#Enciclopedia por Puntos Dragon
+3616#Lamento del Dragon (Colina Creciente)#Enciclopedia por Puntos Dragon
+3617#Lamento del Dragon (Colina Creciente)#Enciclopedia por Puntos Dragon
+3618#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+3619#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+3620#El ascenso del rey Dragon Celeste (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+3621#El ascenso del Rey Dragon Celeste (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+3622#Torre Celeste (Piso 17)#Enciclopedia por Puntos Dragon
+3623#Torre Celeste (Piso 19)#Enciclopedia por Puntos Dragon
+3624#Raiz del Titan (Floresta Amanita)#Secrerto de Cadila (Humedal Aguasverdes)#Tunda Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+3625#Raiz del Titan (Floresta Amanita)#Secrerto de Cadila (Humedal Aguasverdes)#Tunda Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+3626#---Refinado
+3627#--- Refinado
+3628#Cofre valioso (multiples Instancias)#Enciclopedia por Puntos Dragon
+3629#Cofre valioso (Multiple Instancias)#Enciclopedia por Puntos Dragon
+3630#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+3631#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+3632#Torre Celeste (Piso 26)
+3633#Torre Celeste (Piso 29)
+3634#Ultramundo:Humedal Aguasverdes (Arboleda Katakara)#laboratorio de las Sarpias (Selva de cascadas)#Tumba Antigua (Valle cazacol)
+3635#Ultramundo:Humedal Aguasverdes (Arboleda Katakara)#laboratorio de las Sarpias (Selva de cascadas)#Tumba Antigua (Valle cazacol)
+3636#Ultramundo:Humedal Aguasverdes (Arboleda Katakara)#laboratorio de las Sarpias (Selva de cascadas)#Tumba Antigua (Valle cazacol)
+3637#Ultramundo:Humedal Aguasverdes (Arboleda Katakara)#laboratorio de las Sarpias (Selva de cascadas)#Tumba Antigua (Valle cazacol)
+3638#--- Refinado
+3639#--- Refinado
+3640#--- Rfefinado
+3641#--- Refinado
+3642#Abismo Avaricia (Pradera Esmeralda)
+3643#Abismo Avaricia (Praderas Esmeralda)
+3644#Bosque Crepuscular (Valle de la Desolacion)
+3645#Bosque Crepuscular (Valle de la Desolacion)
+3646#Templo del Trueno oscuro (Praderas Vendaval)
+3647#Ruinas Heladas de Zahr-Kazaal (Tundra Silenciosa)
+3648#NPC Lugarteniente Dickie en Navea
+3649#NPC Lugarteniente Dickie en Navea
+3650#Ultramundo: Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+3651#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+3652#Torre Celeste (Piso 31)
+3653#Torre Celeste (Piso 32)
+3654#Ultramundo: Bosque Crepuscular (Praderas Esmeraldas)
+3655#Ultramundo Destrozado (Desierto Tempestuoso)#Ultramundo: Tundra Silenciosa (Arboleda Katakara)#Caverna del Hielo Glacial(?)
+3656#Ultramundo Destrozado (Desierto Tempestuoso)#Ultramundo: Tundra Silenciosa (Arboleda Katakara)#Caverna del Hielo Glacial(?)
+3657#Ultramundo Destrozado (Desierto Tempestuoso)#Ultramundo: Tundra Silenciosa (Arboleda Katakara)#Caverna del Hielo Glacial(?)
+3658#Ultramundo Destrozado (Desierto Tempestuoso)#Ultramundo: Tundra Silenciosa (Arboleda Katakara)#Caverna del Hielo Glacial(?)
+3659#--- Refinado
+3660#--- Refinado
+3661#--- refinado
+3662#--- refinado
+3663#NPC Lugarteniente Dickie en Navea
+3664#NPC Lugarteniente Dickie en Navea

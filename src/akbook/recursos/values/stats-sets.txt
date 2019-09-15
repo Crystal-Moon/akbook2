@@ -1,0 +1,141 @@
+---> sets stats
+801#Voluntad Inmortal del Caballerro Vendaval# Bonificación de conjunto:#DEF +397, HP máx. +887
+802#Set Cometa# Bonificación de conjunto:#CRIT +393, ​​CRIT DMG + 10%
+803#Set Helado de Leviatan# Bonificación de conjunto:#SPD +393, ​​EVA +328
+804#Set Ambicion de la Batalla# Bonificación de conjunto:#Crit Rate contra jugadores + 4%
+805#Set de Disparo Estrategico# Bonificación de conjunto:#Crit Rate contra jugadores + 4%
+806#Set del Golem Centinela# Bonificación de conjunto:#Aumenta la tasa de CRIT contra jugadores en un 6%.
+807#Set de Ave Rapaz# Bonificación de conjunto:#Aumenta la tasa de CRIT contra jugadores en un 6%.
+808#Set Furia Ignea# Bonificación de conjunto:#+30% de daño a los objetivos de atributo Fuego
+809#Set de Nieve Fresca# Bonificación de conjunto:#+ 30% de daño a los objetivos de atributo Hielo
+810#Set del Dragon Vengativo# Bonificación de conjunto:#+30% de daños a los objetivos de oscuridad
+811#Set de la Reina Escarlata# Bonificación de conjunto:#30% de daño los objetivos del atributo Rayo
+812#Set del Invasor Demoniaco# Bonificación de conjunto:#30% de daño a los objetivos del atributo Luz
+813#Set del Dominador del Trueno# Bonificación de conjunto:#30% de daño a objetivos de tormenta
+814#Set del Golem Centinela# Bonificación de conjunto:# Tasa CRIT +6% contra jugadores
+815#Set de Ave Rapaz Nocturna# Bonificación de conjunto:# Tasa CRIT +6% contra jugadores
+816#Set de la Reina Cautivadora# Bonificación de conjunto:# EVA +1043#Al evadir, hay un 24% de probabilidad de regenerar continuamente 1271 HP durante 10 s.
+817#Set Rey del Viento Abrasador# Bonificación de conjunto:# SPD +2086 #los golpes CRIT tienen un 16% de probabilidad de activar "Viento Ululante", lo que otorga DMG adicional al siguiente ataque durante 15 s. Este efecto se eliminará cuando golpees a un enemigo.
+818#Set Tesoro Oscuro# Bonificación de conjunto:# CRIT +1043#Los golpes CRIT tienen un 16% de probabilidad de ganar "Oscuridad infundida";#El siguiente efecto disminuirá la DEF del objetivo -30% durante 6 s. Este efecto puede aparecer solo una vez cada 10 segundos.
+819#Set Reliquia Brillante# Bonificación de conjunto:#los golpes CRIT +2847 máx. De HP otorgan "Protección luminosa", reduciendo el DMG recibido -25% durante 6 s. Este efecto puede aparecer solo una vez cada 20 segundos.
+820#Set Extincion Definitiva# Bonificación de conjunto:# CRIT +559 y CRIT DMG + 5%
+821#Set de las Lamentaciones# Bonificación de conjunto:#Max HP +953 y CRIT DMG recibieron -8%
+822#Set Reflejo Deslumbrante# Bonificación de conjunto:#DMG contra Elites + 20%#CRIT +772 y CRIT DMG + 10%
+823#Set del Portador de Almas# Bonificación de conjunto:#DMG recibida de Bosses -8%#Max HP +1316 y CRIT DMG recibida -15%
+824#Set Asesino de Dragones# Bonificación de conjunto:#Máximo HP +3254.#20% de probabilidad de reducir el daño de ataque entrante en un 15%.
+825#Set del Sacerdote de Ritos# Bonificación de conjunto:#DMG +4648.#8% de probabilidad de lanzar Luz de ritual cuando atacas para causar 2905 puntos de daño recurrente durante 15 segundos.
+826#Set Bendicion Heroica# Bonificación de conjunto:#+8% de tasa CRIT contra otros jugadores.#Daño crítico recibido de jugadores reducido en un -15%.
+827#Set Aguila de Guerra Divina# Bonificación de conjunto:#tasa CRIT contra jugadores + 8%#CRIT DMG recibido de jugadores -15%
+828#Set Sabgre Escarlata# Bonificación de conjunto:#DMG +5268 #8% de probabilidad de infligir Scarlet Sin en el objetivo, lo que aumenta el DMG + 6% durante 15 segundos.
+829#Set Hierro# Bonificación de conjunto:#HP +3688 #8% de probabilidad de lanzar la Marca de hierro cuando es atacada, lo que reduce el DMG en un 20% para los próximos 2 golpes. Dura 15 segundos.
+830#Set Beligerante# Bonificación de conjunto:#DMG +2698
+831#Set Imperio# Bonificación de conjunto:#DEF +1799
+832#Set Flamigero# Bonificación de conjunto:#SPD +2768
+833#Set Gelido# Bonificación de conjunto:#CRIT +1384
+834#Set Guerra Ideal# Bonificación de conjunto:#DMG +3171#CRIT +1520#DMG para enemigos élite +20%
+835#Set Imperial Zenith# Bonificación de conjunto:#DEF +2114#El DMG recibido de Elites se reduce en un 20%#Cuando te atacan, tienes un 8% de probabilidad de activar el estado de Empire Safeguard, recuperando continuamente 702 HP. Se acumula hasta 3 veces y dura 15 s.
+836#Set Fuego Visionario# Bonificación de conjunto:#SPD +3252 El DMG recibido de Elites se reduce en un 15%.#Tus ataques tienen un 10% de probabilidad de provocar un Chorching abrasador, lo que produce un EVA +1520 durante 15 s.
+837#Set Hielo Arcano# Bonificación de conjunto:#CRIT +1626#SPD +3040 #CRIT DMG para enemigos élite +30%
+838#Set Pecador Ancestral# Bonificación de conjunto:#HP +4638#DMG a objetivos oscuros +35%
+839#Set Resplandor# Bonificación de conjunto:#HP +4638 #DMG a objetivos Sagrados +35%
+840#Set Receta del Señor# Bonificación de conjunto:#HP +4638#DMG para objetivos Storm +35%
+841#Set Dominador de Demonios# Bonificación de conjunto:#HP +4638#DMG para objetivos de llamas +35%
+842#Set Guardia del Trueno Oscuro# Bonificación de conjunto:# HP +4638#DMG para objetivos de rayos +35%
+843#Set Avanzado Glacial# Bonificación de conjunto:#HP +4638 #DMG para objetivos de hielo +35%
+844#Set del alba# Bonificación de conjunto:#tasa CRIT contra jugadores +12%#CRIT DMG contra jugadores +25%
+845#Set Maldicion del Nemesis# Bonificación de conjunto:#tasa de CRIT contra jugadores +12%#CRIT DMG contra jugadores +25%
+846#Set Belleza Incomparable# Bonificación de conjunto:#EVA +1351#Al evadir, hay un 24% de probabilidad de regenerar continuamente 1669 HP durante 12 s.
+847#Set Toxina Letal#Bonificación de conjunto:#SPD +2702#Tus golpes críticos tienen un 18% de probabilidad de activar Tormenta de Veneno, lo que aumenta el daño de tu próximo ataque. Efectivo durante 15 segundos.
+848#Set de Memoria Perdida#Bonificación de conjunto:#CRIT +1699#Tus golpes críticos tienen un 12% de probabilidad de potenciar tu arma. Una vez habilitado, tu siguiente ataque inflige DEF -40% en el objetivo durante 8s. Este efecto puede ocurrir solo una vez cada 15 s.
+849#Set de Memoria Eterna#Bonificación de conjunto:#HP +4638#Los golpes críticos recibidos activan "Preciados Recuerdos", lo que provoca que DMG se tome -35% durante 7s. Este efecto puede ocurrir solo una vez cada 20s.
+850#Set Apostol Caido#Bonificación de conjunto:#SPD +3398#Tus ataques tienen un 10% de probabilidad de infligir Aliento Corrosivo en el objetivo, lo que provoca que DMG se tome + 8% durante 15 segundos.
+851#Set Intrepido#Bonificación de conjunto:#DMG +3385
+852#Set Oracion Devota#Bonificación de conjunto:#DEF +2257
+853#Set Sol Torrido#Bonificación de conjunto:#EVA +1736
+854#Set Estrella del Rio#Bonificación de conjunto:#CRIT +1736
+855#Set Campeon Temerario#Bonificación de conjunto:#DMG +3912#CRIT +1705#Daño a monstruos Jefe +25%
+856#Set Devocion de Fe#Bonificación de conjunto:#DEF +2608#CRIT DMG recibido de Jefes 20%.#Los ataques enemigos tienen un 10% de probabilidad de reducir DMG recibido en un 15% durante 10s.
+857#Set Cielos Brillantes#Bonificación de conjunto:#SPD +4012#DMG recibido de Jefes 20%#Tus ataques tienen un 12% de probabilidad de activar la Concentración, lo que aumenta tu EVA en 1003 y SPD en 2006 durante 15s.
+858#Set Estrella Celestial#Bonificación de conjunto:#CRIT +2006#SPD +3410#CRIT DMG contra Jefes +35%
+859#Set Corazon celestial# Bonificacion de conjunto:#Tasa de CRIT contra jugadores aumenta un 15%#CRIT DMG contra jugadores +30%
+860#Set Victoria de Guerrero# Bonificacion de conjunto:#Tasa de CRIT contra jugadores aumenta un 15%#CRIT DMG +30% contra jugadores
+861#Comandancia Suprema# Bonificacion de conjunto:#[Parte de arriba]#VEL +225#[Parte de abajo]#6% de probabilidad de activar el Mandamiento cuando es atacado, lo que aumenta la DEF en 244 durante 15 segundos
+862#Cicatriz Honorable# Bonificacion de conjunto:#[Parte de arriba]#DMG +4%#[Parte de abajo]#5% de probabilidad de activar la Cicatriz sagrada en el ataque, que inflige 852 de da? por segundo durante 15 segundos
+863#Set Armadura del Destenido# Bonificacion de conjunto:#[Parte de arriba]#SPD +303 #Da? recibido de los jefes -15%#[Parte de abajo]#Da? recibido de las ?ites -15% #8% de probabilidad de activar Sin miedo cuando es atacado, lo que aumenta la DEF en 329 durante 15 segundos
+864#Set Daga Emboscada# Bonificacion de conjunto:#[Parte de arriba]#Da? contra jefes + 15% #DMG + 5%#[Parte de abajo]#da? cr?ico contra jefes + 30% #8% de probabilidad de activar Riposte cuando es atacado, lo que inflige 1233 Da? por segundo 15 segundos
+865#Aliento de Contricion# Bonificacion de conjunto:#[Parte de arriba]#DEF +166#[Parte de abajo]#5% de probabilidad de activar Verdugo cuando es atacado, lo que absorbe el 4% del da? infligido como HP durante 15 segundos
+866#Set de absolucion# Bonificacion de conjunto:#[Parte de arriba]#Da? infligido +1001#[Parte de abajo]#20% de probabilidad de activar Absolution cuando es atacado, lo que refleja el 50% del da? recibido del atacante
+867#Escudo Sagrado Glorioso# Bonificacion de conjunto:#[Parte de arriba]#Da? recibido -4%#[Parte de abajo]#cada ataque tiene un 6% de probabilidad de activar Gloria suprema, lo que aumenta la DEF en 369 durante 15 segundos
+868#Libro Divino de la sabiduria# Bonificacion de conjunto:#[Parte de arriba]#SPD +340#Potencia de curaci? +111#[Parte de abajo]#5% de probabilidad de activar el Registro apocal?tico al usar una habilidad, lo que aumenta el DMG en 554 y el CRIT en 341 durante 15 segundos
+869#Set Requiem de Lamentos# Bonificacion de conjunto:#[Parte de arriba]#Da? recibido de los jefes -15% #Max HP +750 #Da? recibido -4%#[parte de abajo]#Da? recibido de las elites -15% #8% de probabilidad de activar la Barrera del alma cuando es atacado, lo que aumenta la DEF en 472 durante 15 segundos
+870#Set Aria Delicada# Bonificacion de conjunto:#[Parte de arriba]#Da? contra jefes + 15% #SPD +131#Efectos curativos+ 10%#[Parte de abajo]#da? cr?ico contra jefes + 30% #8% de probabilidad de activar Conciencia aumentada al usar una habilidad, lo que aumenta el DMG en 1416 y CRIT en 435 durante 15 segundos
+871#Set Poder Militar# Bonificacion de conjunto:#[Parte de arriba]#da? adicional recibido de los jugadores -5% #CRIT DMG recibido de los jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15% #CRIT DMG recibido de jugadores -25%
+872#Set Liderazgo Estrategico# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15% #CRIT DMG recibido de jugadores -25%
+873#Set Escudo del Campo de Batalla# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15% #CRIT DMG recibido de jugadores -25%
+874#Set Corazon de la Competencia# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15% #CRIT DMG recibido de jugadores -25%
+875#Set Gran Se?r de la Luna# Bonificacion de conjunto:#[Parte de arriba]#EVA +339#[Parte de abajo]#5% de probabilidad de activar Seguridad Lunar cuando es atacado, lo que recupera continuamente 496 HP durante 15 segundos
+876#Set Mentor de los Elementos# Bonificacion de conjunto:#[Parte de arriba]#CRIT +407#[Parte de abajo]#20% de probabilidad de activar Poder elemental cuando es atacado, lo que refleja el 50% del da? recibido por el atacante
+877#Set meteorito Celestial# Bonificacion de conjunto:#[Parte de arriba]#DMG + 4%#[Parte de abajo]#5% de probabilidad de activar Energia Estelar en evasi? exitosa, lo que aumenta el DMG en 2648 durante 15 segundos
+878#Set Juicio Final# Bonificacion de conjunto:#[Parte de arriba]#EVA +400#[Parte de abajo]#5% de probabilidad de activar Cuerpo de acero cuando es atacado, lo que aumenta la DEF en 520 durante 15 segundos
+879#Set Reencarnacion de la Pesadilla# Bonificacion de conjunto:#[Parte de arriba]#SPD +480#Efectos curativos +156#[Parte de abajo]#5% de probabilidad de activar Dream Eater cuando se usa una habilidad, lo que aumenta DMG en 1324 y CRIT en 480 durante 15 segundos
+880#Set Noche Desalentadora oscura# Bonificacion de conjunto:#[Parte de arriba]#CRIT +480#[Parte de abajo]#5% de probabilidad de activar Viento nocturno en evasi? exitosa, lo que aumenta el SPD en 960 durante 15 segundos
+881#Set Soldado Divino Furioso# Bonificacion de conjunto:#[Parte de arriba]#Da? recibido de los jefes -15% #EVA +493 #Da? recibido -5%#[Parte de abajo]#Da? recibido de las elites -15% #8% de probabilidad de activar Tenacious Will cuando es atacado, lo que aumenta la DEF en 651 durante 15 segundos
+882#Set Revelacion de las Ordenes Reales# Bonificacion de conjunto:#[Parte de arriba]#Da? cr?ico contra jefes + 15% #SPD +591#Efectos curativos+ 10%#[Parte de abajo]# da? cr?ico contra jefes + 30% #8% de probabilidad de activar la Esencia apocal?tica cuando se usa una habilidad, lo que aumenta el DMG en 1923 y el CRIT en 591 durante 15 segundos
+883#Set Demonio Devorador de Almas# Bonificacion de conjunto:#[Parte de arriba]#Da? contra jefes + 15% #CRIT +591#[Parte de abajo]#Da? contra jefes + 15% #8% de probabilidad de activar Hambre insaciable en caso de evasi? exitosa, lo que aumenta el SPD en 1183 y CRIT DMG + 20% durante 15 segundos
+884#Set Comandante de Centinelas# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15%
+885#Set Himno de Batalla# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15%
+886#Set Caballeria Veloz# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -5% #CRIT DMG recibido de jugadores -25%#[Parte de abajo]#CRIT DMG contra jugadores + 15%
+887#set del Acechador de los Campos# Bonificacion de conjunto:#EVA +1043 #Un esquivamiento exitoso activar?un Contador cargado, que aumenta el DMG en 6099 durante 15 segundos
+888#Set Bestia Feroz# Bonificacion de conjunto:#DMG +4066 #Cada ataque tiene un 10% de probabilidad de exponer las debilidades del objetivo, lo que disminuye la DEF en un 5% durante 15 segundos
+889#Set del Demonio Espectral# Bonificacion de conjunto:#Efectos curativos+ 10% #Malicia -20%
+890#Set Legionario Atacante# Bonificacion de conjunto:#SPD + 5% #Los ataques tienen un 16% de probabilidad de activar Combusti? de llamas, lo que aumenta DMG +1017 durante 30 s. Se acumula hasta 10 veces.
+891#Set Legionario Defensor# Bonificacion de conjunto:#HP m?. + 5% #Al ser atacado, hay un 8% de probabilidad de ganar Armadura Salpicada de Sangre, lo que causa DMG -30% para los siguientes 5 ataques que recibes. #Este efecto se elimina despu? de ser atacado 5 veces o despu? de 1 minuto, lo que ocurra primero.
+892#Set del Protector Sentenciador# Bonificacion de conjunto:#[Parte de arriba]#EVA +466#[Parte de abajo]#20% de probabilidad de reflejar el 50% del da? recibido al atacante.
+893#Set del Caballero Herido# Bonificacion de conjunto:#[Parte de arriba]#SPD +559 y Potencia de curaci? +545#[Parte de abajo]#5% de probabilidad de activar la Fuerza brutal al usar habilidades, lo que aumenta el DMG en 3630 durante 15 segundos.
+894#Set Espejismos en el Aire# Bonificacion de conjunto:#[Parte de arriba]#CRIT +559#[Parte de abajo]#EVA +466
+895#Set del guerrero Torrido# Bonificacion de conjunto:#[Parte de arriba]#HP m?. + 3% #8% de probabilidad de activar la barrera de llamas cuando es atacado, lo que disminuye la tasa de CRIT del enemigo en un 40% durante 15 segundos.#[Parte de abajo]#DMG recibido -3% #Convierte 2% de DMG recibido en HP recuperado.
+896#Set Estrella de Eris# Bonificacion de conjunto:#[Parte de arriba]#DMG + 3% #5% de probabilidad de activar Double Strike cuando atacas.#[Parte de abajo]#DMG + 2% #8% de probabilidad de activar la Bendici? Sideral cuando atacas, lo que aumenta la Tasa de CRIT en un 15% durante 15 segundos.
+897#Set Melancolico# Bonificacion de conjunto:#[Parte de arriba]#EVA + 3% #reduce la DEF de los enemigos dentro de un rango de 5 metros en un 10% durante 15 segundos al evadir.#[Parte de abajo]#EVA + 3% #20% de probabilidad de activar Mana Shock al evadir, lo que reparte 10170 DMG a todos los enemigos dentro de un rango de 5 metros.#
+898#Set del Conquistador Atroz# Bonificacion de conjunto:#[Parte de arriba]#Potencia de curaci? + 5%#[Parte deabajo]#5% de probabilidad de activar Guerra Dios cuando atacas, que recupera 784 PS por segundo durante 15 segundos.
+899#Set del Tirador# Bonificacion de conjunto:#[Parte de arriba]#CRIT +643#[Parte de abajo]#5% de probabilidad de activar Sniper Soul al usar una habilidad, lo que aumenta el DMG en 2090 y el CRIT en 643 durante 15 segundos.
+900#Set Perseverancia Historica# Bonificacion de conjunto:#[Parte de arriba]#HP m?ima + 8% #DMG recibido de los jefes -15% #Potencia de curaci? + 10%#[Parte de abajo]#Max HP + 12% #DMG recibido de Elites -15% #8% de probabilidad de activar Estrellas Historicas cuando atacas, que recupera 941 HP por segundo durante 15 segundos.
+901#Set Tirador Vengativo# Bonificacion de conjunto:#[Parte de arriba]#DMG + 8% #CRIT DMG contra jefes + 30% #CRIT +772#[Parte de abajo]#DMG + 12% #CRIT DMG contra jefes + 30% #8% de probabilidad de activar Sniper Soul al usar una habilidad, lo que aumenta el DMG en 2508 y CRIT en 772 durante 15 segundos.
+902#Set del Lider Heroico# Bonificacion de conjunto:#[Parte de arriba]#DMG recibido de jugadores -10% #CRIT DMG recibido de jugadores -35%#[Partde de abajo]#+ 25% CRIT DMG contra otros Jugadores. #Da? cr?ico recibido de los jugadores reducido en un -35%.
+903#Grito de Guerra Divino# Bonificacion de conjunto:#[Parte de arriba]#da? recibido de otros jugadores se reduce en un -10%. #Da? cr?ico recibido de los jugadores reducido en un -35%.#[Partde de abajo]#+ 25% CRIT DMG contra otros jugadores. #Da? cr?ico recibido de los jugadores reducido en un -35%.
+904#Set Guardia Segador# Bonificacion de conjunto:#[Parte de arriba]#HP m?. + 5% #Al ser atacado, hay un 8% de probabilidad de ganar Armadura Salpicada de Sangre, lo que causa DMG -30% para los siguientes 5 ataques que recibes. Este efecto se elimina despu? de ser atacado 5 veces o despu? de 1 minuto, lo que ocurra primero.
+905#Set Abrasion# Bonificacion de conjunto:#[Partde de arriba]#DMG + 8% #CRIT + 5% #40% de probabilidad de infligir el estado de Fuego abrasador en el objetivo, con 986 DMG por segundo durante 15 segundos. Se acumula hasta 5 veces.
+906#Set Fuego Solar#[Partde de arriba]#HP +1669#[Partde de abajo]#el DMG recibido de Elites se reduce un 8%.
+907#Set Aniquilador de Almas#[Parte de arriba]#DMG +2384#[Parde de abajo]#tus habilidades tienen un 5% de ganancia de estado de Soulreaver, lo que aumenta tu da? infligido a los monstruos de ?ite un 3% durante 5 s.
+908#Set Protector Sagrado# Bonificacion del Set:#[Parte de arriba]#HP +1889#[Partde de abajo]#DMG recibido de Elites se reduce en un 10%
+909#Set Trueno Punitivo# Bonificacion del Set:#[Parte de arriba]#DMG +2698#[Partde de abajo]#tus habilidades tienen un 8% de probabilidad de obtener el estado del D? del Juicio, lo que aumenta el da? infligido a las Elites en un + 5% durante 8 s.
+910#Set Furia de la Tormenta# Bonificacion del Set:#[Parte de arriba]#SPD +2768#[Parte de abajo]#HP + 6%
+911#Set Asesinato# Bonificacion del Set:#[Partde de arriba]#CRIT +1384#[Parte de abajo]#CRIT DMG para enemigos ?ite + 12%
+912#Tabu Sagrado# Bonificacion del Set:#[Partde de arriba]#DEF + 5% #Max HP + 10% #DMG recibido de los jefes -20%.#[Partde de abajo]#DMG recibido de Elites -20%. #HP m?. + 15% #Tus ataques tienen un 8% de probabilidad de obtener el estado de Guardian Sagrado, lo que resulta en DEF +1186 y en la conversi? del 2% de DMG de ataque normal repartido para recuperar tu HP durante 12 s.
+913#Set Flagelo# Bonificacion del Set:#[Partde de arriba]#DMG + 10% #EVA +1626 #CRIT DMG a Boss Monsters + 30%#[Parte de abajo]#DMG + 12% #CRIT DMG a Boss Monsters + 35% #Tus ataques tienen un 10% de probabilidad de activar el Castigo Sagrado, lo que inflige 1585 DPS al enemigo durante 12 s.
+914#Set Cazavientos# Bonificacion del Set:#[Parte de arriba]#SPD + 5% de #potencia de curaci? + 15% #DMG recibido de los jefes -15%.#[Parte de abajo]#HP + 8% #SPD +3252 #Sus habilidades tienen un 15% de probabilidad de activar Storm Shield, lo que le otorga SPD +1626 y CRIT DMG + 20% durante 12 s.
+915#Set Devorador# Bonificacion del Set:#[Partde de arriba]#CRIT +1626 #SPD +3040 #CRIT DMG a Boss Monsters + 30%#[Parte de abajo]#CRIT +1626 #CRIT DMG a enemigos ?ite + 25% #Sus habilidades tienen un 12% de probabilidad de obtener el estado de Devorador, lo que resulta en una tasa de CRIT + 8% durante 8 s.
+916#Set Proteccion del Alba# Bonificacion del Set:#[Parte de arriba]#DMG recibido de los jugadores se reduce en un 15%. #CRIT El DMG recibido de jugadores se reduce en un 40%#[Parte de abajo]#CRIT DMG + 30% contra jugadores #El CRIT DMG recibido de jugadores se reduce en un 40%
+917#Set Furiad e Nemesis# Bonificacion del Set:#[Parte de arriba]#DMG recibido de los jugadores se reduce en un 15%. #CRIT El DMG recibido de jugadores se reduce en un 40%#[Parte de abajo]#CRIT DMG + 30% contra jugadores#CRIT DMG recibido de jugadores se reduce en un 40%
+918#Set Desenga? Silencioso# Bonificacion del Set:#[Parte de arriba]#Max HP +2122#[Parte de abajo]#DMG recibido de Boss Monsters -8%
+919#Set polvo de las ruinas# Bonificacion del Set:#[Parte de arriba]#DMG +3032#[Parte de abajo]#tus habilidades tienen un 5% de probabilidad de activar cenizas animadas, lo que te hace repartir DMG + 5% a los Monstruos de ?ite durante 6 s.
+920#Set Cielos Incandecentes# Bonificacion del Set:#[Parte de arriba]#DMG +3385#[Parte de abajo]#tus ataques tienen un 10% de probabilidad de otorgar el efecto Noche Sanguinaria, DMG + 5% a los Monstruos de ?ite durante 10 s.
+921#Set Dominio Divino# Bonificacion del Set:#[Parte de arriba]#M?imo HP +2369#[Parte de abajo]#da? recibido de los monstruos de ?ite -12%
+922#Set Guardian Bendito# Bonificacion del Set:#[Parte de arriba]#SPD +3472#[Parte de abajo]#HP aumenta un 8%.
+923#Set Explocion Arcana# Bonificacion del Set:#[Parte de arriba]#CRIT +1736#[Parte de abajo]#CRIT DMG a Elite Monsters + 14%
+924#Set Canto Sagrado# Bonificacion del Set:#[Parte de arriba]#EVA +2006 #CRIT DMG a Jefe aumenta un 35%#[Parte de abajo]#DMG + 12% #CRIT DMG a jefes + 40% #Tus ataques tienen un 12% de probabilidad de activar Palabra de poder, lo que le da 1956 DPS al enemigo durante 12 s.
+925#Plata Ardiente# Bonificacion del Set:#[Parte de arriba]#DEF + 7% #HP m?imo + 12% de #da? recibido de los jefes -25%#[Parte de abajo]#DMG recibido de Elites -25% #Max HP + 15% #Los ataques enemigos tienen un 8% de probabilidad de activar Prueba de dominancia, lo que aumenta tu DEF en 1565 y te otorga un escudo que bloquea el 25% de DMG para los pr?imos 3 entrantes los ataques. Dura 12 s.
+926#Set Cazador Expulsado# Bonificacion del Set:#[Parte de arriba]#SPD + 7% #Todos los efectos de curaci? + 18%. #El DMG recibido de los jefes se reduce en un 20%.#[Parte de abajo]#HP m?. + 10% #SPD +4012 #Sus habilidades tienen un 15% de probabilidad de activar el dominio de caza, lo que aumenta el SPD en 2407 y EVA +2006 durante 12 segundos.
+927#Olvido Abismal# Bonificacion del Set:#[Parte de arriba]#CRIT +2006 #DMG  +8% #CRIT DMG a los jefes + 35%#[Parte de abajo]#DMG + 10%#CRIT DMG a Elite Monsters + 35%#Tus habilidades tienen un 15% de probabilidad de activar Voz demoníaca, lo que aumenta tu CRIT en un 10% y CRIT DMG en un 20% durante 10 s.
+928#Set Vision Celestial# Bonificacion del Set:#[Parte de arriba]#DMG tomado de los jugadores se reduce en un 20%. #CRIT DMG tomado de los jugadores -45%#[Parte de abajo]#CRIT DMG contra jugadores + 35% #CRIT DMG tomado de jugadores -45%
+929#Prestigio de Guerrero# Bonificacion del Set:#[Parte de arriba]#DMG tomado de los jugadores se reduce en un 20%. #CRIT DMG tomado de los jugadores -45%#[Parte de abajo]#CRIT DMG contra jugadores + 35% #CRIT DMG tomado de jugadores -45%
+930#Set Memorias Brillantes# Bonificacion del Set:#[Parte de arriba]#DMG recibido -8% #Max HP + 10% #Tienes un 8% de probabilidad de activar Flashback cuando te atacan, lo que aumenta el EVA en +1451 durante 15 s.#[Parte de abajo]#DMG recibido -8%#DEF + 10%#Tienes un 12% de probabilidad de ganar Respiración de cazador cuando te atacan, recuperando continuamente 792 HP durante 15 s.
+931#Set Lobo Voraz# Bonificacion del Set:#[Parte de arriba]#HP +2319 #DMG + 8% #Tus ataques tienen un 35% de probabilidad de infligir Glare de lobo a tu objetivo, con 1268 DPS. Se acumula hasta 3 veces, dura 15 s.#[Parte de abajo]#DMG +3313#CRIT DMG + 10%#Sus ataques tienen un 8% de probabilidad de activar Bloodeye Berserker, lo que aumenta el CRIT DMG en un 30% durante 12 s.
+932#Asalto de Energia# Bonificacion del Set:#[Parte de arriba]#EVA + 5% #SPD +1019 #Incrementa HP en un n?mero igual al 5% de DMG#[Parte de abajo]#SPD +3398 #EVA +1626 #Tienes un 12% de probabilidad de activar el estado de alto el fuego cuando te atacan, lo que reduce el CRIT DMG recibido en un 150% durante 12 s.
+933#Maldicion Sanguinaria# Bonificacion del Set:#[Parte de arriba]#CRIT + 8% #DMG +2219 #Sus ataques tienen un 35% de probabilidad de desencadenar Spell Backlash, lo que aumenta el CRIT DMG en un + 8%. Este estado se acumula hasta 3 veces y dura 15 segundos.#[Parte de abajo]#CRIT +1699 #CRIT DMG + 15% #Sus ataques tienen un 8% de probabilidad de desencadenar Angustia mental, lo que aumenta la tasa de CRIT en un + 8% durante 12 s.
+934#Set Criatura Fucionada# Bonificacion del Set:#HP m?. +2847 #Sufrir un golpe cr?ico te har?un Superviviente, lo que hace que los golpes cr?icos subsiguientes causen un 100% menos de da? durante 15 segundos
+935#Set Bestia Letal# Bonificacion del Set:#CRIT + 5% #Cada golpe cr?ico tiene un 15% de probabilidad de activar una Corrida cruel, que inflige doble da?
+936#Set Camino Sangriento del Leon# Bonificacion del Set:#CRIT DMG + 25% #Cada golpe cr?ico tiene un 15% de probabilidad de llenarte de Entusiasmo, lo que aumenta tu velocidad de ataque en un 50% durante 15 segundos
+937#Set Vencedor del Principe Glacial# Bonificacion del Set:#DMG obtenido -2% #Cuando te atacan, hay un 8% de probabilidad de activar Frozen Bulwark, lo que reduce la posibilidad de recibir Ataques CRT en un 20% y de recibir CRIT DMG en un 50% durante 20 segundos.
+938#Set Reina Shayanna# Bonificacion del Set:#DMG +4066 #Tus ataques tienen un 16% de probabilidad de activar "Raging Otter", que trata de 4148 DPS al objetivo. Tiene una duraci? de 8 segundos.
+939#Set Se?r de la Tormenta# Bonificacion del Set:#[Parte de abajo]#HP + 12% de #tasa de CRIT recibida -10% #8% de probabilidad de infligir Storm Assault en el objetivo, lo que reduce el DMG del objetivo en un 6% durante 15 segundos.
+940#Set Huracan Catastrofico# Bonificacion del Set:#[Parte de abajo]#DMG + 8% #CRIT DMG + 10% #8% de probabilidad de infligir Hurricane Catastrophe Set, con un + 25% CRIT DMG.

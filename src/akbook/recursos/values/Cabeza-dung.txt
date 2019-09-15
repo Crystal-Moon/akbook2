@@ -1,0 +1,84 @@
+﻿---> Cabeza ubicaiones
+1100#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+1101#Lumia (Arboleda Katakara)#Enciclopedia por Puntos Dragon
+1102#--- refinado
+1103#--- refinado
+1104#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1105#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1106#NPC de Armaduras Petunia en Navea#Puede aparecer pescando presas naranjas en:#-Puerto Skandia#-Bosque del Olvido#-Desierto Astral#-Meseta del Meteoro#-Praderas Esmeralda#-Selva de Cascadas#-Bosque Perpetuo#Presas doradas en:#-Puerto Skandia#-Bosque del Olvido#-Desierto Astral#-Floresta Amanita#-Tundra Silenciosa#-Colina Coleus
+1107#Cueva Sumergida (Cienaga Candeo0#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon#
+1108#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1109#--- refinado
+1110#--- refinado
+1111#NPC Lugarteniente Ohra en Navea
+1112#NPC Lugarteniente Imes en Navea#Enciclopedia por Puntos Dragon
+1113#NPC Teniente Gerald en Navea#Enciclopedia por Puntos Dragon
+1114#NPC Teniente Gerald#Enciclopedia por Puntos Dragon
+1115#Cueva de la Lagrima (Bosque del Olvido)#Templo arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1116#Cueva de la Lagrima (Bosque del Olvido)#Templo de las Arenas (desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1117#Cueva de la Lagrima (Bosque del olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas vendaval)#Ensciclopedia por Puntos Dragon
+1118#NPC de Armaduras Petunia en Navea#Pescando presas naranjas en:#-Puerto Skandia#-Bosque del Olvido#-Desierto astral#-Meseta del Meteoro#-Praderas Esmeralda#-Selva de Cascadas#-Bosque Perpetuo#Presas doradas en:#-Puero Skandia#-Bosque del Olvido#-Desierto Astral#-Floresta Amanita#-Tundra Silenciosa#-Colina Coleus
+1119#NPC de Armadura Petunia en navea#Enciclopedia por Puntos Dragon#Pescando presas naranjas en:#-Puerto Skandia#-Bosque del Olvido#-Desierto Astral#-Meseta del Meteoro#-Praderas Esmeralda#-Selva de Cascadas#-Bosque Perpetuo#Presas doradas en:#-Puerto Skandia#-Bosque del Olvido#-Desieto Astral#-Floresta Amanita#-Tundra Silenciosa#-Colina Coleus
+1120#NPC de Armaduras Petunia en Navea#Enciclopedia por Puntos Dragon#Pescando presas naranjas en:#-Puerto Skandia#-Bosque del Olvido#-Desierto Astral#-Meseta del meteoro#-Praderas Esmeralda#-Selva de Cascadas#-Bosque Perpetuo#Presas doradas en:#-Puerto Skandia#-Bosque del Olvido#-Desieto Astral#-Floresta Amanita#-Tundra Silenciosa#-Colina Coleus
+1121#Ultramundo: Templo alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1122#Ultramundo: Templo alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1123#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramiundo: Tunel del Prodigio (Mina  del Prodigio)#Enciclopedia por Puntos Dragon
+1124#--- refinado
+1125#-- refinado
+1126#-- refinadso
+1127#NPC Lugarteniente  Dickie en Navea#Enciclopedia por Puntos Dragon
+1128#NPC Lugarteniente Dickie en Navea
+1129#NPC Lugarteniente Dickie en Navea#Enciclopedi apor Puntos Draogn
+1130#Mediante arqueologia#Sala del Pailio#Enciclopedia por Puntos Dragon
+1131#Mediante Arqueologia#Sala del Pailio (Desierto Astral)#Enciclopedia por Puntos Dragon
+1132#Mediante Arqueologia#Sala del Pailio (Desierto Astral)#Enciclopedia por Puntos Dragon
+1133#Cofre de Cabras (Altiplano Condor y Nieveburgo)
+1134#Cofre de Cabras (Altiplano Condor y Nieveburgo)
+1135#Posibilidad de obtenerlo capturando monstruos elite y entregando a Guarda Forestal en:#-Floresta Amanita#-Humedal Aguasverdes#-Meseta del Meteoro#-Praderas Esmeralda#-Tundra Silenciosa#-Morton#Enciclopedia por Puntos Dragon
+1136#Posibilidad de obtenerlo capturando monstruos elite y entregando a Guarda Forestal en:#-Floresta Amanita#-Humedal Aguasverdes#-Meseta del Meteoro#-Praderas Esmeralda#-Tundra Silenciosa#-Morton#Enciclopedia por Puntos Dragon
+1137#Posibilidad de obtenerlo capturando monstruos elite y entregando a Guarda Forestal en:#-Floresta Amanita#-Humedal Aguasverdes#-Meseta del Meteoro#-Praderas Esmeralda#-Tundra Silenciosa#-Morton#Enciclopedia por Puntos Dragon
+1138#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+1139#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
+1140#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Draogn
+1141#Tundara Escarchada (Tundra Silenciosa)#Ultramunod: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#purgatorio Ardiente (Bosque del Olvido)#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
+1142#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Tundra Escarchada (Tundra Silenciosa)#Raiz del titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Purgatorio Ardiente (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Enciclopedia por Puntos Dragon
+1143#--- refinado
+1144#--- refinado
+1145#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
+1146#NPC Lugarteniente Dickie ne Navea#Enciclopedia por Puntos Dragon
+1147#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+1148#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Draigon
+1149#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1150#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: SSecreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1151#Ultramundo: Raiz del Titan (Florest Amanita)#Ultramundo: Secreeto de Cadila (Humedal Aguasverdes)#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tuimba Antigua (Valle Cazacol)#Enciclopedia por Puyntos Dragon
+1152#Ultramundo: Raiz del Titan (Floresta Amnaita)#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Bosque Crepuscular (Valle de la Deoslacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (valle Cazacol)#Enciclopedia por Puntos Dragon
+1153#Ultramundo: Raiz del Titan (Floresta Amnaita)#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Bosque Crepuscular (Valle de la Deoslacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (valle Cazacol)#Enciclopedia por Puntos Dragon
+1154#Ultramundo: Raiz del Titan (Floresta Amnaita)#Ultramundo: Secreto de Cadila (Humedal Aguasverdes)#Bosque Crepuscular (Valle de la Deoslacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (valle Cazacol)#Enciclopedia por Puntos Dragon
+1155#--- refinado
+1156#--- rerfinado
+1157#-- refinado
+1158#--- refinado
+1159#NPC Lugarteniente Dickie en Navea
+1160#NPC Lugarteniente Dickie en Navea
+1161#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1162#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1163#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1164#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso
+1165#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1166#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1167#--- refinado
+1168#--- refinado
+1169#--- refinado
+1170#--- refinadso
+1171#NPC Lugarteniente en Navea
+1172#NPC Lugarteniente Dickie en Navea
+1173#Cofre de tesoro Reino Celeste#Cofres Sala del Palio (Desierto Astral)
+1174#Cofres Reino Celeste#Cofres Sala del Palio (Desierto Astral)
+1175#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1176#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1177#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1178#--- refinado
+1179#--- refinado
+1180#--- refinado
+1181#Lugarteniente Dickie en Navea
+1182#Lugarteniente Dickie en Navea

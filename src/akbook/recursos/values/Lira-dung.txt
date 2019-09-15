@@ -1,0 +1,39 @@
+﻿---> Lira ubicaciones
+1501#Lumia (Arboleda Katkara)#Enciclopedia por Puntos Dragon
+1502#--- refinado
+1503#Recompensa de mision 'La peticion de Alvay' (Mina del Prodigio)
+1504#Recompensa de mision 'Detener el Desastre' (Mina del Prodigio)
+1505#Tunel del Prodigio (Mina del Prodigio)
+1506#Maestro de Lira Randall en Navea#Enciclopedia por Puntos Dragon
+1507#Cueva Sumergida (Cienaga Candeo)#Enciclopedi apor Putnos Dragon
+1508#--- refinado
+1509#Enciclopedi apor Puntos Dragon
+1510#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1511#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1512#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1513#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1514#--- refinado
+1515#--- refionado
+1516#Abismo Infernal (Praderas vendaval)#Enciclopedia por Puntos Dragon
+1517#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1518#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedi apor Puntos Dragon
+1519#Abismo remolino (Colina Creciente)#Enciclopedia por Puntos Dragon
+1520#Lugarteniente Fede en Navea
+1521#Lugarteniente Fred en navea
+1522#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1523#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1524#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1525#--- refinado
+1526#Torre Celeste Piso 21#Enciclopedia por Puntos Dragon
+1527#Lugarteniente Ferd en Navea
+1528#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
+1529#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Draogn
+1530#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+1531#--- refinado
+1532#Lugarteniente Fred en Navea
+1533#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedi apor Puntos Dragon
+1534#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverda Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+1535#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1536#--- refinado
+1537#Lugarteniente Fred en Navea
+1538#Torre Celeste Piso 36

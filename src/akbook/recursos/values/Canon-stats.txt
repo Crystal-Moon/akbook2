@@ -1,0 +1,38 @@
+﻿---> Canon stats
+2401#DMG + 8785#CRIT + 162#HP + 769#DEF + 91#HP máx. + 5% #Cada ataque tiene un 5% de probabilidad de disparar Modo Bombardeo, lo que aumenta el DMG en un 5% durante 15 segundos
+2402#DMG + 12028#CRIT + 238#HP + 1015#DEF + 131#Max HP + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de activar Modo Bombardeo, lo que aumenta el DMG en un 6% durante 15 segundos
+2403#DMG + 11044#CRIT + 192#HP + 870#DEF + 107#HP máx. + 5% #Cada ataque tiene un 8% de probabilidad de obtener Toma de Decisiones, lo que aumenta el DMG en un 4% durante 15 segundos
+2404#DMG + 8785#CRIT + 162#HP + 769#DEF + 91#Max HP + 5%
+2405#DMG + 11044#CRIT + 214#HP + 941#DEF + 119#HP máx. + 5% #Cada ataque tiene un 5% de probabilidad de activar Espiritu agresivo, que inflige 1138 de daño por segundo durante 15 segundos
+2406#DMG + 14138#CRIT + 290#HP + 1170#DEF + 159#Mueve SPD + 5% #nivel de habilidad de Meteor Cannon +5 #Cada ataque tiene un 8% de probabilidad de invocar el Poder de Tai, lo que aumenta el DMG en 2298 durante 15 segundos
+2407#DMG + 13592#CRIT + 276#HP + 1130#DEF + 152#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de detonar Frente de Artilleria, lo que aumenta el DMG en 2214 durante 15 segundos
+2408#DMG + 17664#CRIT + 381#HP + 1438#DEF + 208#Max HP + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad deobtener Bola de Cañon, lo que aumenta el DMG en 2832 durante 15 segundos
+2409#DMG + 16440#CRIT + 349#HP + 1337#DEF + 191#Máx. De HP + 5% #Nivel de habilidad Torreta de ametralladora +5 #Cada ataque tiene un 8% de probabilidad de disparar un Bombardeo poderoso, que inflige daño adicional
+2410#DMG + 16440#CRIT + 349#HP + 1337#DEF + 191#Máximo HP + 5% #Cada ataque tiene un 5% de probabilidad de lanzar Cañon de Bestia Salvaje, que inflige 1655 Daños por segundo durante 15 segundos
+2411#DMG + 16440#CRIT + 381#HP + 1170#EVA + 554#CRIT + 5% #Cada ataque tiene un 5% de probabilidad de disparar Bomba Solar, que inflige daño adicional
+2412#DMG + 19595#CRIT + 433#HP + 1622#DEF + 236#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de lanzar Bombardeo Incandecente, que inflige 1950 Daño por segundo durante 15 segundos
+2413#DMG + 19595#CRIT + 470#HP + 1380#EVA + 679#CRIT + 5% #Cada ataque tiene un 4% de probabilidad de invocar Energia del Esqueleto, lo que aumenta el CRIT en 960 durante 15 segundos.
+2414#DMG + 19595#CRIT + 470#HP + 1380#EVA + 679#CRIT + 5% #Cada ataque tiene un 4% de probabilidad de invocar Bombas Gloriosas, lo que aumenta el CRIT en 960 durante 15 segundos.
+2415#DMG + 24543#CRIT + 616#HP + 1821#EVA + 883#CRIT DMG + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de preparar Energia Osea, lo que aumenta el CRIT en 1183 durante 15 segundos
+2416#DMG + 20944#CRIT + 470#HP + 1753#DEF + 255#Máx. HP + 8% #Daño de habilidad de Granada ardiente + 30% #Daño + 50% a los objetivos de Atributos de Hielo #Cada ataque tiene un 8% de probabilidad deobtener Poder del Dios del Fuego, lo que aumenta el DMG en 3318 durante 15 segundos
+2417#DMG + 26074#CRIT + 616#HP + 2265#DEF + 331#Max HP + 5%#enfriamiento de Granada Gelida -15% #Cada ataque tiene un 8% de probabilidad de disparar bolas de cañon, que inflige daño adicional
+2418#DMG + 26074#CRIT + 616#HP + 1821#EVA + 883#CRIT DMG + 5%#daño del cañón plasmatico + 20% #Cada ataque tiene un 8% de probabilidad de disparar Poder Magico Arcaico, lo que aumenta el DMG en un 3% durante 15 segundos
+2419#DMG + 26074#CRIT + 572#HP + 2110#DEF + 308#Máx. HP + 5% #Rango de Bombardeo Pesado +2 metros #50% de bonificación Objetivos de atributo de Daño a la llama #Cada ataque tiene un 8% de probabilidad de lanzar Castigo del Leviatan, que inflige 1274 Daño por segundo durante 15 segundos
+2420#DMG + 17664#CRIT + 381#HP + 1438#DEF + 208#Max HP + 5% #PRE+ 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
+2421#DMG + 24543#CRIT + 572#HP + 2110#DEF + 308#Max HP + 5% #PRE+ 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
+2422#DMG + 23065#CRIT + 530#HP + 1962#DEF + 286#Máx HP + 5% #5% de probabilidad de activar Fuego concentrado cuando atacas, lo que aumenta el DMG en 3630 durante 15 segundos.
+2423#DMG + 23065#CRIT + 572#HP + 1687#EVA + 821#CRIT DMG + 5% #5% de probabilidad de activar Trampa Explosiva cuando atacas, lo que reparte 2269 DPS continuos durante 15 segundos.
+2424#DMG + 26859#CRIT + 639#HP + 2345#DEF + 343
+2425#DMG + 32732#CRIT + 815#HP + 2959#DEF + 435#DMG recibido de Boss Monsters -5% #DMG repartido a Boss Monsters + 10%
+2426#DMG + 34533#CRIT + 929#HP + 2774#EVA + 1319#DMG + 6% equipando cañón #"Granada Ignea" DMG + 25%
+2427#DMG + 34533#CRIT + 871#HP + 3152#DEF + 465#Máx. HP + 3%. #El daño del arma de cañón aumenta un 3%. #La duración del "Cristal Sanador" aumenta un 20 s.
+2428#DMG + 30986#CRIT + 762#HP + 2774#DEF + 408
+2429#DMG + 32732#CRIT + 815#HP + 2959#DEF + 435#HP + 8% #ACC + 10% #CRIT La tasa contra jugadores se incrementa en un 15%. #El daño infligido a jugadores aumenta un 30%
+2430#DMG + 35454#CRIT + 900#HP + 3251#DEF + 479
+2431#DMG + 42797#CRIT + 1118#HP + 4005#DEF + 593#DMG recibió de los jefes -5% #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+2432#DMG + 42297#CRIT + 1118#HP + 4005#DEF + 593#HP + 10% #ACC + 15% #CRIT + 20% contra jugadores #DMG + 35% contra jugadores 
+2433#DMG + 44381#CRIT + 1187#HP + 4240#DEF + 629#Max HP + 5% #Cannon DMG + 8% #DMG de "Cañon de Plasma" + 20% #PEN + 10%
+2434#DMG + 40271#CRIT + 1053#HP + 3779#DEF + 559
+2435#DMG + 45445#CRIT + 1222#HP + 4361#DEF + 647
+2436#DMG + 53307#CRIT + 1487#HP + 5269#DEF + 785#El DMG recibido de Boss Monsters se reduce en un 8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+2437#DMG + 53307#CRIT + 1487#HP + 5269#DEF + 785#HP + 12% #PRE+ 20% #TASA DE CRITO contra jugadores + 25% #DMG repartido contra jugadores tos + 40%
