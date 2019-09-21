@@ -75,3 +75,13 @@
 1974#DEF + 1565#DMG + 2914#CRIT + 1182#SPD + 885
 1975#DEF + 1956#SPD + 770#HP + 3570#EVA + 1494#Máx HP + 3% #EVA + 3% #SPD + 3% #DMG tomado de jugadores oponentes -10% #CRIT Rate + 10% contra jugadores oponentes
 1976#DEF + 1565#DMG + 2914#CRIT + 1121#SPD + 934#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores oponentes -8% #CRIT DMG contra jugadores oponentes + 25%
+1977#DEF + 2035#SPD + 770#HP + 3964#EVA + 1576
+1978#DEF + 1628#DMG + 3236#CRIT + 1182#SPD + 934
+1979#DEF + 1542#DMG + 3184#CRIT + 922#SPD + 729
+1980#DEF + 1928#SPD + 815#HP + 4024#EVA + 1229
+1981#DEF + 1542#DMG + 2950#CRIT + 970#SPD + 729
+1982#DEF + 1725#DMG + 3887#CRIT + 1071#SPD + 850
+1983#DEF + 2156#SPD + 710#HP + 5039#EVA + 1429
+1984#DEF + 1725#DMG + 3429#CRIT + 1215#SPD + 850
+1985#DEF + 2156#SPD + 710#HP + 5039#EVA + 1429#HP mÃ¡ximo + 3% #EVA + 3% #SPD + 3% #DAÃ‘O recibido de los jugadores enemigos -10% La #tasa de CRIT contra los jugadores enemigos se incrementa en un 15%
+1986#DEF + 1725#DMG + 3887#CRIT + 1071#SPD + 850#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores enemigos -8% #CRIT DMG + 30% contra jugadores enemigos

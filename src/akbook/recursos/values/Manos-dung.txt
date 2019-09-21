@@ -75,3 +75,13 @@
 1674#--- refinado
 1675#NPC Lugarteniente Dickie en Navea
 1676#NPC Lugarteniente Dickie en Navea
+1677#Cofres de Tesoro Reino Celeste#Cofres Sala del Palio (Desierto Astral)
+1678#Cofres de Tesoro Reino Celeste#Cofres Sala del Palio (Desierto Astral)
+1679#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1680#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1681#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1682#--- refinado
+1683#--- refinado
+1684#--- refinado
+1685#Lugarteniente Dickie en Navea
+1686#Lugarteniente Dickie en Navea
