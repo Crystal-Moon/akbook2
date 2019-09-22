@@ -1,0 +1,42 @@
+﻿---> kata ubicaciones
+1401#Lumia (Arboleda Katakara)#Enciclopedia por Punstos Dragon
+1402#--- refinado
+1403#Completar la mision 'La Petision de alvay' en Mina del Prodigio
+1404#Completar la mision 'Detener el Desastre' en Mina del Prodigio
+1405#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1406#Maestra de Katar Kata en Navea
+1407#Cueva Sumergida (Cienaga Candeo)#Gruta de Argos (Altiplano del Juicio)#Enciclopedia por Puntos Dragon
+1408#--- refinado
+1409#Enciclopedia por Puntos Dragon
+1410#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1411#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1412#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1413#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
+1414#--- refinado
+1415#--- refinado
+1416#Abismo Infernal (Praderas Vendaval)
+1417#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)
+1418#Torre Celeste Piso 6
+1419#Abismo Remolino (Costa de Helonia)
+1420#Lugarteniente Fred en Navea
+1421#Lugarteniente Fred en Navea
+1422#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1423#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
+1424#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
+1425#--- re4finado
+1426#Torre Celetse Piso 21
+1427#Lugarteniente Fred en Navea
+1428#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)
+1429#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1430#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+1431#--- refinado
+1432#Lugarteninete Fred en Navea
+1433#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)
+1434#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)#Abismo Luminoso (Bosque Perpetuo)
+1435#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
+1436#--- refinado
+1437#Lugarteniente Fred en Navea
+1438#Torre Celeste pisos 36-40#Obscure Temple (Hidden Valley)(+101)
+1439#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1440#--- refinado
+1441#Area pvp en navea

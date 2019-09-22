@@ -37,3 +37,6 @@
 1936#DMG + 37083#CRIT + 1569#SPD + 1379#EVA + 1983#CRIT DMG a Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 1937#DMG + 37083#CRIT + 1569#SPD + 1379#EVA + 1983#Mueve SPD + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt a jugadores opuestos + 40%
 1938#DMG + 38739#CRIT + 1654#SPD + 1452#EVA + 2092#Dual Pistols Weapon DMG se incrementa en un 10%. #Dual Pistols Skill Level +3 #al lanzar Tiro Apuntado, recibe el estado de Gun de Sharpshooter, aumenta la Tasa de CRIT y el máximo CRIT DMG en un 20%, dura 4 segundos #PEN + 12%
+1939#DMG + 36867#CRIT + 1291#SPD + 1132#EVA + 1634
+1940#DMG + 41749#CRIT + 1500#SPD + 1417#EVA + 1904#Tasa de CRIT + 20% contra jefes #DMG contra jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
+1941#DMG + 41749#CRIT + 1500#SPD + 1417#EVA + 1904#Mover SPD + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DMG repartido a jugadores enemigos + 40%

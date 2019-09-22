@@ -36,7 +36,7 @@
 1635#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
 1636#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
 1637#Raiz del Titan (Floresta Amanita)#Secreto de Cadila (Humedal Aguasverdes)#Enciclopedia por Puntos Dragon
-1638#Raiz del Titan (Floresta Amanita)#Enciclopedi apor Puntos Draogn
+1638#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Draogn
 1639#Raiz del Titan (Floresta Amanirta)#Enciclopedia por Puntos Dragon
 1640#Raiz del Titan (Floresta Amanita)#Enciclopedia por Puntos Dragon
 1641#Tundra Escarchada (Tundra Silenciosa)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultrmaundo: Gruta de Argos (Altiplano del Juicio)#Templo del Viento (Desierto Astral)#Enciclopedia por puntos Dragon
@@ -47,12 +47,12 @@
 1646#NPC Lugarteniente Dickie en Navea#Enciclopedia por Puntos Dragon
 1647#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
 1648#Templo del Viento (Desierto Astral)#Enciclopedia por Puntos Dragon
-1649#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
-1650#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
-1651#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
-1652#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
-1653#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
-1654#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1649#Templo del Trueno Oscuro (Praderas Vendaval)#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+1650#Templo del Trueno Oscuro (Praderas Vendaval)#Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
+1651#Templo del Trueno Oscuro (Praderas Vendaval)#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1652Templo del Trueno Oscuro (Praderas Vendaval)##Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1653#Templo del Trueno Oscuro (Praderas Vendaval)#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
+1654#Templo del Trueno Oscuro (Praderas Vendaval)#Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Ultramundo: Raiz del Titan (Floresta Amanita)#Ultramundo: Secrerto de Cadila (Humedal Aguasverdes)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
 1655#--- refinado
 1656#--- refinado
 1657#--- refinado
@@ -77,9 +77,9 @@
 1676#NPC Lugarteniente Dickie en Navea
 1677#Cofres de Tesoro Reino Celeste#Cofres Sala del Palio (Desierto Astral)
 1678#Cofres de Tesoro Reino Celeste#Cofres Sala del Palio (Desierto Astral)
-1679#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
-1680#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
-1681#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1679#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1680#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1681#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
 1682#--- refinado
 1683#--- refinado
 1684#--- refinado

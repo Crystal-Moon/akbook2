@@ -5,7 +5,7 @@
 2704#Completar la mision "Detener el desastre" en Mina del Prodigio
 2705#Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
 2706#NPC Maestro de Dagas Gemelas Carlos en Navea
-2707#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedi apor Puntos Dragon
+2707#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas (Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Enciclopedia por Puntos Dragon
 2708#--- refinado
 2709#Enciclopedia por Puntos Dragon
 2710#Cueva de la Lagrima (Bosque del Olvido)#Templo Arenas Desierto Astral)#Templo de Guerra (Praderas Vendaval)#Ensciclopedi apor Puntos Dragon
@@ -15,7 +15,7 @@
 2714#-- efinado
 2715#--- refinado
 2716#Abismo Infernal (Praderas Vendaval)#Enciclopedia por Puntos Dragon
-2717#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedi apor Puntos Dragon
+2717#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia por Puntos Dragon
 2718#Torre Celeste (Piso 5)#Enciclopedia por Puntos Dragon
 2719#Abismo Remolino (Cota de Helonia)#Enciclopedia por Puntos Dragon
 2720#NPC Lugarteniente Fred en Navea
@@ -27,8 +27,8 @@
 2726#NPC lugarteniente Fred en Navea
 2727#Torre Celeste (Piso 25)
 2728#Ultramundo: Cueva Sumerguida (Cienaga Candeo)#Ultramundio: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Draogn
-2729#Abismo Avaricia (Praderas Vendaval)#Enciclopedia por Puntos Dragon
-2730#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2729#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2730#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
 2731#--- refinado
 2732#NPC Lugarteniente Fred en Navea
 2733#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Enciclopedia por Puntos Dragon
@@ -36,7 +36,7 @@
 2735#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
 2736#--- refinado
 2737#NPC Lugarteniente Fred en Navea
-2738#Templo Oscuro (Praderas Vendaval)
-2739#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+2738#Torre Celeste pisos 36-40#Obscure Temple (Hidden Valley)(+101)
+2739#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
 2740#--- refinado
 2741#Area pvp en Navea

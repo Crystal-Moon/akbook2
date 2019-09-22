@@ -27,8 +27,8 @@
 2526#Tore Celeste (Piso 24)#Enciclopedia por Puntos Dragon
 2527#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Ultramundo: Gruta de Argos (Altiplano del Juicio)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
 2528#NPC Lugarteniente Fred en Navea
-2529#Abismo Avaricia (Praderas Esmeralda)#Enciclopedi apor Puntos Dragon
-2530#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2529#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2530#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
 2531#--- refinado
 2532#NPC Lugarteniente Fred en Navea
 2533#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Ultramundo : Bosque Crepuscular (Valle de la Desolacion)#Enciclopedia por Puntos Dragon
@@ -36,3 +36,7 @@
 2535#Abismo Luminoso (Bosque Perpetuo)#Caverena Bosque del Tiempo (Bosque Perpetuo)#Ultramundo : Laboratorio de las Sarpias (Selva de Cascadas)#Ultramunod: Tumba Antigua (valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)
 2536#--- refinado
 2537#NPC Lugarteniente Fred en Navea
+2538#Torre Celeste pisos 36-40#Obscure Temple (Hidden Valley)(+101)
+2539#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+2540#--- refinado
+2541#Area pvp en Navea

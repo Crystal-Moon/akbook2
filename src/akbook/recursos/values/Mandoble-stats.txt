@@ -37,3 +37,6 @@
 1636#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 744#DMG recibido de Boss y Elite Monsters -8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 1637#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 774#HP + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt to Opposing Players + 40%#
 1638#DMG + 58109#CRIT + 1654#HP + 5550#DEF + 785#Arma de la espada sagrada DMG + 10% #Nivel de habilidad de la espada sagrada +3 #Al lanzar la Resistencia divina, el objetivo recibe el efecto del Día del Juicio, DMG recibido de Juramento y Rayo divino + 15%, dura 5 segundos #PEN + 12%
+1639#DMG + 55300#CRIT + 1291#HP + 5634#DEF + 754
+1640#DMG + 62623#CRIT + 1500#HP + 7054#DEF + 879#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+1641#DMG + 62623#CRIT + 1500#HP + 7054#DEF + 879#HP máximo + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%

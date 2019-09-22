@@ -16,7 +16,7 @@
 1615#-- refinado
 1616#Abismo Infernal (Praderas Vendaval)#Enciclopedia por Puntos Dragon
 1617#Torre Celeste Piso 9
-1618#Abismo Remolino (Colina Creciente)#Enciclopedi apor Puntos Draogn
+1618#Abismo Remolino (Colina Creciente)#Enciclopedia por Puntos Draogn
 1619#Ultramundo: Templo Alabastro (Colina Creciente)#Ultramundo: Lumia (Arboleda Katakara)#Ultramundo: Tunel del Prodigio (Mina del Prodigio)#Enciclopedia Por Puntos Dragon
 1620#Lugarteniente Fred en Navea
 1621#Lugarteniente Fred en Navea
@@ -27,8 +27,8 @@
 1626#Torre Celeste Piso 24#Esnciclopedia por Puntos Dragon
 1627#Lugarteniente fred en Navea
 1628#Lugarteniente Fred en navea
-1629#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
-1630#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+1629#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+1630#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
 1631#--- refinado
 1632#Lugarteniente Fred en Navea
 1633#Ultramundo: Bosque Crepuscular (Valle de la Desolacion)#Laboratorio de las Sarpias (Selva de Cascadas)#Tumba Antigua (Valle Cazacol)
@@ -36,4 +36,7 @@
 1635#Ultramundo: Laboratorio de las Sarpias#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
 1636#--- refinado
 1637#Lugarteniente Fred en Navea
-1638#Torre Celeste Piso 36
+1638#Torre Celeste pisos 36-40#Obscure Temple (Hidden Valley)(+101)
+1639#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+1640#--- refinado
+1641#Area pvp en Navea

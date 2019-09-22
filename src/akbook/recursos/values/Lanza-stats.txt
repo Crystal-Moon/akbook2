@@ -36,3 +36,7 @@
 2335#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Boss Monsters + 10% #Arma Nivel de Habilidad +2 #PEN + 12%
 2336#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#Mueve SPD + 12% #ACC + 20% #CRIT DMG contra jugadores opuestos + 25% #DMG Dealt a jugadores opuestos + 40%
 2337#DMG + 56172#SPD + 1379#HP + 5550#DEF + 785#Lance DMG + 10% #Lance Nivel de habilidad +3 #Lanza Lightning Strike e imbuye al objetivo con el efecto de estado Superconductor + 15% Lightning DAÑO recibido durante 6 segundos. #PEN + 12%
+2338#DMG + 33016#CRIT + 929#DEF + 435#EVA + 679#CRIT + 6%.#PRE + 10%#La tasa de CRIT contra los jugadores oponentes aumenta en un 15%.#El da�o infligido a los jugadores oponentes aumenta en un 30%.
+2339#DMG + 53457#SPD + 1076#HP + 5634#DEF + 754
+2340#DMG + 60536#SPD + 1250#HP + 7054#DEF + 879#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2341#DMG + 60536#SPD + 1250#HP + 7054#DEF + 879#Mover SPD + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DMG repartido a jugadores enemigos + 40%

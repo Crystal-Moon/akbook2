@@ -22,7 +22,7 @@
 5521#Tree Cave (Secret Forest Lake)#Cripta del Dios Ancestral (Desierto Desolado)#Cueva Glacial (Montañas Frigga)#Caverna Bosque del Tiempo (Bosque Perpetuo)
 5522#Ultramundo: Tundra Silenciosa (Arboleda Katakara)
 5523#Ultramundo: Tumba antigua (Valle Cazacol)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)
-5524#Silen Ancient Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval [?])
+5524#Silen Ancient Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)
 5525#Ultramundo: Colina Coleus (Arboleda Katakara)
 5526#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)#Ultamundo: Caverna Bosque de la Cronologia (Bosque Perpetuo)
 5527#Torre Celeste Piso 1-10#Enciclopedia por Puntos Dragon

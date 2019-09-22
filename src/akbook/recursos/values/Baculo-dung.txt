@@ -27,15 +27,15 @@
 2226#Torre Celeste (piso 23)#Enciclopedia por Puntos Dragon
 2227#NPC lugarteniente Fred en Navea
 2228#Ultramundo: Cueva de Argos (Altiplano del Juicio)#Ultramundo: Cueva Sumergida (Cienaga Candeo)#Purgatorio Ardiente (Bosque del Olvido)#Enciclopedia por Puntos Dragon
-2229#Abismo Avaricia (Praderas Esmeralda)#Enciclopedia por Puntos Dragon
-2230#Abismo Avaricia (Praderas Esmeralda)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
+2229#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Enciclopedia por Puntos Dragon
+2230#Abismo Avaricia (Praderas Esmeralda)#Templo del Trueno Oscuro (Praderas Vendaval)#Abismo Luminoso (Bosque Perpetuo)#Enciclopedia por Puntos Dragon
 2231#--- Refinado
 2232#NPC lugarteniente Fred en Navea
 2233#Laboratorio de las Sarpias(Selva de Cascadas)#Tumba Antigua (Valle Cazacol)#Ultramundo: Bosque Crepuscular (Valle de la Desolaciuon)#Enciclopedia por Puntos Dragon
 2234#Caverna de la Cronologia (Bosque Perpetuo)#Abismo luminoso (Bosque Perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Ultramundo Destrozado (Desierto Tempestuoso)
 2235#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua#Caverna Bosque del Tiempo (Bosque Perpetuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo destrozado (Desierto tempestuoso)
 2236#--- refinado
-2237#Templo oscuro (Praderas vendaval)
-2238#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+2237#Torre Celeste pisos 36-40#Obscure Temple (Hidden Valley)(+101)
+2238#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
 2239#--- refinado
 2240#Area de pvp en Navea

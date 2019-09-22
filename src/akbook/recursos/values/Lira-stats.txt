@@ -37,3 +37,6 @@
 1536#DMG + 34765#CRIT + 1487#SPD + 1379#HP + 4998#DMG recibido de Boss y Elite Monsters -8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 1537#DMG + 34765#CRIT + 1487#SPD + 1379#HP + 4998#HP + 12% #ACC + 20% #DMG recibido de jugadores oponentes -20% #DMG Dealt to Opposing Players + 40%
 1538#DMG + 36318#CRIT + 1569#SPD + 1452#HP + 5269#El Arma Arpa DMG tiene un + 10% #Nivel de habilidad de arpa +3 #Al lanzar Ambient Drone, los objetivos reciben el efecto Siren Swirl. DMG tomado de Ambient Drone, Storm Song y Blissful Harmony + 20%, dura 6 segundos #PEN + 12%
+1539#DMG + 34563#CRIT + 1225#SPD + 1132#HP + 5354
+1540#DMG + 39139#CRIT + 1428#SPD + 1417#HP + 6223#DMG recibido de Boss y Elite Monsters -8% #DMG contra Jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
+1541#DMG + 39139#CRIT + 1428#SPD + 1417#HP + 6223#HP máx. + 15% #PRE + 25% #DAÑO recibido de jugadores enemigos -25% #DAÑO repartido a jugadores enemigos + 40%

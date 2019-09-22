@@ -37,3 +37,6 @@
 1836#DMG + 50062#CRIT + 1569#SPD + 1379#EVA + 1983#CRIT DMG a Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 1837#DMG + 50062#CRIT + 1569#SPD + 1379#EVA + 1983#Mueve SPD + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt a jugadores opuestos + 40%
 1838#DMG + 52298#CRIT + 1654#SPD + 1452#EVA + 2092#Shuriken DMG + 10% #Nivel de habilidad Shuriken +3 #Mientras lanzas Shuriken Storm, recibirás el estado Rápido como Rayo. Incrementa la DMG de la estrella de arce y la corrupción de sangre en un + 15% #PEN + 12%
+1839#DMG + 49770#CRIT + 1291#SPD + 1132#EVA + 1634
+1840#DMG + 56361#CRIT + 1500#SPD + 1417#EVA + 1904#Tasa de CRIT + 20% contra jefes #DMG contra jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
+1841#DMG + 56361#CRIT + 1500#SPD + 1417#EVA + 1904#Mover SPD + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DMG repartido a jugadores enemigos + 40%

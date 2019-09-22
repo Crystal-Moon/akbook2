@@ -36,3 +36,7 @@
 2335#DMG + 33590#CRIT + 1294#HP + 3891#EVA + 1825
 2336#DMG + 39401#CRIT + 1569#HP + 4736#EVA + 2206#CRIT DMG a monstruos Jefe + 30% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 2337#DMG + 39401#CRIT + 1569#HP + 4736#EVA + 2206#EVA + 12% #PRE + 20% #CRIT DMG contra jugadores oponentes + 40% #DMG Dealt to Opposing Players + 40%
+2338#DMG + 41161#CRIT + 1654#HP + 4998#EVA + 2323#Grimoire Weapon DMG + 10% #Grimoire Skill Level +3 #Al lanzar Flame Impact, recibe el estado Curse Rampage. Dark and Flame DMG + 15%, duran 5 segundos #PEN + 12%
+2339#DMG + 39171#CRIT + 1291#HP + 5083#EVA + 1811
+2340#DMG + 44358#CRIT + 1500#HP + 5923#EVA + 2267#DAÑO contra jefes + 8% #DAÑO + 8% contra monstruos de élite #Nivel de habilidad con arma +2 #PEN + 15%
+2341#DMG + 44358#CRIT + 1500#HP + 5923#EVA + 2267#EVA + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

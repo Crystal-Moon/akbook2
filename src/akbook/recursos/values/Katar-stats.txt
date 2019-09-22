@@ -1,0 +1,42 @@
+﻿---> Katar stats
+1401#DMG + 7258#CRIT + 162#HP + 769#EVA + 242#HP Máx. + 5% #Cada ataque tiene un 5% de probabilidad de bloquear la Ola de la Serpiente, que inflige Daño adicional
+1402#DMG + 9936#CRIT + 238#HP + 1015#EVA + 351#HP máximo + 5% de #daño contra jefes + 10% #Cada ataque tiene un 5% de probabilidad de invocar la ira de Zaahir, que inflige daño adicional
+1403#DMG + 9936#CRIT + 238#HP + 941#EVA + 351#Max HP + 5% #Cada ataque tiene un 8% de probabilidad de activar un Mythril Slash, que inflige daño adicional
+1404#DMG + 7258#CRIT + 162#HP + 769#EVA + 242#HP máx. + 5%
+1405#DMG + 9123#CRIT + 214#HP + 941#EVA + 317#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de imbuir Dark Thunder, lo que aumenta el DAÑO en 1820 durante 15 segundos
+1406#DMG + 11679#CRIT + 290#HP + 1170#EVA + 425#HP máximo + 5% #2% de DEF agregado a CRIT #Al aterrizar un golpe crítico, hay un 16% de probabilidad de obtener la Fuerza de Katrina, que aumenta el DAÑO en un 6% durante 15 segundos
+1407#DMG + 11228#CRIT + 276#HP + 1130#EVA + 405#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de impartir energía de rubí, lo que aumenta el EVA en 568 durante 15 segundos
+1408#DMG + 14592#CRIT + 381#HP + 1438#EVA + 554#Max HP + 5% #CRIT Daño contra jefes + 25% #Cada ataque tiene un 8% de probabilidad de conferir una Bendición Esmeralda, lo que aumenta EVA en 726 durante 15 segundos
+1409#DMG + 13581#CRIT + 349#HP + 1252#EVA + 508#Max HP + 5% #Cada ataque tiene un 8% de probabilidad de abrir Heridas congeladas, que inflige 1655 de Daño por segundo durante 15 segundos
+1410#DMG + 13581#CRIT + 349#HP + 1337#EVA + 508#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de activar la Puñalada del Cazador, que inflige 1655 de Daño por segundo durante 15 segundos
+1411#DMG + 13581#CRIT + 415#HP + 1170#EVA + 508#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de inyectarte sangre forjada, lo que aumenta el DAÑO en 2648 durante 15 segundos
+1412#DMG + 16187#CRIT + 433#HP + 1622#EVA + 627#Max HP + 5% #Cada ataque tiene un 5% de probabilidad de soltar el Grito del águila, lo que aumenta el DAÑO CRIT en un 25% durante 15 segundos
+1413#DMG + 16187#CRIT + 509#HP + 1380#EVA + 627#CRIT + 3% #Cada golpe crítico tiene un 10% de probabilidad de imbuir rectitud, lo que aumenta el DAÑO en 3120 durante 15 segundos
+1414#DMG + 20275#CRIT + 572#HP + 2110#EVA + 821#HP máximo + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de activar Furia alada, lo que aumenta el DAÑO CRIT en un 35% durante 15 segundos
+1415#DMG + 20275#CRIT + 662#HP + 1821#EVA + 821#CRIT + 3% #Daño #crítico contra jefes + 25% Cada golpe crítico tiene un 10% de probabilidad de ganar el favor del inquisidor, lo que aumenta el DAÑO en 3846 durante 15 segundos
+1416#DMG + 21539#CRIT + 572#HP + 2110#EVA + 821#Max HP + 5% #Blitz skill Crit Rate + 8% #Cada ataque tiene un 8% de probabilidad de causar el Pain of the Fallen, que inflige 1274 de Daño por segundo durante 15 segundos
+1417#DMG + 21539#CRIT + 616#HP + 2265#EVA + 883#HP máximo + 5% #Daño de la habilidad de electrocución + 25% #Cada ataque tiene un 8% de probabilidad de colmillos desnudos, lo que aumenta el DAÑO CRIT en un 35% durante 15 segundos
+1418#DMG + 21539#CRIT + 572#HP + 2110#EVA + 821#Max HP + 5% #Blitz skill Crit Rate + 8% #Cada ataque tiene un 8% de probabilidad de causar el Pain of the Fallen, que inflige 1274 de Daño por segundo durante 15 segundos
+1419#DMG + 21539#CRIT + 662#HP + 1821#EVA + 821#HP máx. + 8% de #curación de la fuerza interior + 20% #50% de bonificación a los objetivos de atributos de llamas #Cada golpe crítico tiene un 16% de probabilidad de derivar el Principio de exclusión, que aumenta el EVA en 1043 durante 15 segundos
+1420#DMG + 14592#CRIT + 381#HP + 1438#EVA + 554#HP máx. + 5% #PRE+ 10% #Tasa crítico contra jugadores + 10% #Daño contra jugadores + 25%
+1421#DMG + 20275#CRIT + 572#HP + 2110#EVA + 821#HP máx. + 5% #PRE + 10% #Tasa crítico contra jugadores + 10% #Daño contra jugadores + 25%
+1422#DMG + 19054#CRIT + 530#HP + 1962#EVA + 762#HP máximo + 5% #5% de probabilidad de activar el talón de Aquiles al atacar, lo que aumenta el DAÑO en 3630 durante 15 segundos.
+1423#DMG + 19054#CRIT + 616#HP + 1687#EVA + 762#CRIT + 3% #5% de probabilidad de activar Huesos heridos al atacar, que inflige 2269 DPS continuos durante 15 segundos.
+1424#DMG + 22188#CRIT + 639#HP + 2345#EVA + 915
+1425#DMG + 27039#CRIT + 815#HP + 2959#EVA + 1161#CRIT DMG contra Boss Monsters + 25% #DMG repartido a Boss Monsters + 10%
+1426#DMG + 28527#CRIT + 990#HP + 2774#EVA + 1239#DAÑO + 6% para Arma Katars #"Shadow Strike" CRIT DAÑO + 20%
+1427#DMG + 27039#CRIT + 815#HP + 2959#EVA + 1161#HP + 8% #PRE + 10% La #tasa de CRIT contra los jugadores oponentes se incrementa en un 15% El #daño infligido a los jugadores oponentes se incrementa en un 30%
+1428#DMG + 28527#CRIT + 871#HP + 3152#EVA + 1239#Máx. HP + 3% El #daño de arma Katar aumenta en un 3% El #daño de "Golpe de loto" aumenta en un 20%
+1429#DMG + 25597#CRIT + 762#HP + 2774#EVA + 1087
+1430#DMG + 29288#CRIT + 900#HP + 3251#EVA + 1279
+1431#DMG + 34941#CRIT + 1118#HP + 4005#EVA + 1582#CRITER DAÑO a Boss Monsters + 25% #DAÑO a Boss Monsters + 10%. #Nivel de habilidad con arma +1 #PEN + 10%
+1432#DMG + 34941#CRIT + 1118#HP + 4005#EVA + 1582#HP + 10% #PRE + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
+1433#DMG + 36663#CRIT + 1187#HP + 4240#EVA + 1677#Max HP + 5% #Katar DMG + 8% #DMG de "Electrocución" + 20% #PEN + 10%
+1434#DMG + 33267#CRIT + 1053#HP + 3779#EVA + 1491
+1435#DMG + 37542#CRIT + 1222#HP + 4361#EVA + 1725
+1436#DMG + 44036#CRIT + 1487#HP + 5269#EVA + 2092#CRIT DMG en Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Arma Nivel de habilidad +2 #PEN + 12%
+1437#DMG + 44036#CRIT + 1487#HP + 5269#EVA + 2092#HP + 12% #PRE + 20% #TASA DE CRITERIO contra jugadores opuestos + 25% #DMG repartido a jugadores opuestos + 40%
+1438#DMG + 46003#CRIT + 1569#HP + 5550#EVA + 2206#Katar Weapon DMG + 10% #Katar Skill Level +3 #Al lanzar Sparks and Flames, el área de efecto aumenta en 3 metros. Llama DAÑO recibido por los objetivos + 20%, dura 6 segundos #PEN + 12%
+1439#DMG + 43779#CRIT + 1225#HP + 5634#EVA + 1721
+1440#DMG + 49577#CRIT + 1428#HP + 7054#EVA + 2000#CRIT Rate +20% against bosses#DMG against Bosses +10%#Weapon Skill Level +2#PEN +15%
+1441#DMG + 49577#CRIT + 1428#HP + 7054#EVA + 2000#Max HP +15%#PRE +25%#CRIT Rate against enemy players +30%#DMG Dealt to Opposing Players +40%
