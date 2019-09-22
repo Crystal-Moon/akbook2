@@ -104,3 +104,29 @@
 2103#SPD + 1245#HP + 4516#EVA + 1793#SPD +1252 #DMG + 3% #Tus ataques tienen un 8% de probabilidad de activar una Llama abrasadora, lo que reduce el DEF del objetivo en 2713, el EVA en 2087 durante 15 s.
 2104#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +1461 #CRIT DMG + 25% #Tus ataques tienen un 4% de probabilidad de disparar Rayo zelote, lo que provoca que infliges un 3% más de daño a los objetivos de cualquier atributo durante 10 segundos, apilando hasta 3 veces.
 2105#DMG + 3883#CRIT + 1418#SPD + 1121#DMG +2035 #DMG + 5% #Tus golpes críticos tienen un 10% de probabilidad de activar Luz enfocada, lo que aumenta el DMG de tu próximo ataque en un 35%. Efectivo durante 15 segundos.
+2106#SPD + 924#HP + 4757#EVA + 1891#Habilidades de tormenta DAÑO + 20% #DAÑO Trato a Tormenta Atributos objetivos + 30%
+2107#SPD + 1245#HP + 4516#EVA + 1793#Habilidades sagradas DAÑO + 20% #DAÑO Dada a Luz Sagrada Atributos objetivos + 30%
+2108#DMG + 3883#CRIT + 1418#SPD + 1121#Habilidades Oscuras DAÑO + 20% #DAÑO Dañado a los objetivos Atributo Oscuro + 30%
+2109#SPD + 924#HP + 4757#EVA + 1891#Habilidades de Rayo DMG + 20% #DAÑO Dada a Rayo Atributos objetivos + 30%
+2110#SPD + 1245#HP + 4516#EVA + 1793#Hielo habilidades DAÑO + 20% #DAÑO Dada a Hielo Atributos objetivos + 30%
+2111#DMG + 3883#CRIT + 1418#SPD + 1121#Habilidades de fuego DAÑO + 20% #DAÑO Reparto a Llama Atributo objetivos + 30%
+2112#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +2088 #CRIT DMG + 25% #Cada ataque CRIT tiene un 10% de probabilidad de infligir Golpe paralizante, que inflige 2442 DPS durante 6 segundos. Se acumula hasta 5 veces y dura hasta 10 segundos.
+2113#SPD + 1245#HP + 4516#EVA + 1793#SPD +4174 DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Bombardeo de Ventisca, lo que aumenta el SPD de ATQ en un 20% y la probabilidad de doble ataque en un 10% durante 12 segundos.
+2114#SPD + 924#HP + 4757#EVA + 1891#EVA +1044 DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Guardia, aumentando la DEF de todo el grupo en 271 y HP en +285 durante 15 segundos. Se acumula hasta 5 veces.
+2115#DMG + 3883#CRIT + 1418#SPD + 1121#DAÑO +2848 DAÑO #+ 5% #Tus ataques tienen un 12% de probabilidad de activar Fatiga, disminuyendo la DEF en 652 durante 15 segundos. Se acumula hasta 5 veces.
+2116#SPD + 924#HP + 4757#EVA + 1891#HP +2279 #CRIT DMG -30% #50% de activación del estado Fanático cada vez que se recibe CRIT DMG, disminuyendo el siguiente DMG tomado en un 40% durante 10 segundos.
+2117#DMG + 3687#CRIT + 1493#SPD + 1121#HP +2075 #CRIT Rate + 5% #12% de probabilidad de activar Respiración hipotérmica con cada CRIT Attackm aumentando el DAÑO en 819 y HP en +570 durante 15 segundos. Se acumula hasta 3 veces.
+2118#SPD + 898#HP + 6341#EVA + 1943#HP +2853 #DMG recibido -8% Obtienes un hechizo #antiguo cuando eres atacado, recuperando HP en un 8%. Este efecto se puede activar una vez cada 12 segundos.
+2119#SPD + 1274#HP + 6046#EVA + 1714#SPD +1528 #CRIT DMG + 25% #Tus ataques tienen un 4% de probabilidad de activar Boogeyman y activar DEF -2874 del objetivo y Move SPD -20%. Dura 10 segundos
+2120#DMG + 4664#CRIT + 1529#SPD + 1071#CRIT +2293 #CRIT Rate + 8% #Tus ataques tienen un 6% de probabilidad de activar Warrior's Faith y activar todas las estadísticas +1516 durante 15 segundos.
+2121#DMG + 4892#CRIT + 1458#SPD + 1071#DAÑO +3179 #Detalle- DAÑO + 5% #Tus ataques tienen un 10% de probabilidad de disparar Llamas del Purgatorio en un radio de 5 metros desde un objetivo específico, con 3031 DAÑO. Se acumula hasta 3 veces, dura 15 segundos.
+2122#DMG + 4664#CRIT + 1529#SPD + 1071#CRIT +2140 #CRIT DMG + 25% #Tus golpes CRIT tienen un 10% de probabilidad de activar Thunder Force, DMG subsiguiente + 50%. Dura 15 segundos.
+2123#SPD + 898#HP + 6341#EVA + 1943#DEF +1223 DAÑO #recibido -8% #Los ataques enemigos tienen un 9% de probabilidad de activar Trance demoníaco, disminuyendo el DAÑO recibido de todos los miembros del grupo en un 15% dentro de un radio de 8 metros y restaurando continuamente 6% HP. Dura 5 segundos El enfriamiento de la habilidad es de 10 segundos.#
+2124#DMG + 3725#CRIT + 1106#SPD + 875#DMG +1490#DMG +3% to Elite Monsters
+2125#SPD + 978#HP + 4829#EVA + 1475#DEF +1074%#Received DMG from Boss and Elite Monsters -8%.
+2126#SPD + 970#HP + 4589#EVA + 1364#SPD +1455#DMG +3% to Boss Monsters
+2127#DMG + 3540#CRIT + 1164#SPD + 875#CRIT +1164#CRIT DMG to Boss and Elite Monsters +8%
+2128#DMG + 4777#CRIT + 1423#SPD + 1046#DMG +1910#CRIT DMG +25% on Boss Monsters#Your attacks have an 8% chance to trigger Death Praise, inflicting 3990 DPS to the target for 10 secs.
+2129#SPD + 875#HP + 6193#EVA + 1673#DEF +1378 #DMG recibido de Boss y Elite Monsters -8%. #La curaci�n desencadena el eco nocturno fr�gil, SPD +2121 y DEF +1940. Dura 15 segundos.
+2130#SPD + 1244#HP + 5902#EVA + 1673#SPD +1866 DA�O #+ 5% a Boss Monsters #Tus ataques tienen un 7% de probabilidad de obtener Bloodthirsty Nature, convirtiendo el 10% del DA�O infligido por los ataques normales para restaurar HP. Tiene una duraci�n de 20 segundos.
+2131#DMG + 4553#CRIT + 1493#SPD + 1046#CRIT +1493 #CRIT DMG a Boss y �lites + 15% #Tus ataques CRIT tienen un 15% de probabilidad de activar Toque de Escarcha y activar el DEF -876 del objetivo. Se acumula hasta 5 veces, dura 15 segundos.

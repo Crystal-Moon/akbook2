@@ -63,3 +63,15 @@
 3662#--- refinado
 3663#NPC Lugarteniente Dickie en Navea
 3664#NPC Lugarteniente Dickie en Navea
+3579#Torre Celeste Piso 39
+3580#Torre Celeste Piso 36
+3581#Cofres de Tesoro Reino Celeste
+3582#Guarida del Duque Alado (Desierto Tempestuoso)
+3583#Ultramundo: Colina Coleus
+3584#Ultramundo: Colina Coleus
+3585#Ultramundo: Colina Coleus
+3586#--- refinado
+3587#--- refinado
+3588#--- refinado
+3589#Lugarteniente Dickie en Navea
+3590#Lugateniente Dickie en navea

@@ -35,3 +35,7 @@
 2134#Caverna Bosque del Tiempo (Bosque Perpetuo)#ltramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Abismo luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Temmpestuoso)
 2135#Caverna Bosque del Tiempo (Bosque perpetuo)#Ultramundo: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo destrozado (Desierto tempestuoso)
 2136#--- refinado
+2137#Templo Oscuro (Praderas Vendaval)
+2138#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+2139#--- refinado
+2140#Area pvp en Navea

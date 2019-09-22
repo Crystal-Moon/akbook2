@@ -36,3 +36,7 @@
 2435#Ultramuno: Laboratorio de las Sarpias (Selva de Cascadas)#Ultramundo: Tumba Antigua (Valle Cazacol)#Caverna Bosque del Tiempo (Bosque Perpetiuo)#Abismo Luminoso (Bosque Perpetuo)#Ultramundo Destrozado (Desierto Tempestuoso)
 2436#--- refinado 
 2437#NPC Lugarteniente Fred en Navea
+2438#Templo Oscuro (Praderas vendaval)
+2439#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)#Dawn Passage (Gloomy Ridge)#Templo Oscuro (Praderas Vendaval)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
+2440#--- refiando
+2441#Area de pvp en Navea

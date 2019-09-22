@@ -62,6 +62,18 @@
 3561#DMG +2458#CRIT +897#SPD +708
 3562#SPD +582#HP +3011#EVA +1196
 3563#SPD +788#HP +2856#EVA +1133
-3567#DMG +2331#CRIT +945#SPD +708
+3564#DMG +2331#CRIT +945#SPD +708
 3565#SPD + 616#HP + 2856#EVA + 1196#HP máx. + 3% #EVA + 3% #SPD + 3% #DMG tomado de jugadores -10% #CRIT Rate + 10% contra jugadores
 3566#DMG + 2331#CRIT + 897#SPD + 747#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores -8% #CRIT DMG contra jugadores +25%
+3567#HP + 3011#DEF + 498#EVA + 1196#DEF +2%
+3568#DMG + 2458#CRIT + 897#SPD + 830#SPD +2%
+3569#DMG + 2589#CRIT + 945#SPD + 747#DMG + 2%
+3570#DMG + 2458#CRIT + 996#SPD + 747#CRIT +2%
+3571#DMG + 2484#CRIT + 738#SPD + 584
+3572#SPD + 652#HP + 3219#EVA + 983#
+3573#DMG + 2360#CRIT + 776#SPD + 584
+3574#DMG + 3109#CRIT + 857#SPD + 680
+3575#SPD + 568#HP + 4031#EVA + 1143
+3576#DMG + 2743#CRIT + 972#SPD + 680
+3577#SPD + 599#HP + 2981#EVA + 958#Max HP +3%#EVA +3%#SPD +3%#Received DMG from enemy players -10%#CRIT Rate against Opponent Players is increased by 15%
+3578#DMG + 2743#CRIT + 857#SPD + 714#DMG +3%#CRIT +3%#SPD +3%#DMG received from opposing players -8%#CRIT DMG +30% against opposing players

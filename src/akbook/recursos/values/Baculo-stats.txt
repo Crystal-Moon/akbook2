@@ -35,3 +35,7 @@
 2234#DMG +36769#CRIT +1187#SPD +877#EVA +1491
 2235#DMG +41494#CRIT +1369#SPD +1018#EVA +1725
 2236#DMG +48671#CRIT +1654#SPD +1239#EVA +2092#CRIT DMG en monstruos Jefe + 30%#DMG contra monstruos jefe + 10%#Nivel de habilidad con armas +2#Penetracion + 12%
+2237#DMG + 50845#CRIT + 1742#SPD + 1308#EVA + 2206#El DAÑO del arma del personal aumentó en un 10%. #Gran nivel de habilidad del personal +3 #Al lanzar Explosión elemental, recibe el estado Rugido elemental. Aumenta el DAÑO del objetivo a todos los atributos y DAÑO recibido en un 10%, dura 5 segundos #PEN + 12%
+2238#DMG + 48388#CRIT + 1358#SPD + 1021#EVA + 1721
+2239#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2240#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRIT + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

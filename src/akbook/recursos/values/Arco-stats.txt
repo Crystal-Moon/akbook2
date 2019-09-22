@@ -35,3 +35,7 @@
 2134#DMG +36069#CRIT +1053#SPD +989#EVA +1491
 2135#DMG +40703#CRIT +1222#SPD +1141#EVA +1725
 2136#DMG +47744#CRIT +1487#SPD +1379#EVA +2092#CRIT DMG en Boss Monsters +30%#DMG contra Boss Monsters +10%#Nivel de habilidad con armas+2#Penetracion +12%
+2137#DMG + 49877#CRIT + 1569#SPD + 1452#EVA + 2206#Battle Bow Weapon + 10% DMG#Bow Skill Level +3#Al lanzar Flecha de Luz, recibe el estado Falcon Rod. Aumenta el DAÑO de la Flecha de Luz y Disparo Dimensional en un 10%, dura 5 segundos#PEN + 12%
+2138#DMG + 47466#CRIT + 1225#SPD + 1132#EVA + 1721
+2139#DMG + 53752#CRIT + 1428#SPD + 1417#EVA + 2000#DAÑO contra jefes + 8%#DAÑO + 8% contra monstruos de élite#Nivel de habilidad con arma +2#PEN + 15%
+2140#DMG + 53752#CRIT + 1428#SPD + 1417#EVA + 2000#SPD + 15%#ACC + 25%#Tasa de CRIT contra jugadores enemigos + 30%#DAÑO repartido a jugadores opuestos + 40%

@@ -63,3 +63,15 @@
 3762#DMG + 1749#CRIT + 709#SPD + 531
 3763#SPD + 462#HP + 2142#EVA + 897#HP máx. + 3% #EVA + 3% #SPD + 3% #DMG tomado de jugadores  -10% #Tasa CRIT contra jugadores +10%
 3764#DMG + 1749#CRIT + 673#SPD + 560#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores -8% #CRIT DMG contra jugadores +25%
+3765#DEF + 373#HP + 2258#EVA + 897#DEF +2%
+3766#DMG + 1843#CRIT + 673#SPD + 622#SPD +2%
+3767#DMG + 1942#CRIT + 709#SPD + 560#DMG +2%
+3768#DMG + 1843#CRIT + 747#SPD + 560#CRIT +2%
+3769#DMG + 1863#CRIT + 553#SPD + 438
+3770#SPD + 489#HP + 2415#EVA + 738
+3771#DMG + 1770#CRIT + 582#SPD + 438
+3772#DMG + 2332#CRIT + 643#SPD + 510
+3773#SPD + 426#HP + 3023#EVA + 857
+3774#DMG + 2057#CRIT + 729#SPD + 510
+3775#SPD + 438#HP + 2667#EVA + 857#HP mÃ¡ximo + 3% #EVA + 3% #SPD + 3% #DAÃ‘O recibido de los jugadores enemigos -10% La #tasa de CRIT contra los jugadores oponentes se incrementa en un 15%
+3776#DMG + 2057#CRIT + 643#SPD + 536#DMG + 3% #CRIT + 3% #SPD + 3% #DMG recibido de jugadores opuestos -8% #CRIT DMG + 30% contra jugadores opuestos

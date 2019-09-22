@@ -139,10 +139,10 @@
 938#Set Reina Shayanna# Bonificacion del Set:#DMG +4066 #Tus ataques tienen un 16% de probabilidad de activar "Raging Otter", que trata de 4148 DPS al objetivo. Tiene una duraci? de 8 segundos.
 939#Set Se?r de la Tormenta# Bonificacion del Set:#[Parte de abajo]#HP + 12% de #tasa de CRIT recibida -10% #8% de probabilidad de infligir Storm Assault en el objetivo, lo que reduce el DMG del objetivo en un 6% durante 15 segundos.
 940#Set Huracan Catastrofico# Bonificacion del Set:#[Parte de abajo]#DMG + 8% #CRIT DMG + 10% #8% de probabilidad de infligir Hurricane Catastrophe Set, con un + 25% CRIT DMG.
-941#Renawal Set# Bonificacion del Set:#DEF +2713 #Cuando se ataca, genera un escudo que resiste el 30% del daño recibido, puede bloquear 3 veces y durar 5 segundos. Este efecto solo se puede activar 1 vez cada 7 segundos.
-942#Sancrified Holy Sword Set# Bonificacion del Set:#SPD +4174 #Tus ataques tienen un 6% de probabilidad de aumentar un 10% más de daño a los objetivos de cualquier atributo durante 8 segundos.
-943#Plague Bearer Set# Bonificacion del Set:#DAÑO +4069 #Tus ataques tienen un 12% de probabilidad de aumentar tu DAÑO en 2034 durante 6 segundos. Se acumula hasta 5 veces.
-944#Wild Howl Set# Bonificacion del Set:#CRIT aumenta en 2087 #Tus ataques críticos tienen un 8% de probabilidad de activar el estado desconcertado, lo que aumenta el DAÑO CRIT en un 30% y el DAÑO CRIT máximo en un 50% durante 12 segundos.
+941#Set de Regeneracion# Bonificacion del Set:#DEF +2713 #Cuando se ataca, genera un escudo que resiste el 30% del daño recibido, puede bloquear 3 veces y durar 5 segundos. Este efecto solo se puede activar 1 vez cada 7 segundos.
+942#Set Mandoble Ejecutor# Bonificacion del Set:#SPD +4174 #Tus ataques tienen un 6% de probabilidad de aumentar un 10% más de daño a los objetivos de cualquier atributo durante 8 segundos.
+943#Set Cultivo de Plagas# Bonificacion del Set:#DAÑO +4069 #Tus ataques tienen un 12% de probabilidad de aumentar tu DAÑO en 2034 durante 6 segundos. Se acumula hasta 5 veces.
+944#Set Grito Tormentoso# Bonificacion del Set:#CRIT aumenta en 2087 #Tus ataques críticos tienen un 8% de probabilidad de activar el estado desconcertado, lo que aumenta el DAÑO CRIT en un 30% y el DAÑO CRIT máximo en un 50% durante 12 segundos.
 945#Atonement Set# Bonificacion del Set:#DMG +2699
 946#Unbreakable Set# Bonificacion del Set:#DEF +1799
 947#Lost Souls Set# Bonificacion del Set:#CRIT +1125
@@ -159,5 +159,5 @@
 958#Forest Wound Set# Bonificacion del Set:#[Parte de arriba]#Detalle-DMG + 12% #DMG +3856 #CRIT DMG a Jefes + 35%#[Parte de abajo]#DAÑO + 10% #CRIT DAÑO a jefes + 35% #Tus ataques tienen un 12% de probabilidad de activar una Carga de redención, aumentando el DAÑO CRIT contra Élite en un 20% durante 10 segundos
 959#Shadowmist Shield Set# Bonificacion del Set:#[Parte de arriba]#DEF + 7% #HP máximo + 12% #DAÑO recibido de los jefes - 25%.#[Parte de abajo]#DAÑO recibido de Elites -25% #HP máximo + 15% #Tus ataques tienen un 8% de probabilidad de activar Robusto, aumentando DEF +2056 y recuperando 1143 HP por segundo durante 15 segundos.
 960#Abyss Roar Set# Bonificacion del Set:#[Parte de arriba]#CRIT +1928 #DAÑO + 8% #Tasa de CRIT + 20% contra Boss Monsters#[Parte de abajo]#DMG + 8% #CRIT DMG a Elite Monsters + 35% #Tus ataques tienen un 20% de probabilidad de entrar en estado de Vértigo extático, aumentando la tasa de CRIT a Elite Monsters en + 15% durante 8 segundos.
-961#Resilient Warrior Set# Bonificacion del Set:#[Parte de arriba]#DAÑO recibido de los jugadores opuestos -20% #CRIT DAÑO recibido de los jugadores enemigos -50%#[Parte de abajo]#CRIT DMG contra jugadores oponentes + 35% #CRIT DMG tomado de jugadores enemigos -50%
+961#Resilient Warrior Set# Bonificacion del Set:#[Parte de arriba]#DAÑO recibido de los jugadores opuestos -20% #CRIT DAÑO recibido de los jugadores enemigos -50%#[Parte de abajo]#CRIT DMG contra jugadores oponentes +35% #CRIT DMG tomado de jugadores enemigos -50%
 962#Celestial Commander Set# Bonificacion del Set:#[Parte de arriba]#DAÑO recibido de los jugadores oponentes -20% #Tasa de CRIT + 20% contra jugadores enemigos#[Parte de abajo]#CRIT DMG contra jugadores enemigos + 50% #CRIT DMG tomado de jugadores enemigos -30%

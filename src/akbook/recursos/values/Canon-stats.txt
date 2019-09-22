@@ -36,3 +36,7 @@
 2435#DMG + 45445#CRIT + 1222#HP + 4361#DEF + 647
 2436#DMG + 53307#CRIT + 1487#HP + 5269#DEF + 785#El DMG recibido de Boss Monsters se reduce en un 8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 2437#DMG + 53307#CRIT + 1487#HP + 5269#DEF + 785#HP + 12% #PRE+ 20% #TASA DE CRITO contra jugadores + 25% #DMG repartido contra jugadores tos + 40%
+2438#DMG + 55688#CRIT + 1569#HP + 5550#DEF + 827#El DAÑO con Arma de Cañón aumenta en un 10% #Nivel de Habilidad de Cañón +3 #Al lanzar Granada Helada, recibe el estado de Fuego y Golpe de Hielo, aumenta el DAÑO de Granada de Fuego y Granada Helada en un 20%, reduce el DAÑO recibido en un 5%. Dura por 6 segundos #PEN + 12%
+2439#DMG + 52996#CRIT + 1225#HP + 5634#DEF + 794
+2440#DMG + 60014#CRIT + 1428#HP + 7054#DEF + 923#Tasa de CRIT + 20% contra jefes #DMG contra jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
+2441#DMG + 60014#CRIT + 1428#HP + 7054#DEF + 923#HP máximo + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%
