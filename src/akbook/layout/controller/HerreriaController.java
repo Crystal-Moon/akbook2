@@ -427,6 +427,7 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
             } else{
                 clearDer();
                 cambiarStacke(anchorInfo);
+                setearDetalles(equipo);
                 setAnchorInfo(equipoDerecha.getDung());
             }
         } else {
@@ -583,6 +584,7 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
         labels.add(lblEntidad3);
         labels.add(lblEntidad4);
         lblBooleanComerciante.setVisible(false);
+        lblInfo.setText("");
         
         labels.forEach((lbl) -> {
             lbl.setText("");

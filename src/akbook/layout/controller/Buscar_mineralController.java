@@ -132,13 +132,17 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
                 equipoData.addAll(elegidos);
                 lblInfoTable.setVisible(true);
             } catch (SQLException ex) {
-                System.out.println(ex.getMessage());
+             //   System.out.println(ex.getMessage());
                 ErrorAK.errorBaseDatos(ex);
             } catch (Exception ex) {
-                 System.out.println(ex.getMessage());
+            //     System.out.println(ex.getMessage());
                 ErrorAK.errorGenerico(ex);
             }
             tableBuscar.setItems(equipoData);
+            CtrlPrincipal aa=CtrlPrincipal.ctrlBook;
+            BookController bb=(BookController) aa;
+            bb.cambioDeTab(0);
+        
         } else {
             mjeEmpty();
         }
