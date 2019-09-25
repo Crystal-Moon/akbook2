@@ -74,3 +74,21 @@
 573#+VEL +DMG
 574#+DEF +PS +%Curacion-P
 575#+PS +EVA -%DMG recibido
+576#+EVA +PS -%DMG recibido
+577#+VEL +CRIT +DMG CRIT -%DMG recibido
+578#+DEF +PS +%VEL mov. +%EXP
+579#+CRIT +DMG +PRE +%tasa CRIT
+580#+VEL +DMG Todos Luz
+581#+DEF +EVA +PS 8% +%Curacion-P
+582#+DMG +CRIT +PRE +%tasa CRIT
+583#+VEL +CRIT +%prob ATQ
+584#+CRIT +DMG Todos Tormenta
+585#+DEF +PS +%EXP -%DMG recibido
+586#+PS +EVA -%DMG recibido
+587#+EVA +DEF +%VEL mov. +%EXP
+588#+PS +DEF +%Curacion-P
+589#+CRIT +DMG +%tasa CRIT
+590#+DEF +EVA Todos Oscuridad
+591#+DMG +VEL +%ATQ
+592#+VEL +CRIT +%VEL mov. -%DMG recibido
+593#+EVA +PS -%DMG recibido

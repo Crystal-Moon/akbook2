@@ -74,3 +74,21 @@
 473#DEF +2090 y Max HP +2194 durante 30 min# 
 474#Max HP +4388 y EVA +804 durante 30 min# 
 475#SPD +1608 y DMG +1567 durante 30 min# 
+476#EVA +2032 y Max HP +2774 durante 30 minutos# 
+477#SPD +2032 y CRIT +1016 durante 30 minutos# 
+478#CRIT +2032 y DMG +1982 durante 30 minutos# 
+479#SPD +2032 y DMG +1982 durante 30 minutos# 
+480#DEF +2032 y EVA +1016 por 30 minutos# 
+481#DEF +2032 y HP +2774 por 30 minutos# 
+482#DMG +3963 y CRIT +1016 durante 30 min.# 
+483#SPD +2033 y CRIT +1016 durante 30 min.# 
+484#CRIT +2033 y DMG +1982 durante 30 min.# 
+485#DEF +2033 y Max HP +2774 durante 30 min.# 
+486#Máx. HP +5549 y EVA +1016 durante 30 min.# 
+487#EVA +2033 y el DEF +1016 durante 30 minutos.# 
+488#HP +6736 y DEF +1166 durante 30 min.# 
+489#CRIT +1895 y DMG +2274 durante 30 min.# 
+490#DEF +2332 y EVA +947 durante 30 min.# 
+491#DMG +4547 y SPD +947 durante 30 min.# 
+492#SPD +1895 y CRIT +947 durante 30 min.# 
+493#EVA +1895 y HP +3368 durante 30 min.# 

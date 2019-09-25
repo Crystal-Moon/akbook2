@@ -74,3 +74,21 @@
 573#VEL +1929#DAÑ +2194#DAÑ inflingido +12%
 574#DEF +2508#Máx de PS +3072#Curación-P +9%
 575#Máx de PS +5266#EVA +1125#refleja un 30% del DAÑ recibido
+576#EVA +2438#HP +3884#HP + 9%#DMG recibido -5%
+577#SPD +2438, CRIT +1422#CRIT DMG + 20%#CRIT DMG recibido -15%
+578#DEF +2438, HP +3884#Move SPD + 9%#EXP + 5%
+579#CRIT +2438, DMG +2774#PRE + 7%#tasa CRIT + 5%
+580#SPD +2438#DMG +2774#DMG + 18% a objetivos atributo Luz
+581#DEF +2438, EVA +1422#HP máx. + 9%#Curación P + 5%
+582#DMG +4756, CRIT +1423#PRE + 7%#Tasa CRIT + 5%
+583#SPD +2439#CRIT +1423#7% probabilidad de golpe Triple.
+584#CRIT +2439#DMG +2774#18% DMG a los objetivos de tormenta
+585#DEF +2439, Max HP +3884#EXP + 5%#DAÑO recibido -5%
+586#Máx. HP +6658#EVA +1423#rebota 30% del DMG recibido
+587#EVA +2439, DEF +1423#SPD de movimiento +9%#EXP + 5%
+588#HP +8084, DEF +1632#HP + 9%#Curacion-P + 9% 
+589#CRIT +2274#DMG +3183#tasa CRIT +4% contra jugadores
+590#DEF +2798#EVA +1326#DMG + 18% contra objetivos oscuros
+591#DMG +5457#SPD +1326#7% de probabilidad de ataque Triple
+592#SPD +2274, CRIT +1326#SPD movimiento + 14%#CRIT DMG recibido -12%
+593#EVA +2274, HP +4716#HP + 9%#rebota el 30% del DMG recibido
