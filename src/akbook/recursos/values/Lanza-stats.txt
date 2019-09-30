@@ -1,42 +1,42 @@
 ﻿---> Lanza stats
-2301#DMG + 8862#SPD + 151#HP + 769#DEF + 81#Máx. HP + 5% #Tus ataques tienen un 5% de probabilidad de activar el Foco de combate, lo que aumenta el DAÑO en +1466 durante 15 s.
-2302#DMG + 12132#SPD + 219#HP + 1015#DEF + 119#Máx. HP + 5% de #DAÑO contra Boss Monsters + 10% #8% de probabilidad de activar Battle Glory, DAÑO +1974 durante 15 s
-2303#DMG + 12132#CRIT + 290#DEF + 131#EVA + 198#CRIT + 3% #Tus ataques tienen un 8% de probabilidad de activar Simmering Burn, que inflige -1233 DPS durante 15 s.
+2301#DMG + 8862#SPD + 151#HP + 769#DEF + 81#Máx. HP + 5% #Tus ataques tienen un 5% de probabilidad de activar Concebtracion de Batalla, lo que aumenta el DAÑO en +1466 durante 15 s.
+2302#DMG + 12132#SPD + 219#HP + 1015#DEF + 119#Máx. HP + 5% de #DAÑO contra monstruos Jefe + 10% #8% de probabilidad de activar Laureles de Victoria, DAÑO +1974 durante 15 s
+2303#DMG + 12132#CRIT + 290#DEF + 131#EVA + 198#CRIT + 3% #Tus ataques tienen un 8% de probabilidad de activar Quemadura Hirviente, que inflige -1233 DPS durante 15 s.
 2304#DMG + 10194#SPD + 178#HP + 870#DEF + 96#HP máx. + 5%
-2305#DMG + 11140#SPD + 198#HP + 941#DEF + 107#Max HP + 5% #Tus ataques tienen un 5% de probabilidad de activar Fatal Strike, lo que aumenta el DAÑO infligido.
-2306#DMG + 13173#SPD + 242#HP + 1091#DEF + 131#Máx. HP + 5% #TASA #DE CRITTA del exilio infernal + 8% 8% de probabilidad de disparar Screeching Wind Blade, TASA DE CRITERÍA +1178 durante 15 segundos
+2305#DMG + 11140#SPD + 198#HP + 941#DEF + 107#Max HP + 5% #Tus ataques tienen un 5% de probabilidad de activar Golpe Fatal, lo que aumenta el DAÑO infligido.
+2306#DMG + 13173#SPD + 242#HP + 1091#DEF + 131#Máx. HP + 5% #Tasa #DE CRIT del esterrador Ardiente + 8%#8% de probabilidad de activar Puñal Aereo Fulminante, tasa DE CRIT +1178 durante 15 segundos
 2307#DMG + 13711#SPD + 253#HP + 1130#DEF + 138#Máx. HP + 5% #Tus ataques tienen un 5% de probabilidad de activar el estado de Fanatismo en ti, aumentando el CRIT en +682 durante 15 segundos.
-2308#DMG + 17818#SPD + 346#HP + 1438#DEF + 191#Máx. HP + 5% #CRIT DMG a Boss Monsters + 25% #8% de probabilidad de disparar Gospel, CRIT +871 durante 15 segundos
+2308#DMG + 17818#SPD + 346#HP + 1438#DEF + 191#Máx. HP + 5% #CRIT DMG a monstruos Jefe + 25% #8% de probabilidad de disparar Gospel, CRIT +871 durante 15 segundos
 2309#DMG + 15984#SPD + 304#HP + 1294#DEF + 167#HP máx. + 5% #DMG de estrangulador de almas + 25% #8% de probabilidad de disparar Tortura al atacar, lo que inflige 1655 DPS durante 15 s
-2310#DMG + 16583#SPD + 318#HP + 1337#DEF + 175#HP máx. + 5% #+ 5% de probabilidad de activar Bloody War Cry al atacar, CRIT DMG + 25% durante 15 segundos
-2311#DMG + 16583#CRIT + 415#DEF + 191#EVA + 291#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de estimular Combat Edge, aumentando el DAÑO en +2648 durante 15 s.
+2310#DMG + 16583#SPD + 318#HP + 1337#DEF + 175#HP máx. + 5% #5% de probabilidad de activar Grito de Guerra Devastador, CRIT DMG + 25% durante 15 segundos
+2311#DMG + 16583#CRIT + 415#DEF + 191#EVA + 291#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de estimular Belicosidad, aumentando el DAÑO en +2648 durante 15 s.
 2312#DMG + 19765#SPD + 392#HP + 1622#DEF + 217#Máx. HP + 5% #5% de probabilidad de activar Perforación del infierno al atacar, lo que aumenta el DAÑO a los enemigos.
-2313#DMG + 19765#CRIT + 509#DEF + 235#EVA + 361#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar la Bendición del Sprite de Agua, +800 EVA durante 15 segundos.
-2314#DMG + 24757#SPD + 513#HP + 2110#DEF + 286#Max HP + 5% #CRIT DMG a Boss Monsters + 25% #8% de probabilidad de activar Dragon Breath al atacar, infligiendo DAÑO masivo
-2315#DMG + 24757#CRIT + 662#DEF + 308#EVA + 476#CRIT + 3% #DAÑO contra Boss Monstruos + 10% #8% de probabilidad de activar la Bendición del Dios del Agua al atacar, DAÑO +3846 durante 15 segundos
-2316#DMG + 22539#SPD + 459#HP + 1891#DEF + 255#HP + 8% #TASA DE CRITTA del Exilio Infernal + 30% Los #objetivos con atributos de Hielo reciben un 50% de daño #8% de probabilidad de disparar Pira de Fuego al atacar, DAÑO +1659 y TASA DE CRITO +510 durante 15 segundos
-2317#DMG + 26301#CRIT + 711#DEF + 331#EVA + 513#CRIT + 3% #Demon Lance - Himno de Doom CRIT DMG + 20% #8% de probabilidad de activar Void Lance al atacar, infligiendo DAÑO masivo
-2318#DMG + 26301#SPD + 552#HP + 2265#DEF + 308#HP + 8% #Lanza congelada #DAÑO + 20% Daño Infligido a objetivos con atributos de Llama + 50% #8% de probabilidad de activar Furia de las profundidades, EVA +1043 durante 15 segundos
-2319#DMG + 26301#SPD + 552#HP + 2265#DEF + 308#HP máx. + 5% #Lanza demoledora TASA DE CRITERIO + 8% #8% de probabilidad de desencadenar Consecuencias, SPD +1251 durante 15 segundos
-2320#DMG + 17818#CRIT + 452#DEF + 208#EVA + 318#CRIT + 3% #ACC + 10% #CRIT Rate + 10% contra jugadores oponentes #DMG + 25% contra jugadores enemigos
-2321#DMG + 24757#CRIT + 662#DEF + 308#EVA + 476#CRIT + 3% #ACC + 10% #TASA DE CRIT + 10% contra jugadores oponentes #DMG + 25% contra jugadores enemigos
+2313#DMG + 19765#CRIT + 509#DEF + 235#EVA + 361#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar la Bendición de Agua, +800 EVA durante 15 segundos.
+2314#DMG + 24757#SPD + 513#HP + 2110#DEF + 286#Max HP + 5% #CRIT DMG a monstruos Jefe + 25% #8% de probabilidad de activar Aliento Dragontino Perforante, infligiendo DAÑO masivo
+2315#DMG + 24757#CRIT + 662#DEF + 308#EVA + 476#CRIT + 3% #DAÑO contra monstruos Jefe Monstruos + 10% #8% de probabilidad de activar la Bendición de Triton al atacar, DAÑO +3846 durante 15 segundos
+2316#DMG + 22539#SPD + 459#HP + 1891#DEF + 255#HP + 8% #Tasa de CRIT del Desterrador Ardiente + 30% Los #objetivos con atributos de Hielo reciben un 50% de daño #8% de probabilidad de disparar Pira de Fuego al atacar, DAÑO +1659 y tasa de CRIT +510 durante 15 segundos
+2317#DMG + 26301#CRIT + 711#DEF + 331#EVA + 513#CRIT + 3% #CRIT DMG de Oda de Apocalipsiis + 20% #8% de probabilidad de activar Lanza Gelida al atacar, infligiendo DAÑO masivo
+2318#DMG + 26301#SPD + 552#HP + 2265#DEF + 308#HP + 8% #Lanza congelada DAÑO + 20% #Daño Infligido a objetivos con atributos de Llama + 50% #8% de probabilidad de activar Furia de las profundidades, EVA +1043 durante 15 segundos
+2319#DMG + 26301#SPD + 552#HP + 2265#DEF + 308#HP máx. + 5% #Lanza demoledora Tasa de CRIT + 8% #8% de probabilidad de activar Llamas Combativas, SPD +1251 durante 15 segundos
+2320#DMG + 17818#CRIT + 452#DEF + 208#EVA + 318#CRIT + 3% #PRE + 10% #CRIT Rate + 10% contra jugadores oponentes #DMG + 25% contra jugadores enemigos
+2321#DMG + 24757#CRIT + 662#DEF + 308#EVA + 476#CRIT + 3% #PRE + 10% #Tasa de CRIT + 10% contra jugadores oponentes #DMG + 25% contra jugadores enemigos
 2322#DMG + 23265#SPD + 476#HP + 1962#DEF + 265#Máx. HP + 5% #Tus ataques tienen un 5% de probabilidad de activar Alabarda helada, lo que aumenta el DAÑO en +3630 durante 15 s.
-2323#DMG + 23265#SPD + 476#HP + 1962#DEF + 265#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar Ghost Rush, lo que aumenta el SPD en +1117 durante 15 s.
+2323#DMG + 23265#SPD + 476#HP + 1962#DEF + 265#CRIT + 3% #Tus ataques tienen un 5% de probabilidad de activar Prisa Espectral, lo que aumenta el SPD en +1117 durante 15 s.
 2324#DMG + 27093#SPD + 572#HP + 2345#DEF + 319
-2325#DMG + 33016#SPD + 726#HP + 2959#DEF + 408#CRITER DAÑO a Boss Monsters + 25% #DAÑO contra Boss Monsters + 10%
-2326#DMG + 34833#SPD + 774#HP + 3152#DEF + 435#Max HP + 3% #Lance DMG + 3% #Sacrificial Lance DMG + 20%
-2327#DMG + 34833#SPD + 774#HP + 3152#DEF + 435#Max HP + 3% #Lance DMG + 3% #Sacrificial Lance DMG + 20%
+2325#DMG + 33016#SPD + 726#HP + 2959#DEF + 408#CRIT DAÑO a monstruos Jefe + 25% #DAÑO contra monstruos Jefe + 10%
+2326#DMG + 34833#SPD + 774#HP + 3152#DEF + 435#Max HP + 3% #Daño por Lanza + 3% #Nivel de Golpe de Trueno +5
+2327#DMG + 34833#SPD + 774#HP + 3152#DEF + 435#Max HP + 3% #Daño por Lanza + 3% #DMG de Lanza de Sacrifisios + 20%
 2328#DMG + 34833#SPD + 679#HP + 2774#DEF + 381
 2329#DMG + 35762#SPD + 799#HP + 3251#DEF + 450
-2330#DMG + 42665#SPD + 989#HP + 4005#DEF + 559#CRITER DAÑO a Boss Monsters + 25% #DAÑO contra Boss Monsters + 10% #Nivel de habilidad con arma +1 #PEN + 10%
-2331#DMG + 42665#SPD + 989#HP + 4005#DEF + 559#Mueve SPD + 10% #ACC + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
-2332#DMG + 44767#SPD + 1048#HP + 4240#DEF + 593#Max HP + 5% #Lance DMG + 8% #Infernal Exile CRIT DMG + 20% #PEN + 10%
+2330#DMG + 42665#SPD + 989#HP + 4005#DEF + 559#CRIT DAÑO a monstruos Jefe + 25% #DAÑO contra monstruos Jefe + 10% #Nivel de habilidad con arma +1 #PEN + 10%
+2331#DMG + 42665#SPD + 989#HP + 4005#DEF + 559#Mueve SPD + 10% #PRE + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
+2332#DMG + 44767#SPD + 1048#HP + 4240#DEF + 593#Max HP + 5% #Lance DMG + 8% #CRIT DMG de Desterrador Ardiente + 20% #PEN + 10%
 2333#DMG + 40621#SPD + 932#HP + 3779#DEF + 526
 2334#DMG + 45840#SPD + 1078#HP + 4361#DEF + 611
-2335#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Boss Monsters + 10% #Arma Nivel de Habilidad +2 #PEN + 12%
-2336#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#Mueve SPD + 12% #ACC + 20% #CRIT DMG contra jugadores opuestos + 25% #DMG Dealt a jugadores opuestos + 40%
-2337#DMG + 56172#SPD + 1379#HP + 5550#DEF + 785#Lance DMG + 10% #Lance Nivel de habilidad +3 #Lanza Lightning Strike e imbuye al objetivo con el efecto de estado Superconductor + 15% Lightning DAÑO recibido durante 6 segundos. #PEN + 12%
-2338#DMG + 33016#CRIT + 929#DEF + 435#EVA + 679#CRIT + 6%.#PRE + 10%#La tasa de CRIT contra los jugadores oponentes aumenta en un 15%.#El da�o infligido a los jugadores oponentes aumenta en un 30%.
+2335#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#CRIT DAÑO a monstruos Jefe + 30% #DAÑO contra monstruos Jefe + 10% #Arma Nivel de Habilidad +2 #PEN + 12%
+2336#DMG + 53770#SPD + 1308#HP + 5269#DEF + 744#Mueve SPD + 12% #PRE + 20% #CRIT DMG contra jugadores opuestos + 25% #DMG Dealt a jugadores opuestos + 40%
+2337#DMG + 56172#SPD + 1379#HP + 5550#DEF + 785#Daño por Lanza + 10% #Nivel de habilidad por Lanza +3 #Conjura Golpe de Trueno e inflinge al objetivo con el efecto de estado Superconductor, daño recibido por atributo Rayo + 15% durante 6 segundos. #PEN + 12%
+2338#DMG + 33016#CRIT + 929#DEF + 435#EVA + 679#CRIT + 6%.#PRE + 10%#La tasa de CRIT contra los jugadores oponentes aumenta en un 15%.#El daño infligido a los jugadores oponentes aumenta en un 30%.
 2339#DMG + 53457#SPD + 1076#HP + 5634#DEF + 754
-2340#DMG + 60536#SPD + 1250#HP + 7054#DEF + 879#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2340#DMG + 60536#SPD + 1250#HP + 7054#DEF + 879#CRIT DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
 2341#DMG + 60536#SPD + 1250#HP + 7054#DEF + 879#Mover SPD + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DMG repartido a jugadores enemigos + 40%

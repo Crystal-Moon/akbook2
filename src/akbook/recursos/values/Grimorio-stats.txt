@@ -1,10 +1,10 @@
 ﻿---> Grimorio stats
-2301#DMG + 6494#CRIT + 182#HP + 644#EVA + 270#El EVA + 5% de #uso de habilidades tiene un 5% de probabilidad de invocar Meditacion, lo que aumenta el DMG en 733 y el SPD en 225 durante 15 segundos para todos los aliados en un radio de 10 metros
-2302#DMG + 8890#CRIT + 263#HP + 870#EVA + 387#EVA + 5% de #daño contra jefes + 10% #Cada lanzamiento tiene un 8% de probabilidad de liberar Aire Toxico, lo que aumenta DMG en 987 y CRIT en 303 durante 15 segundos
+2301#DMG + 6494#CRIT + 182#HP + 644#EVA + 270#EVA + 5%#5% de probabilidad de invocar Meditacion, lo que aumenta el DMG en 733 y el SPD en 225 durante 15 segundos para todos los aliados en un radio de 10 metros
+2302#DMG + 8890#CRIT + 263#HP + 870#EVA + 387#EVA + 5%#daño contra jefes + 10% #Cada lanzamiento tiene un 8% de probabilidad de liberar Aire Toxico, lo que aumenta DMG en 987 y CRIT en 303 durante 15 segundos
 2303#DMG + 8163#CRIT + 214#HP + 737#EVA + 317#EVA + 5% #Cada ataque tiene un 8% de probabilidad de obtener Palabras Malditas, lo que aumenta el DMG en 915 durante 15 segundos
 2304#DMG + 6494#CRIT + 182#HP + 644#EVA + 270#EVA + 5%
 2305#DMG + 8163#CRIT + 238#HP + 802#EVA + 351#EVA + 5% #Cada uso de habilidad tiene un 5% de probabilidad de obtener Fragancia Exotica, lo que aumenta el CRIT en 280 y el CRIT DMG en un 15% durante 15 segundos para todos los aliados en un radio de 10 metros
-2306#DMG + 10450#CRIT + 319#HP + 1015#EVA + 465#CRIT + 5% de #daño en las habilidades oscuras + 5% #Cada ataque tiene un 8% de probabilidad de invocar el Poder de Holm, que aumenta el DMG en 1149 y el CRIT en 589 durante 15 segundos
+2306#DMG + 10450#CRIT + 319#HP + 1015#EVA + 465#CRIT + 5%#daño en las habilidades oscuras + 5% #Cada ataque tiene un 8% de probabilidad de invocar el Poder de Holm, que aumenta el DMG en 1149 y el CRIT en 589 durante 15 segundos
 2307#DMG + 10047#CRIT + 304#HP + 978#EVA + 445#EVA + 5% #Cada uso de habilidad tiene un 5% de probabilidad de lanzar Verdad, lo que aumenta el DMG en un 3% durante 15 segundos para todos los aliados en un radio de 10 metros
 2308#DMG + 13056#CRIT + 415#HP + 1252#EVA + 602#EVA + 5% #Daño crítico contra jefes + 25% #Cada lanzamiento tiene un 8% de probabilidad de conjurar Hechizos Arcanos Misteriosos, lo que aumenta el DMG en un 5% durante 15 segundos para todos los aliados en un radio de 10 metros
 2309#DMG + 12151#CRIT + 381#HP + 1170#EVA + 554#EVA + 5% #Rango de sello de demonio +1 metro #Cada uso de habilidad tiene un 8% de probabilidad de hacer que los que te rodean Obedezcan, lo que aumenta el DMG en un 5% durante 15 segundos para los aliados en el rango
@@ -13,11 +13,11 @@
 2312#DMG + 14483#CRIT + 470#HP + 1380#EVA + 679#EVA + 5% #Cada lanzamiento tiene un 5% de probabilidad de obtener Hechizos Arcanos, lo que aumenta DEF en 260 y EVA en 400 durante 15 segundos para todos los aliados en un radio de 10 metros
 2313#DMG + 14483#CRIT + 509#HP + 1498#EVA + 578#CRIT DMG + 5% #Cada lanzamiento tiene un 5% de probabilidad de realizar un Ritual Aqluelarre, lo que aumenta el CRIT en 480 y el CRIT DMG en un 15% durante 15 segundos para todos los aliados en un radio de 10 metros
 2314#DMG + 18141#CRIT + 616#HP + 1821#EVA + 883#EVA + 5% #Daño crítico contra jefes + 25% #Cada uso de habilidad tiene un 8% de probabilidad de susurrar la Poder Arcano Magico, que aumenta la DEF en 320 y EVA en 493 durante 15 segundos para todos los aliados en un radio de 10 metros
-2315#DMG + 18141#CRIT + 662#HP + 1962#EVA + 762#CRIT DMG + 5% de #daño contra jefes + 10% #Cada uso de habilidad tiene un 8% de probabilidad de recitar el Incantation prohibido, lo que aumenta el Crit en 591 y el CRIT DMG en un 15% durante 15 segundos para todos los aliados en un radio de 10 metros
+2315#DMG + 18141#CRIT + 662#HP + 1962#EVA + 762#CRIT DMG + 5%#daño contra jefes + 10% #Cada uso de habilidad tiene un 8% de probabilidad de recitar el Incantation prohibido, lo que aumenta el Crit en 591 y el CRIT DMG en un 15% durante 15 segundos para todos los aliados en un radio de 10 metros
 2316#DMG + 15481#CRIT + 509#HP + 1498#EVA + 734#Máximo HP + 8% #Nivel de habilidad Choque de llamas +5 #Daño + 50% para objetivos de Atributos de Hielo #Cada uso de habilidad tiene un 8% de probabilidad de obtener Poder del Dios de Fuego, lo que reduce el Daño recibido en un 5% durante 15 segundos para los aliados en rango
-2317#DMG + 19272#CRIT + 662#HP + 1962#EVA + 948#Máx HP + 5% #daño en la habilidad de robar almas + 25% #Cada uso de habilidad tiene un 5% de probabilidad de impartir el Poder del Dragón, lo que aumenta el SPD en 1251 pts durante 15 segundos
-2318##CRIT + 662#HP + 1962#EVA + 762#CRIT DMG + 5% de #rango de Shadow Bolt + 3m #Cada uso de habilidad tiene un 8% de probabilidad de activar Mariposa Fantasmal, lo que aumenta CRIT en 625 y CRIT DMG en 15% durante 15 segundos para aliados dentro de 10m
-2319#DMG + 19272#CRIT + 616#HP + 1821#EVA + 883#HP + 8% #Rango de mantra de rejuvenecimiento +5 metros #50% de bonificación Objetivos de atributo de Daño a la llama #Cada lanzamiento tiene un 8% de probabilidad de recitar la Orden del Levatan, lo que aumenta DMG en 2033 y CRIT en 938 durante 15 segundos
+2317#DMG + 19272#CRIT + 662#HP + 1962#EVA + 948#Máx HP + 5% #daño en la habilidad Magnetismo Energetico + 25% #Cada uso de habilidad tiene un 5% de probabilidad de impartir el Poder del Dragón, lo que aumenta el SPD en 1251 pts durante 15 segundos
+2318##CRIT + 662#HP + 1962#EVA + 762#CRIT DMG + 5%#rango de Flecha Sombria + 3m #Cada uso de habilidad tiene un 8% de probabilidad de activar Mariposa Fantasmal, lo que aumenta CRIT en 625 y CRIT DMG en 15% durante 15 segundos para aliados dentro de 10m
+2319#DMG + 19272#CRIT + 616#HP + 1821#EVA + 883#HP + 8% #Rango de Mantra Regenerativo +5 metros #50% de daño a objetivos de atributo Fuego#Cada lanzamiento tiene un 8% de probabilidad de recitar la Orden del Leviatan, lo que aumenta DMG en 2033 y CRIT en 938 durante 15 segundos
 2320#DMG + 13056#CRIT + 415#HP + 1252#EVA + 602#EVA + 5% #PRE + 10% #Daño crítico contra jugadores + 25% #Daño contra jugadores + 25%
 2321#DMG + 18141#CRIT + 616#HP + 1821#EVA + 883#EVA + 5% #PRE + 10% #Daño crítico contra jugadores + 25% #Daño contra jugadores + 25%
 2322#DMG + 17048#CRIT + 572#HP + 1687#EVA + 821#EVA + 5% #5% de probabilidad de activar Mente Abierta al usar habilidades, lo que aumenta el DMG en 1117 durante 15 segundos.
@@ -25,7 +25,7 @@
 2324#DMG + 19852#CRIT + 686#HP + 2035#EVA + 982
 2325#DMG + 24193#CRIT + 871#HP + 2597#EVA + 1239#CRIT DMG contra monstruos Jefe + 25% #DMG contra monstruos Jefe + 10%
 2326#DMG + 25524#CRIT + 990#HP + 2959#EVA + 1161#DMG + 6% equipado con Grimorio #"Sello Demoniaco" nivel de habilidad +5#
-2327#DMG + 24193#CRIT + 871#HP + 2597#EVA + 1239#EVA se incrementa en un 8% #ACC + 10% #Daño crítico contra jugadores +30%#Daño a jugadores aumenta un 30%
+2327#DMG + 24193#CRIT + 871#HP + 2597#EVA + 1239#EVA se incrementa en un 8% #PRE + 10% #Daño crítico contra jugadores +30%#Daño a jugadores aumenta un 30%
 2328#DMG + 25524#CRIT + 929#HP + 2774#EVA + 1319#El HP máx. + 3% de #Daño de Grimoire aumenta un 3%. #El rango de "Magnetismo Energetico" aumenta en 1 metro.
 2329#DMG + 22903#CRIT + 815#HP + 2427#EVA + 1161
 2330#DMG + 26205#CRIT + 959#HP + 2865#EVA + 1361
@@ -36,7 +36,7 @@
 2335#DMG + 33590#CRIT + 1294#HP + 3891#EVA + 1825
 2336#DMG + 39401#CRIT + 1569#HP + 4736#EVA + 2206#CRIT DMG a monstruos Jefe + 30% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
 2337#DMG + 39401#CRIT + 1569#HP + 4736#EVA + 2206#EVA + 12% #PRE + 20% #CRIT DMG contra jugadores oponentes + 40% #DMG Dealt to Opposing Players + 40%
-2338#DMG + 41161#CRIT + 1654#HP + 4998#EVA + 2323#Grimoire Weapon DMG + 10% #Grimoire Skill Level +3 #Al lanzar Flame Impact, recibe el estado Curse Rampage. Dark and Flame DMG + 15%, duran 5 segundos #PEN + 12%
+2338#DMG + 41161#CRIT + 1654#HP + 4998#EVA + 2323#Daño por Grumorio + 10% #Nivel de habilidad +3 #Al lanzar Ola de Fuego, recibe el estado Frenesi de Maldicion. Daño por atributo oscuro y fuego + 15%, duran 5 segundos #PEN + 12%
 2339#DMG + 39171#CRIT + 1291#HP + 5083#EVA + 1811
 2340#DMG + 44358#CRIT + 1500#HP + 5923#EVA + 2267#DAÑO contra jefes + 8% #DAÑO + 8% contra monstruos de élite #Nivel de habilidad con arma +2 #PEN + 15%
 2341#DMG + 44358#CRIT + 1500#HP + 5923#EVA + 2267#EVA + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

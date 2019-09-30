@@ -7,17 +7,17 @@
 2206#DMG +12908#CRIT +349#SPD +242#EVA +425#DMG +5%#amplia el radio de Meteoro en Llamas + 1m#Cada ataque tiene un 8% de probabilidad de invocar el Poder de Fonos, que inflige 1436 de daño por segundo durante 15 segundos.
 2207#DMG +12410#CRIT +334#SPD +230#EVA +405#CRIT +3%#Cada ataque tiene un 5% de probabilidad de invocar Mejora Magica, lo que aumenta el DMG en un 5% durante 15 segundos.
 2208#DMG +16128#CRIT +452#SPD +318#EVA +554#CRIT +3%#Daño contra jefes +10%#Cada ataque tiene un 8% de probabilidad de revelar el Potencial Magico, lo que aumenta el DMG en un 6% durante 15 segundos.
-2209#DMG +15010#CRIT +415#SPD +291#EVA +508#CRIT +3%#Rango de Tormenta de Hielo +1 metro#Cada golpe crítico tiene un 16% de probabilidad de activar Poder Magico, lo que aumenta el DMG en 2648 durante 15 segundos
+2209#DMG +15010#CRIT +415#SPD +291#EVA +508#CRIT +3%#Rango de Tormenta de Hielo +1 metro#Cada golpe crítico tiene un 16% de probabilidad de activar Factor Magico, lo que aumenta el DMG en 2648 durante 15 segundos
 2210#DMG +15010#CRIT +415#SPD +291#EVA +508#CRIT +3%#Cada golpe crítico tiene un 10% de probabilidad de activar Hechizo oscuro, que aumenta el DMG en 2648 durante 15 segundos.
 2211#DMG +15010#CRIT +349#SPD +346#EVA +508#SPD +5%#Cada ataque tiene un 5% de probabilidad de activar Energia Vitrea, lo que aumenta el DMG en un 5% durante 15 segundos.
 2212#DMG +17891#CRIT +509#SPD +361#EVA +627#CRIT +3%#Cada ataque tiene un 5% de probabilidad de activar Energia Astral, que inflige daño adicional.
 2213#DMG +17891#CRIT +433#SPD +425#EVA +627#SPD +5%#Cada ataque tiene un 5% de probabilidad de activar Flor Magica, lo que inflige 1950 de daño por segundo durante 15 segundos
-2214#DMG +22409#CRIT +661#SPD +476#EVA +821#CRIT +3%#Daño crítico contra jefes + 25%#Cada ataque tiene un 8% de probabilidad de activar Daño Astral, que inflige daño adicional.
+2214#DMG +22409#CRIT +661#SPD +476#EVA +821#CRIT +3%#Daño crítico contra jefes + 25%#Cada ataque tiene un 8% de probabilidad de activar Choque Astral, que inflige daño adicional.
 2215#DMG +22409#CRIT +572#SPD +552#EVA +821#SPD +5%#daño contra jefes + 10%#Cada ataque tiene un 8% de probabilidad de provocar hechizos Destructivos, que inflige 2403 de daño por segundo durante 15 segundos
 2216#DMG +19123#CRIT +550#SPD +392#EVA +679#Máx HP + 8%#todas las habilidades de atributo de llama DMG + 5%#Daño + 50% a objetivos de atributo de hielo#Cada ataque tiene un 8% de probabilidad de activar Poder del Dios del Fuego, lo que aumenta el DMG en un 6% durante 15 segundos.
 2217#DMG +23807#CRIT +711#SPD +513#EVA +883#Máx. De HP +5%#Tasa Crit de Maldicion del Hielo +5%#Cada golpe crítico tiene un 16% de probabilidad de liberar Proteccion de los Espiritus, que aumenta el DMG en 4066 durante 15 segundos
 2218#DMG +23807#CRIT +572#SPD +552#EVA +821#SPD +5%#Daño de maldición helada +30%#Cada ataque tiene un 8% de probabilidad de encender Poder Estelar, que inflige 1274 de daño por segundo durante 15 segundos
-2219#DMG +23807#CRIT + 662#SPD +477#EVA +821#Máx. De HP +3%#Daño de Tormenta de Hielo +20%#50% de bonificación Objetivos de atributo de Daño a la Llama#Cada ataque tiene un 8% de probabilidad de invocar la Poder de las Profundidades Marinas, que inflige daño adicional.
+2219#DMG +23807#CRIT + 662#SPD +477#EVA +821#Máx. De HP +3%#Daño de Tormenta de Hielo +20%#50% de daño a objetivos de atributo Fuego#Cada ataque tiene un 8% de probabilidad de invocar la Poder de las Profundidades Marinas, que inflige daño adicional.
 2220#DMG +16128#CRIT +452#SPD +318#EVA +554#DEF +5%#PRE +10%#Daño crítico contra jugadores +25%#Daño contra jugadores +25%
 2221#DMG +22409#CRIT +662#SPD +476#EVA +821#DEF +5%#PRE +10%#Daño crítico contra jugadores +25%#Daño contra jugadores +25%
 2222#DMG +21059#CRIT +616#SPD +441#EVA +762#CRIT +3%#5% de probabilidad de activar Pescador Solar cuando atacas, lo que aumenta el DMG en 3630 durante 15 segundos.
@@ -27,7 +27,7 @@
 2226#DMG +31530#CRIT +871#SPD +825#EVA +1239#DMG +6% equipando baculo#Bomba Ignea DMG + 15%
 2227#DMG +29886#CRIT +929#SPD +679#EVA +1161#CRIT +6%#PRE +10%#Daño crítico + 30% contra jugadores#Daño +30% contra jugadores
 2228#DMG +31530#CRIT +990#SPD +726#EVA +1239#Máx. HP +3%#Daño con baculo +3%#La tasa de CRIT de "Meteorito en Llamas" aumenta un 5%.
-2229#DMG +28292#CRIT +871#SPD +6353EVA +1087
+2229#DMG +28292#CRIT +871#SPD +6353#EVA +1087
 2230#DMG +32371#CRIT +1021#SPD +750#EVA +1279
 2231#DMG +38619#CRIT +1258#SPD +932#EVA +1582#CRIT DMG a monstruos jefe + 25%#DMG a monstruos Jefe + 10%#Nivel de habilidad con armas +1#Penetracion + 10%
 2232#DMG +38619#CRIT +1258#SPD +932#EVA +1582#CRIT +10%#PRE +15%#CRIT DMG contra jugadores +35%#DMG + 35% contra jugadores
@@ -35,7 +35,7 @@
 2234#DMG +36769#CRIT +1187#SPD +877#EVA +1491
 2235#DMG +41494#CRIT +1369#SPD +1018#EVA +1725
 2236#DMG +48671#CRIT +1654#SPD +1239#EVA +2092#CRIT DMG en monstruos Jefe + 30%#DMG contra monstruos jefe + 10%#Nivel de habilidad con armas +2#Penetracion + 12%
-2237#DMG + 50845#CRIT + 1742#SPD + 1308#EVA + 2206#El DAÑO del arma del personal aumentó en un 10%. #Gran nivel de habilidad del personal +3 #Al lanzar Explosión elemental, recibe el estado Rugido elemental. Aumenta el DAÑO del objetivo a todos los atributos y DAÑO recibido en un 10%, dura 5 segundos #PEN + 12%
+2237#DMG + 50845#CRIT + 1742#SPD + 1308#EVA + 2206#Daño con baculo aumentó en un 10%. #Nivel de habilidad de baculo +3 #Al lanzar Rafaga Elemental, recibe el estado Rugido elemental. DAÑO y DAÑO recibido en un 10%, dura 5 segundos #PEN + 12%
 2238#DMG + 48388#CRIT + 1358#SPD + 1021#EVA + 1721
-2239#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2239#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRITER DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
 2240#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRIT + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

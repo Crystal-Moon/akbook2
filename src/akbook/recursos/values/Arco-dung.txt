@@ -39,3 +39,4 @@
 2138#Flowing Flame Forest (Secret Forest Lake)#Silent Anciant Castle (Drowsy Cave)(+101)#Dawn Passage (Gloomy Ridge)(+101)#Obscure Temple (Hidden Valley)(+101)#Ultramundo: Caverna Bosque del Tiempo (Bosque Perpetuo)#Ultramundo: Ultramundo Destrozado (Desierto Tempestuoso)
 2139#--- refinado
 2140#Area pvp en Navea
+2141#Area pvp en Navea

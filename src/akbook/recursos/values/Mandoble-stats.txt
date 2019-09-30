@@ -1,42 +1,42 @@
 ﻿---> Mandoble stats
-1601#DMG + 9167#CRIT + 182#HP + 769#DEF + 81#HP máx. + 5% #Tus ataques tienen un 5% de probabilidad de liberar Honorable Espíritu de batalla, lo que aumenta el DMG en 1820 durante 15 s.
-1602#DMG + 12551#CRIT + 263#HP + 1015#DEF + 119#El HP máximo + 5% de #daño infligido a los Monstruos jefes aumenta un 10%. #Tus ataques tienen un 8% de probabilidad de emitir Radiancia de obsidiana, lo que aumenta el DMG en 1974 durante 15 s.
+1601#DMG + 9167#CRIT + 182#HP + 769#DEF + 81#HP máx. + 5% #Tus ataques tienen un 5% de probabilidad de liberar Batalla Honorable, lo que aumenta el DMG en 1820 durante 15 s.
+1602#DMG + 12551#CRIT + 263#HP + 1015#DEF + 119#El HP máximo + 5%#daño infligido a los Monstruos jefes aumenta un 10%. #Tus ataques tienen un 8% de probabilidad de emitir Radiacion, lo que aumenta el DMG en 1974 durante 15 s.
 1603#DMG + 12551#CRIT + 290#HP + 870#DEF + 131#HP máx. + 5% #Tus ataques tienen un 8% de probabilidad de activar el brillo de la vena oscura y causar un daño mayor.
 1604#DMG + 10545#CRIT + 214#HP + 870#DEF + 96#Max HP + 5%
 1605#DMG + 11524#CRIT + 238#HP + 941#DEF + 107#HP máx. + 5% #Tus ataques tienen un 5% de probabilidad de generar un Escudo de gloria, que absorbe el 30% de DMG Recibido (máximo hasta 5490 DMG) durante 15 segundos.
-1606#DMG + 13627#CRIT + 290#HP + 1091#DEF + 131#El HP máx. + 5%. El #daño de las habilidades con los atributos de Luz Sagrada aumenta un 5%. #Tus ataques tienen un 8% de probabilidad de obtener la Aegis de coraje de Mandon, absorbe el 30% de DMG Recibido (hasta un máximo de 6150 DMG) durante 15 s.
+1606#DMG + 13627#CRIT + 290#HP + 1091#DEF + 131#El HP máx. + 5%. #El daño de las habilidades con los atributos de Luz Sagrada aumenta un 5%. #Tus ataques tienen un 8% de probabilidad de obtener Coraje de Amanda, absorbe el 30% de DMG Recibido (hasta un máximo de 6150 DMG) durante 15 s.
 1607#DMG + 14183#CRIT + 304#HP + 1130#DEF + 138#Máximo HP + 5% #Tus ataques tienen un 5% de probabilidad de enfocar el Poder del glaciar escalofriante en el filo de la espada, lo que aumenta el CRIT en 682 durante 15 s.
-1608#DMG + 18432#CRIT + 415#HP + 1438#DEF + 191#El HP máximo + 5% de #DMG recibido de Boss Monsters se reduce en un 5% #Tus ataques tienen un 8% de probabilidad de activar el estado de Masacre, lo que aumenta el CRIT en 871 durante 15 s.
-1609#DMG + 16535#CRIT + 365#HP + 1294#DEF + 167#El HP máx. + 5% El #daño de "Ground Slasher" aumenta un 20%. #Tus ataques tienen un 8% de probabilidad de obtener la marca Demonslayer, lo que aumenta el DMG en 2648 durante 15 s.
+1608#DMG + 18432#CRIT + 415#HP + 1438#DEF + 191#El HP máximo + 5%#DMG recibido de monstruos Jefe se reduce en un 5% #Tus ataques tienen un 8% de probabilidad de activar el estado de Masacre, lo que aumenta el CRIT en 871 durante 15 s.
+1609#DMG + 16535#CRIT + 365#HP + 1294#DEF + 167#El HP máx. + 5%#daño de Castigador de Tierra aumenta un 20%. #Tus ataques tienen un 8% de probabilidad de obtener la marca del Asesino de Demonios, lo que aumenta el DMG en 2648 durante 15 s.
 1610#DMG + 17155#CRIT + 381#HP + 1337#DEF + 175#Max HP + 5% #Tus ataques tienen un 5% de probabilidad de activar un hechizo de maldición sobre tus enemigos, lo que inflige un daño mayor.
 1611#DMG + 17155#CRIT + 415#HP + 1170#DEF + 191#El CRIT DMG aumenta un 5%. #Tus ataques tienen un 5% de probabilidad de liberar un aura de sellado de demonios, lo que aumenta el DMG en 2648 durante 15 s.
 1612#DMG + 20446#CRIT + 470#HP + 1622#DEF + 217#Máx. De HP + 5% #Tus ataques tienen un 5% de probabilidad de invocar al Guardián de la Iluminación Sagrada, lo que absorbe el 30% de DMG Recibido (máximo de 8190 DMG) durante 15 s.
 1613#DMG + 20446#CRIT + 509#HP + 1380#DEF + 235#CRIT DMG + 5% #Sus ataques tienen un 5% de probabilidad de canalizar la fuerza interior de la Madre Tierra, lo que inflige un daño mayor.
-1614#DMG + 25610#CRIT + 616#HP + 2110#DEF + 286#El HP máximo + 5% de #DMG recibido de Boss Monsters se reduce en un 5% #Tus ataques tienen un 8% de probabilidad de lanzar Santuario sagrado, generando un escudo que absorbe el 30% de DMG Recibido (máximo hasta 10,095 DMG) durante 15 s.
-1615#DMG + 25610#CRIT + 662#HP + 1821#DEF + 308#CRIT DMG + 5% #CRIT DMG a Boss Monsters aumenta un 25%. #Tus ataques tienen un 8% de probabilidad de disparar la Noción de Kayel e infligir un daño mayor.
-1616#DMG + 23317#CRIT + 550#HP + 1891#DEF + 255#HP + 8% #CRIT El índice de "Dragon Slayer" aumenta un 8%. Los #objetivos con atributos de hielo reciben un 50% de daño. #Tus ataques tienen un 8% de probabilidad de obtener el Poder de Dios de Fuego, lo que aumenta el DMG en 3318 durante 15 s.
-1617#DMG + 27208#CRIT + 662#HP + 2265#DEF + 308#El HP máx. + 5% #CRIT El índice de "Evil Smiting Edge" se incrementa en un 8%. #Tus ataques tienen un 8% de probabilidad de provocar Perforación de Espinas y causar más daño.
-1618#DMG + 27208#CRIT + 711#HP + 1962#DEF + 331#CRIT DMG 5% El #daño de "Divisor de hielo" aumenta un 20% #Daño infligido a los objetivos con los atributos de Llama aumenta un 50% #Tus ataques tienen un 8% de probabilidad de aprovecharse de Furia de las profundidades, lo que aumenta el CRIT en 1252 durante 15 s .
-1619#DMG + 27208#CRIT + 662#HP + 2265#DEF + 308#El HP máx. + 5% El #daño de "Dragon Slayer" aumenta un 20% #Tus ataques tienen un 8% de probabilidad de activar el Escudo de protección solar, que absorbe el 30% de DMG recibido (máximo de 10,673 DMG) durante 15 s.
-1620#DMG + 18432#CRIT + 415#HP + 1438#DEF + 191#Max HP + 5% #ACC + 10% #CRIT Tasa + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
-1621#DMG + 25610#CRIT + 616#HP + 2110#DEF + 286#Max HP + 5% #ACC + 10% #CRIT Tasa + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
+1614#DMG + 25610#CRIT + 616#HP + 2110#DEF + 286#El HP máximo + 5%#DMG recibido de monstruos Jefe se reduce en un 5% #Tus ataques tienen un 8% de probabilidad de lanzar Santuario sagrado, generando un escudo que absorbe el 30% de DMG Recibido (máximo hasta 10,095 DMG) durante 15 s.
+1615#DMG + 25610#CRIT + 662#HP + 1821#DEF + 308#CRIT DMG + 5% #CRIT DMG a monstruos Jefe aumenta un 25%. #Tus ataques tienen un 8% de probabilidad de disparar la Noción de Jai e infligir un daño mayor.
+1616#DMG + 23317#CRIT + 550#HP + 1891#DEF + 255#HP + 8% #Tasa CRIT de Asesino de Dragones aumenta un 8%.#Los objetivos con atributos de hielo reciben un 50% de daño. #Tus ataques tienen un 8% de probabilidad de obtener el Poder de Dios de Fuego, lo que aumenta el DMG en 3318 durante 15 s.
+1617#DMG + 27208#CRIT + 662#HP + 2265#DEF + 308#El HP máx. + 5% #Tasa CRIT de Filo Aniquilador se incrementa en un 8%. #Tus ataques tienen un 8% de probabilidad de provocar Perforación de Espinas y causar más daño.
+1618#DMG + 27208#CRIT + 711#HP + 1962#DEF + 331#CRIT DMG 5% #daño de Corte de Hielo aumenta un 20% #Daño infligido a los objetivos con los atributos de Llama aumenta un 50% #Tus ataques tienen un 8% de probabilidad de aprovecharse de Furia de las profundidades, lo que aumenta el CRIT en 1252 durante 15 s .
+1619#DMG + 27208#CRIT + 662#HP + 2265#DEF + 308#El HP máx. + 5%#daño por Asesino de Dragones aumenta un 20% #Tus ataques tienen un 8% de probabilidad de activar el Escudo de protección solar, que absorbe el 30% de DMG recibido (máximo de 10,673 DMG) durante 15 s.
+1620#DMG + 18432#CRIT + 415#HP + 1438#DEF + 191#Max HP + 5% #PRE + 10% #CRIT Tasa + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
+1621#DMG + 25610#CRIT + 616#HP + 2110#DEF + 286#Max HP + 5% #PRE + 10% #CRIT Tasa + 10% contra jugadores enemigos #DMG + 25% contra jugadores enemigos
 1622#DMG + 24068#CRIT + 616#HP + 1687#DEF + 286#Máximo HP + 5% #Tus ataques tienen un 5% de probabilidad de invocar Alas de Iluminación, obteniendo un escudo que absorbe el 30% de DMG Recibido (máximo hasta 9533 DMG) durante 15 s.
-1623#DMG + 24068#CRIT + 572#HP + 1962#DEF + 265#CRIT DMG + 5% #Tus ataques tienen un 5% de probabilidad de generar Dark Tusk Force, lo que aumenta el DMG en 3630 durante 15 s.
+1623#DMG + 24068#CRIT + 572#HP + 1962#DEF + 265#CRIT DMG + 5% #Tus ataques tienen un 5% de probabilidad de generar Fuerza Colmillo Negro, lo que aumenta el DMG en 3630 durante 15 s.
 1624#DMG + 28027#CRIT + 686#HP + 2345#DEF + 319
-1625#DMG + 34155#CRIT + 871#HP + 2959#DEF + 408#DMG Recibido de Boss Monsters y Elite Monsters -5% de #daño infligido contra Boss Monsters + 10%
-1626#DMG + 36034#CRIT + 929#HP + 3152#DEF + 435#El daño con el arma de la espada sagrada aumenta un 6%. El #enfriamiento de "Trueno divino" se reduce un 15%.
-1627#DMG + 36034#CRIT + 990#HP + 2774#DEF + 465#Máx. HP + 3%. #El daño con el arma de la espada sagrada aumenta un 3%. El #daño de "Filo de ataque del mal" aumenta un 15%
-1628#DMG + 34155#CRIT + 871#HP + 2959#DEF + 408#HP + 8% #ACC + 10% #CRIT La tasa contra jugadores oponentes se incrementa en un 15%. El #daño infligido a jugadores oponentes aumenta un 30%
+1625#DMG + 34155#CRIT + 871#HP + 2959#DEF + 408#DMG Recibido de monstruos Jefe y Elite Monsters -5% de #daño infligido contra monstruos Jefe + 10%
+1626#DMG + 36034#CRIT + 929#HP + 3152#DEF + 435#El daño con el arma de la espada sagrada aumenta un 6%.#El enfriamiento de "Trueno divino" se reduce un 15%.
+1627#DMG + 36034#CRIT + 990#HP + 2774#DEF + 465#Máx. HP + 3%. #El daño con el arma de la espada sagrada aumenta un 3%.#daño de "Filo de ataque del mal" aumenta un 15%
+1628#DMG + 34155#CRIT + 871#HP + 2959#DEF + 408#HP + 8% #PRE + 10% #CRIT La tasa contra jugadores oponentes se incrementa en un 15%. El #daño infligido a jugadores oponentes aumenta un 30%
 1629#DMG + 32333#CRIT + 815#HP + 2774#DEF + 381
 1630#DMG + 36995#CRIT + 959#HP + 3251#DEF + 450
-1631#DMG + 44136#CRIT + 1187#HP + 4005#DEF + 559#DMG recibido de Boss y Elite Monsters -5%. #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
-1632#DMG + 44136#CRIT + 1187#HP + 4005#DEF + 559#HP + 10% #ACC + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
-1633#DMG + 46311#CRIT + 1258#HP + 4240#DEF + 593#Max HP + 5% #Holy Sword DMG + 8% #Duración de "Dragon Slayer" +3 seg. #PEN + 10%
+1631#DMG + 44136#CRIT + 1187#HP + 4005#DEF + 559#DMG recibido de monstruos Jefe y Elite Monsters -5%. #DMG a monstruos Jefe + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+1632#DMG + 44136#CRIT + 1187#HP + 4005#DEF + 559#HP + 10% #PRE + 15% #CRIT + 20% contra jugadores enemigos #DMG + 35% contra jugadores enemigos
+1633#DMG + 46311#CRIT + 1258#HP + 4240#DEF + 593#Max HP + 5% #DMG por Mandoble + 8% #Duración de Asesino de Dragones +3 seg. #PEN + 10%
 1634#DMG + 42022#CRIT + 1118#HP + 3779#DEF + 526
 1635#DMG + 47421#CRIT + 1294#HP + 4361#DEF + 611
-1636#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 744#DMG recibido de Boss y Elite Monsters -8% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
-1637#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 774#HP + 12% #ACC + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt to Opposing Players + 40%#
-1638#DMG + 58109#CRIT + 1654#HP + 5550#DEF + 785#Arma de la espada sagrada DMG + 10% #Nivel de habilidad de la espada sagrada +3 #Al lanzar la Resistencia divina, el objetivo recibe el efecto del Día del Juicio, DMG recibido de Juramento y Rayo divino + 15%, dura 5 segundos #PEN + 12%
+1636#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 744#DMG recibido de monstruos Jefe y Elite Monsters -8% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+1637#DMG + 55624#CRIT + 1569#HP + 5269#DEF + 774#HP + 12% #PRE + 20% #TASA DE CRITO contra jugadores oponentes + 25% #DMG Dealt to Opposing Players + 40%#
+1638#DMG + 58109#CRIT + 1654#HP + 5550#DEF + 785#Arma de la espada sagrada DMG + 10% #Nivel de habilidad de la espada sagrada +3 #Al lanzar Corte Divino, el objetivo recibe el efecto del Día del Juicio, DMG recibido de Juramento y Luz Divina + 15%, dura 5 segundos #PEN + 12%
 1639#DMG + 55300#CRIT + 1291#HP + 5634#DEF + 754
-1640#DMG + 62623#CRIT + 1500#HP + 7054#DEF + 879#CRITER DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+1640#DMG + 62623#CRIT + 1500#HP + 7054#DEF + 879#CRIT DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
 1641#DMG + 62623#CRIT + 1500#HP + 7054#DEF + 879#HP máximo + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%

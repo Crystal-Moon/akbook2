@@ -6,27 +6,27 @@
 2405#DMG + 12004#CRIT + 263#HP + 802#DEF + 119#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Ferocidad, lo que aumenta el DMG en 1820 durante 15 segundos.
 2406#DMG + 15367#CRIT + 349#HP + 1015#DEF + 159#Máximo HP + 5% #2% de DEF agregado a CRIT #Cada golpe crítico tiene un 16% de probabilidad de invocar Poder de harim, que aumenta el DMG en un 6% durante 15 segundos
 2407#DMG + 14774#CRIT + 334#HP + 978#DEF + 152#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de causar heridas de corte, lo que inflige 1384 de daño por segundo durante 15 segundos.
-2408#DMG + 19200#CRIT + 452#HP + 1252#DEF + 208#CRIT + 3% de #daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de romper huesos, lo que inflige 1770 de daño por segundo durante 15 segundos
-2409#DMG + 17869#CRIT + 415#HP + 1170#DEF + 191#CRIT + 3% de #rango de Corte Tornado +1 metro #Cada ataque tiene un 5% de probabilidad de activar Corte Critico, que inflige daño adicional
+2408#DMG + 19200#CRIT + 452#HP + 1252#DEF + 208#CRIT + 3%#daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de romper huesos, lo que inflige 1770 de daño por segundo durante 15 segundos
+2409#DMG + 17869#CRIT + 415#HP + 1170#DEF + 191#CRIT + 3%#rango de Corte Tornado +1 metro #Cada ataque tiene un 5% de probabilidad de activar Corte Critico, que inflige daño adicional
 2410#DMG + 17869#CRIT + 415#HP + 1170#DEF + 191#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de activar Golpe Poderoso, que inflige daño adicional
 2411#DMG + 17869#CRIT + 381#HP + 1337#EVA + 465#CRIT + 5% #Cada golpe crítico tiene un 10% de probabilidad de activar Fuerza Furiosa, lo que aumenta el DMG en un 5% durante 15 segundos.
 2412#DMG + 21298#CRIT + 509#HP + 1380#DEF + 236#CRIT + 3% #Cada ataque tiene un 5% de probabilidad de otorgar Poder Destructivo, lo que aumenta DMG en 3120 durante 15 segundos
 2413#DMG + 21298#CRIT + 470#HP + 1622#EVA + 578#CRIT + 5% #Cada ataque tiene un 5% de probabilidad de lanzar Carga Ligera, que inflige 1950 Daño por segundo durante 15 segundos.
 2414#DMG + 26677#CRIT + 662#HP + 1821#DEF + 308#CRIT + 3% #Daño recibido de los jefes -5% #Cada ataque tiene un 8% de probabilidad de causar un Frenesí, lo que aumenta el DMG en 3846 durante 15 segundos
 2415#DMG + 26677#CRIT + 616#HP + 2110#EVA + 762#CRIT DMG + 5% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de lanzar Cicatriz Sacra, que inflige 2403 de daño por segundo durante 15 segundos
-2416#DMG + 22766#CRIT + 550#HP + 1498#DEF + 255#Máx HP + 8% #Nivel de habilidad de barra de llamas +5 #Daño + 50% para objetivos de Atributos de Hielo #Cada ataque tiene un 8% de probabilidad de obtener Poder del Dios del Fuego, que inflige 2074 Daños por segundo durante 15 segundos
-2417#DMG + 28341#CRIT + 711#HP + 1962#DEF + 331#Máximo HP + 5% de #daño de Raging Slash + 15% #Cada golpe crítico tiene un 16% de probabilidad de romper el cielo, lo que aumenta el DMG en un 3% durante 15 segundos
-2418#MG + 28341#CRIT + 616#HP + 2110#EVA + 762#CRIT DMG + 5% de #daño del hacha reflejada + 20% #Cada ataque tiene un 8% de probabilidad de activar la Llama Sagrada, lo que aumenta el CRIT en 1251 durante 15 segundos
-2419#DMG + 28341#CRIT + 662#HP + 1821#DEF + 308#Máx HP + 8% de #tasa de críticas de réplica + 8% #50% de bonificación Daño a las llamas por objetivo de #ataque Cada ataque tiene un 8% de probabilidad de activar Bramido del Leviatan, que inflige daño adicional
+2416#DMG + 22766#CRIT + 550#HP + 1498#DEF + 255#Máx HP + 8% #Nivel de habilidad de Fuego Iracundo +5 #Daño + 50% para objetivos de Atributos de Hielo #Cada ataque tiene un 8% de probabilidad de obtener Poder del Dios del Fuego, que inflige 2074 Daños por segundo durante 15 segundos
+2417#DMG + 28341#CRIT + 711#HP + 1962#DEF + 331#Máximo HP + 5%#daño de Golpe Clerigo + 15% #Cada golpe crítico tiene un 16% de probabilidad de romper el cielo, lo que aumenta el DMG en un 3% durante 15 segundos
+2418#MG + 28341#CRIT + 616#HP + 2110#EVA + 762#CRIT DMG + 5% de #daño de Hacha Giratoria + 20% #Cada ataque tiene un 8% de probabilidad de activar la Extincion de Demonios, lo que aumenta el CRIT en 1251 durante 15 segundos
+2419#DMG + 28341#CRIT + 662#HP + 1821#DEF + 308#Máx HP + 8%#tasa de críticas de Golpe Sisimico + 8%#50% de daño a objetivos atributo Fuego#Cada ataque tiene un 8% de probabilidad de activar Bramido del Leviatan, que inflige daño adicional
 2420#DMG + 19200#CRIT + 452#HP + 1252#DEF + 208#DEF + 5% #PRE + 10% #Daño crítico contra jugadores + 25% #Daño contra jugadores + 25%#
 2421#DMG + 26677#CRIT + 662#HP + 1821#DEF + 308#DEF + 5% #PRE + 10% #Daño crítico contra jugadores + 25% #Daño contra jugadores + 25%
-2422#DMG + 25071#CRIT + 616#HP + 1687#DEF + 286#CRIT + 3% #5% de probabilidad de activarBestia Gelida al usar habilidades, lo que aumenta el DMG en 3630 durante 15 segundos.
+2422#DMG + 25071#CRIT + 616#HP + 1687#DEF + 286#CRIT + 3% #5% de probabilidad de activar Bestia Gelida al usar habilidades, lo que aumenta el DMG en 3630 durante 15 segundos.
 2423#DMG + 25071#CRIT + 572#HP + 1962#EVA + 706#CRIT DMG + 5% #5% de probabilidad de activar Union de Jade cuando atacas, lo que genera mayores cantidades de DMG.
 2424#DMG + 29195#CRIT + 736#HP + 2035#EVA + 915
 2425#DMG + 35578#CRIT + 929#HP + 2597#EVA + 1161#DMG recibido de monstruos Jefe -5% #DMG repartido a monstruos Jefe + 10%
-2426#DMG + 37535#CRIT + 929#HP + 3152#EVA + 1161#DMG + 6% para Great Axe #"gOLPE dESMESURADO" CRIT DMG + 20%
+2426#DMG + 37535#CRIT + 929#HP + 3152#EVA + 1161#DMG + 6% al usar Hacha#CRIT DMG de Golpe Desmesurado + 20%
 2427#DMG + 35578#CRIT + 929#HP + 2597#DEF + 435#CRIT + 6%. #PRE + 10% #Daño crítico + 30% contra jugadores #Daño infligido a jugadores aumenta un 30%
-2428#DMG + 37535#CRIT + 990#HP + 2774#DEF + 465#El HP máx. + 3% de #daño del arma de gran hacha aumenta en un 3% El #alcance de la habilidad "Corte Tornado" aumenta en 2 metros
+2428#DMG + 37535#CRIT + 990#HP + 2774#DEF + 465#El HP máx. + 3%#daño por Hacha aumenta en un 3% El #alcance de la habilidad "Corte Tornado" aumenta en 2 metros
 2429#DMG + 33680#CRIT + 871#HP + 2427#DEF + 408
 2430#DMG + 38537#CRIT + 1021#HP + 2865#DEF + 479
 2431#DMG + 45975#CRIT + 1258#HP + 3562#DEF + 593#DMG recibió de los jefes -5% #DMG a Jefes + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
@@ -35,8 +35,8 @@
 2434#DMG + 43772#CRIT + 1187#HP + 3353#DEF + 559
 2435#DMG + 49397#CRIT + 1369#HP + 3891#DEF + 647
 2436#DMG + 57942#CRIT + 1654#HP + 4736#DEF + 785#El DMG recibido de mostruos Jefes -8% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
-2437#DMG + 57942#CRIT + 1654#HP + 4736#DEF + 785#CRIT + 12%. #ACC + 20% #CRIT DMG contra jugadores+ 40% #DMG repartido a jugadores + 40%
-2438#DMG + 60530#CRIT + 1742#HP + 4998#DEF + 827#El DAÑO del Arma del Gran Hacha aumenta en un 10% #Nivel de Habilidad del Gran Hacha +3 #Mientras lanza Tornado Spin, reciba el estado de Golpe de furia y aumente la tasa de CRIT y el DAÑO del CRIT en un 20%, duran 4 segundos #PEN + 12%
+2437#DMG + 57942#CRIT + 1654#HP + 4736#DEF + 785#CRIT + 12%. #PRE + 20% #CRIT DMG contra jugadores+ 40% #DMG repartido a jugadores + 40%
+2438#DMG + 60530#CRIT + 1742#HP + 4998#DEF + 827#El DAÑO por Hacha aumenta en un 10% #Nivel de Habilidad +3 #Mientras lanza Corte Tornado, reciba el estado de Golpe de furia y aumente la tasa de CRIT y el DAÑO del CRIT en un 20%, duran 4 segundos #PEN + 12%
 2439#DMG + 57604#CRIT + 1358#HP + 5083#DEF + 794
-2440#DMG + 65232#CRIT + 1701#HP + 5923#DEF + 923#CRIT DAÑO a Boss Monsters + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2440#DMG + 65232#CRIT + 1701#HP + 5923#DEF + 923#CRIT DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
 2441#DMG + 65232#CRIT + 1701#HP + 5923#DEF + 923#CRIT + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

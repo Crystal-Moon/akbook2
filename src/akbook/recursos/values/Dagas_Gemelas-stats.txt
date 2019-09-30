@@ -4,39 +4,39 @@
 2703#DMG + 8643#CRIT + 203#SPD + 160#EVA + 317#EVA + 5% #Cada ataque tiene un 8% de probabilidad de entrar en un estado de Implacabilidad, lo que aumenta el CRIT en 560 durante 15 segundos.
 2704#DMG + 6876#CRIT + 182#SPD + 135#EVA + 270#EVA + 5%
 2705#DMG + 8643#CRIT + 238#SPD + 179#EVA + 315#EVA + 5% #Cada ataque tiene un 5% de probabilidad de invocar Muerte Luminosa, lo que aumenta el DMG en un 5% durante 15 segundos
-2706#DMG + 11064#CRIT + 319#SPD + 242#EVA + 465#CRIT + 5% #Daño en la habilidad de corte de slash + 25% #Cada ataque tiene un 8% de probabilidad de invocar el Poder de Carlos, lo que aumenta el CRIT en 1178 durante 15 segundos
+2706#DMG + 11064#CRIT + 319#SPD + 242#EVA + 465#CRIT + 5% #Daño en la habilidad de Corte Profundo + 25% #Cada ataque tiene un 8% de probabilidad de invocar el Poder de Carlos, lo que aumenta el CRIT en 1178 durante 15 segundos
 2707#DMG + 10638#CRIT + 304#SPD + 230#EVA + 445#EVA + 5% #Cada ataque tiene un 5% de probabilidad de activar Maldición Exotica, que inflige 1107 de daño por segundo durante 15 segundos y absorbe el 30% de ese daño para restaurar HP
 2708#DMG + 13824#CRIT + 415#SPD + 318#EVA + 602#EVA + 5% de #daño de crítico contra jefes + 25% #Cada ataque tiene un 8% de probabilidad de cantar Erocion Maldita, que causa 1416 de daño por segundo durante 15 segundos y absorbe el 30% de ese daño para recuperar el HP
 2709#DMG + 12866#CRIT + 381#SPD + 291#EVA + 554#EVA + 5% de #rango de Giro Virulento + 10m #Cada ataque tiene un 8% de probabilidad de hacerte alerta, lo que aumenta el DMG en 2648 durante 15 segundos
-2710#DMG + 12866#CRIT + 381#SPD + 291#EVA + 554#EVA + 5% #Una evasión exitosa da un 10% de probabilidad de entrar en la posición Atroz, lo que aumenta el DMG en 2648 durante 15 segundos
-2711#DMG + 12866#CRIT + 349#SPD + 346#EVA + 508#SPD + 3% #Cada ataque tiene un 5% de probabilidad de activar Luz Creciente, que inflige 1324 de daño por segundo durante 15 segundos y absorbe el 30% de ese daño para recuperar HP
-2712#DMG + 15335#CRIT + 470#SPD + 361#EVA + 679#EVA + 5% #Una evasión exitosa tiene un 10% de probabilidad de recibir la Bendición del viento, que aumenta el DMG en un 5% durante 15 segundos
+2710#DMG + 12866#CRIT + 381#SPD + 291#EVA + 554#EVA + 5% #Al evadir, 5% de probabilidad de obtener Atroz, lo que aumenta el DMG en 2648 durante 15 segundos
+2711#DMG + 12866#CRIT + 349#SPD + 346#EVA + 508#SPD + 3% #Cada ataque tiene un 5% de probabilidad de activar Luna Creciente, que inflige 1324 de daño por segundo durante 15 segundos y absorbe el 30% de ese daño para recuperar HP
+2712#DMG + 15335#CRIT + 470#SPD + 361#EVA + 679#EVA + 5% #Al atacar, 5% de probabilidad de recibir la Bendición del viento, que aumenta el DMG en un 5% durante 15 segundos
 2713#DMG + 15335#CRIT + 433#SPD + 425#EVA + 627#SPD + 3% #Cada ataque tiene un 5% de probabilidad de lanzar Corte Diabolico, que inflige daño adicional
 2714#DMG + 19208#CRIT + 616#SPD + 476#EVA + 883#EVA + 5% #Daño crítico contra jefes + 25% #Cada ataque tiene un 8% de probabilidad de otorgar el Poder Eolico, lo que aumenta el DMG en un 6% durante 15 segundos
 2715#DMG + 19208#CRIT + 572#SPD + 552#EVA + 821#SPD + 3% de #daño contra jefes + 10% #Cada ataque tiene un 8% de probabilidad de cortar con una Hoja prohibida, que inflige daño adicional
 2716#DMG + 16391#CRIT + 509#SPD + 392#EVA + 734#El HP máximo + 8% #2% del Daño infligido por las habilidades se absorbe como HP #Daño + 50% a los objetivos de Atributos de Hielo #Cada golpe crítico tiene un 15% de probabilidad de obtener Poder del Dios del Fuego, lo que aumenta el DMG en un 8% durante 15 segundos
-2717#DMG + 20406#CRIT + 662#SPD + 513#EVA + 948#Máx. De HP + 5% #Tasa CRIT de Corte Profundo + 5% #Cada ataque tiene un 8% de probabilidad de ser bendecido por la Luz de la gloria, que aumenta el CRIT en 1251 durante 15 segundos
+2717#DMG + 20406#CRIT + 662#SPD + 513#EVA + 948#Máx. De HP + 5% #Tasa CRIT de Corte Profundo + 5% #Cada ataque tiene un 8% de obtener Luz Bendita, que aumenta el CRIT en 1251 durante 15 segundos
 2718#DMG + 20406#CRIT + 572#SPD + 552#EVA + 821#CRIT + 3% #Duración de Rayo Purpeo +10 segundos #Cada ataque tiene un 8% de probabilidad de canalizar Dagas Malignas, que inflige daño adicional
-2719#DMG + 20406#CRIT + 616#SPD + 477#EVA + 883#Máx HP + 8% #Daño de barra diagonal cruzada + 25% #50% de bonificación Objetivos de atributo Daño a la llama #Cada ataque tiene un 8% de probabilidad de atraer Poder del Leviatan, lo que aumenta el DMG en 4066 durante 15 segundos
+2719#DMG + 20406#CRIT + 616#SPD + 477#EVA + 883#Máx HP + 8% #Daño de Corte Cruzado + 25% #50% de daño contra objetivos de atributo Fuego#Cada ataque tiene un 8% de probabilidad de atraer Poder del Leviatan, lo que aumenta el DMG en 4066 durante 15 segundos
 2720#DMG + 13824#CRIT + 415#SPD + 318#EVA + 602#EVA + 5% #PRE+ 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
 2721#DMG + 19208#CRIT + 616#SPD + 476#EVA + 883#EVA + 5% #PRE+ 10% #Crit Rate contra jugadores + 10% #Daño contra jugadores + 25%
 2722#DMG + 18051#CRIT + 572#SPD + 441#EVA + 821#EVA + 5% #5% de probabilidad de activar Fuente de Felicidad cuando atacas, lo que aumenta el DMG en 3630 durante 15 segundos.
 2723#DMG + 18051#CRIT + 530#SPD + 513#EVA + 762#SPD + 3% #5% de probabilidad de activar Bendicion Divina al atacar, lo que aumenta el CRIT en 1117 durante 15 segundos.
 2724#DMG + 21020#CRIT + 686#SPD + 532#EVA + 982
-2725#DMG + 25616#CRIT + 871#SPD + 679#EVA + 1239#CRIT DMG contra Boss Monsters + 25% #DMG repartido a Boss Monsters + 10%
+2725#DMG + 25616#CRIT + 871#SPD + 679#EVA + 1239#CRIT DMG contra monstruos Jefe + 25% #DMG repartido a monstruos Jefe + 10%
 2726#DMG + 25616#CRIT + 871#SPD + 679#EVA + 1239#EVA +8% #PRE+ 10% #Ttasa CRIT contra jugadores se incrementa en un 15% #El daño infligido a los jugadores aumenta un 30%
-2727#DMG + 27025#CRIT + 871#SPD + 825#EVA + 1239#DMG + 6%#nivel de habilidad "Corte Cruzado" +5
+2727#DMG + 27025#CRIT + 871#SPD + 825#EVA + 1239#DMG por Dagas Gemelas + 6%#nivel de habilidad "Corte Cruzado" +5
 2728#DMG + 27025#CRIT + 929#SPD + 726#EVA + 1319#Máx. HP + 3%. #El daño con Dagas Gemelas + 3%. #El daño del "Destello Letal" aumenta un 20%
 2729#DMG + 24250#CRIT + 815#SPD + 635#EVA + 1161
 2730#DMG + 27746#CRIT + 959#SPD + 750#EVA + 1361
-2731#DMG + 33102#CRIT + 1187#SPD + 932#EVA + 1677#CRIT DMG a Boss Monsters + 25% #DMG a Boss Monsters + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
+2731#DMG + 33102#CRIT + 1187#SPD + 932#EVA + 1677#CRIT DMG a monstruos Jefe + 25% #DMG a monstruos Jefe + 10%. #Nivel de habilidad con armas +1 #PEN + 10%
 2732#DMG + 33102#CRIT + 1187#SPD + 932#EVA + 1677#EVA + 10% #PRE+ 15% #CRIT + 20% contra jugadores #DMG + 35% contra jugadores 
-2733#DMG + 34733#CRIT + 1258#SPD + 989#EVA + 1775#Max HP + 5%#DMG + 8% #DMG de "ariposa Fulminante" + 20% #PEN + 10%
+2733#DMG + 34733#CRIT + 1258#SPD + 989#EVA + 1775#Max HP + 5%#DMG + 8% #DMG de "Mariposa Fulminante" + 20% #PEN + 10%
 2734#DMG + 31516#CRIT + 1118#SPD + 877#EVA + 1582
 2735#DMG + 35566#CRIT + 1294#SPD + 1018#EVA + 1825
-2736#DMG + 41718#CRIT + 1569#SPD + 1239#EVA + 2206#CRIT DMG en Boss Monsters + 30% #DMG contra Boss Monsters + 10% #Nivel de habilidad con armas +2 #PEN + 12%
-2737#DMG + 41718#CRIT + 1569#SPD + 1239#EVA + 2206#EVA + 12% #ACC + 20% #Tasa CRIT contra jugadores + 25% #DMG contra jugadores jugadores + 40%
-2738#DMG + 43582#CRIT + 1654#SPD + 1308#EVA + 2323#Arma de cuchillas dobles + 10% DAÑO #Nivel de habilidad de cuchillas dobles +3 #Al lanzar Guiño mortal, recibe el estado de Golpe penetrante, todos los ataques reciben + 50% DAÑO durante 3 segundos #PEN + 12%
+2736#DMG + 41718#CRIT + 1569#SPD + 1239#EVA + 2206#CRIT DMG en monstruos Jefe + 30% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
+2737#DMG + 41718#CRIT + 1569#SPD + 1239#EVA + 2206#EVA + 12% #PRE + 20% #Tasa CRIT contra jugadores + 25% #DMG contra jugadores jugadores + 40%
+2738#DMG + 43582#CRIT + 1654#SPD + 1308#EVA + 2323#Daño por Dagas Gemelas + 10% #Nivel de habilidad de dagas gemelas +3 #Al lanzar Destello Letal, recibe el estado de Golpe penetrante, todos los ataques reciben + 50% DAÑO durante 3 segundos #PEN + 12%
 2739#DMG + 41475#CRIT + 1291#SPD + 1021#EVA + 1811
 2740#DMG + 46947#CRIT + 1500#SPD + 1190#EVA + 2267#Tasa de CRIT + 20% contra jefes #DMG contra jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
 2741#DMG + 46947#CRIT + 1500#SPD + 1190#EVA + 2267#EVA + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%

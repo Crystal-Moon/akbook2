@@ -21,7 +21,7 @@
 820#Set Extincion Definitiva# Bonificación de conjunto:# CRIT +559 y CRIT DMG + 5%
 821#Set de las Lamentaciones# Bonificación de conjunto:#Max HP +953 y CRIT DMG recibieron -8%
 822#Set Reflejo Deslumbrante# Bonificación de conjunto:#DMG contra Elites + 20%#CRIT +772 y CRIT DMG + 10%
-823#Set del Portador de Almas# Bonificación de conjunto:#DMG recibida de Bosses -8%#Max HP +1316 y CRIT DMG recibida -15%
+823#Set del Portador de Almas# Bonificación de conjunto:#DMG recibida de monstruos Jefees -8%#Max HP +1316 y CRIT DMG recibida -15%
 824#Set Asesino de Dragones# Bonificación de conjunto:#Máximo HP +3254.#20% de probabilidad de reducir el daño de ataque entrante en un 15%.
 825#Set del Sacerdote de Ritos# Bonificación de conjunto:#DMG +4648.#8% de probabilidad de lanzar Luz de ritual cuando atacas para causar 2905 puntos de daño recurrente durante 15 segundos.
 826#Set Bendicion Heroica# Bonificación de conjunto:#+8% de tasa CRIT contra otros jugadores.#Daño crítico recibido de jugadores reducido en un -15%.
@@ -111,12 +111,12 @@
 910#Set Furia de la Tormenta# Bonificacion del Set:#[Parte de arriba]#SPD +2768#[Parte de abajo]#HP + 6%
 911#Set Asesinato# Bonificacion del Set:#[Partde de arriba]#CRIT +1384#[Parte de abajo]#CRIT DMG para enemigos ?ite + 12%
 912#Tabu Sagrado# Bonificacion del Set:#[Partde de arriba]#DEF + 5% #Max HP + 10% #DMG recibido de los jefes -20%.#[Partde de abajo]#DMG recibido de Elites -20%. #HP m?. + 15% #Tus ataques tienen un 8% de probabilidad de obtener el estado de Guardian Sagrado, lo que resulta en DEF +1186 y en la conversi? del 2% de DMG de ataque normal repartido para recuperar tu HP durante 12 s.
-913#Set Flagelo# Bonificacion del Set:#[Partde de arriba]#DMG + 10% #EVA +1626 #CRIT DMG a Boss Monsters + 30%#[Parte de abajo]#DMG + 12% #CRIT DMG a Boss Monsters + 35% #Tus ataques tienen un 10% de probabilidad de activar el Castigo Sagrado, lo que inflige 1585 DPS al enemigo durante 12 s.
+913#Set Flagelo# Bonificacion del Set:#[Partde de arriba]#DMG + 10% #EVA +1626 #CRIT DMG a monstruos Jefe + 30%#[Parte de abajo]#DMG + 12% #CRIT DMG a monstruos Jefe + 35% #Tus ataques tienen un 10% de probabilidad de activar el Castigo Sagrado, lo que inflige 1585 DPS al enemigo durante 12 s.
 914#Set Cazavientos# Bonificacion del Set:#[Parte de arriba]#SPD + 5% de #potencia de curaci? + 15% #DMG recibido de los jefes -15%.#[Parte de abajo]#HP + 8% #SPD +3252 #Sus habilidades tienen un 15% de probabilidad de activar Storm Shield, lo que le otorga SPD +1626 y CRIT DMG + 20% durante 12 s.
-915#Set Devorador# Bonificacion del Set:#[Partde de arriba]#CRIT +1626 #SPD +3040 #CRIT DMG a Boss Monsters + 30%#[Parte de abajo]#CRIT +1626 #CRIT DMG a enemigos ?ite + 25% #Sus habilidades tienen un 12% de probabilidad de obtener el estado de Devorador, lo que resulta en una tasa de CRIT + 8% durante 8 s.
+915#Set Devorador# Bonificacion del Set:#[Partde de arriba]#CRIT +1626 #SPD +3040 #CRIT DMG a monstruos Jefe + 30%#[Parte de abajo]#CRIT +1626 #CRIT DMG a enemigos ?ite + 25% #Sus habilidades tienen un 12% de probabilidad de obtener el estado de Devorador, lo que resulta en una tasa de CRIT + 8% durante 8 s.
 916#Set Proteccion del Alba# Bonificacion del Set:#[Parte de arriba]#DMG recibido de los jugadores se reduce en un 15%. #CRIT El DMG recibido de jugadores se reduce en un 40%#[Parte de abajo]#CRIT DMG + 30% contra jugadores #El CRIT DMG recibido de jugadores se reduce en un 40%
 917#Set Furiad e Nemesis# Bonificacion del Set:#[Parte de arriba]#DMG recibido de los jugadores se reduce en un 15%. #CRIT El DMG recibido de jugadores se reduce en un 40%#[Parte de abajo]#CRIT DMG + 30% contra jugadores#CRIT DMG recibido de jugadores se reduce en un 40%
-918#Set Desenga? Silencioso# Bonificacion del Set:#[Parte de arriba]#Max HP +2122#[Parte de abajo]#DMG recibido de Boss Monsters -8%
+918#Set Desenga? Silencioso# Bonificacion del Set:#[Parte de arriba]#Max HP +2122#[Parte de abajo]#DMG recibido de monstruos Jefe -8%
 919#Set polvo de las ruinas# Bonificacion del Set:#[Parte de arriba]#DMG +3032#[Parte de abajo]#tus habilidades tienen un 5% de probabilidad de activar cenizas animadas, lo que te hace repartir DMG + 5% a los Monstruos de ?ite durante 6 s.
 920#Set Cielos Incandecentes# Bonificacion del Set:#[Parte de arriba]#DMG +3385#[Parte de abajo]#tus ataques tienen un 10% de probabilidad de otorgar el efecto Noche Sanguinaria, DMG + 5% a los Monstruos de ?ite durante 10 s.
 921#Set Dominio Divino# Bonificacion del Set:#[Parte de arriba]#M?imo HP +2369#[Parte de abajo]#da? recibido de los monstruos de ?ite -12%
@@ -147,7 +147,7 @@
 946#Unbreakable Set# Bonificacion del Set:#DEF +1799
 947#Lost Souls Set# Bonificacion del Set:#CRIT +1125
 948#World Saviour Set# Bonificacion del Set:#DMG +4313#CRIT +1797#DMG +15% to Elite Monsters
-949#Unbreakable Metal Set# Bonificacion del Set:#DEF +2875 #La tasa de CRIT recibida de Boss y Elite Monsters se reduce en un 15%. #Los ataques enemigos tienen un 10% de probabilidad de activar el efecto Carne inmortal, disminuyendo tu DAÑO CRIT en un 15% durante 10 segundos.
+949#Unbreakable Metal Set# Bonificacion del Set:#DEF +2875 #La tasa de CRIT recibida de monstruos Jefe y Elite Monsters se reduce en un 15%. #Los ataques enemigos tienen un 10% de probabilidad de activar el efecto Carne inmortal, disminuyendo tu DAÑO CRIT en un 15% durante 10 segundos.
 950#Life Snatcher Set# Bonificacion del Set:#CRIT +2336#SPD +3594#CRIT DMG to Elite Monsters +35%
 951#God of War Set# Bonificacion del Set:#Tasa de CRIT de jugadores enemigos -20% #CRIT DMG contra jugadores oponentes + 40%
 952#Bloodlust Set# Bonificacion del Set:#tasa CRIT contra jugadores enemigos + 30% #CRIT DMG contra jugadores enemigos + 50%.
@@ -158,6 +158,6 @@
 957#Raging Drift Set# Bonificacion del Set:#[Parte de arriba]#CRIT +1607#[Parte de abajo]#tasa CRIT a monstruos de élite + 8%
 958#Forest Wound Set# Bonificacion del Set:#[Parte de arriba]#Detalle-DMG + 12% #DMG +3856 #CRIT DMG a Jefes + 35%#[Parte de abajo]#DAÑO + 10% #CRIT DAÑO a jefes + 35% #Tus ataques tienen un 12% de probabilidad de activar una Carga de redención, aumentando el DAÑO CRIT contra Élite en un 20% durante 10 segundos
 959#Shadowmist Shield Set# Bonificacion del Set:#[Parte de arriba]#DEF + 7% #HP máximo + 12% #DAÑO recibido de los jefes - 25%.#[Parte de abajo]#DAÑO recibido de Elites -25% #HP máximo + 15% #Tus ataques tienen un 8% de probabilidad de activar Robusto, aumentando DEF +2056 y recuperando 1143 HP por segundo durante 15 segundos.
-960#Abyss Roar Set# Bonificacion del Set:#[Parte de arriba]#CRIT +1928 #DAÑO + 8% #Tasa de CRIT + 20% contra Boss Monsters#[Parte de abajo]#DMG + 8% #CRIT DMG a Elite Monsters + 35% #Tus ataques tienen un 20% de probabilidad de entrar en estado de Vértigo extático, aumentando la tasa de CRIT a Elite Monsters en + 15% durante 8 segundos.
+960#Abyss Roar Set# Bonificacion del Set:#[Parte de arriba]#CRIT +1928 #DAÑO + 8% #Tasa de CRIT + 20% contra monstruos Jefe#[Parte de abajo]#DMG + 8% #CRIT DMG a Elite Monsters + 35% #Tus ataques tienen un 20% de probabilidad de entrar en estado de Vértigo extático, aumentando la tasa de CRIT a Elite Monsters en + 15% durante 8 segundos.
 961#Resilient Warrior Set# Bonificacion del Set:#[Parte de arriba]#DAÑO recibido de los jugadores opuestos -20% #CRIT DAÑO recibido de los jugadores enemigos -50%#[Parte de abajo]#CRIT DMG contra jugadores oponentes +35% #CRIT DMG tomado de jugadores enemigos -50%
 962#Celestial Commander Set# Bonificacion del Set:#[Parte de arriba]#DAÑO recibido de los jugadores oponentes -20% #Tasa de CRIT + 20% contra jugadores enemigos#[Parte de abajo]#CRIT DMG contra jugadores enemigos + 50% #CRIT DMG tomado de jugadores enemigos -30%
