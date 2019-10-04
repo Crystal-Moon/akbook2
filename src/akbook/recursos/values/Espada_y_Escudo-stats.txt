@@ -39,4 +39,4 @@
 1038#DMG + 48424#HP + 5269#DEF + 871#EVA + 2092#El DAÑO con Arma de la Espada y el Escudo se incrementa en un 10% #Nivel de Habilidad de Golpe con la Espada y el Escudo +3 #Al conjurar Corte de Espada, recibe el estado de Defensa Ofensiva y reduce 2 veces el DAÑO recibido, Tasa de CRIT + 20%, dura 6 segundos #PEN + 12%
 1039#DMG + 46083#HP + 5354#DEF + 836#EVA + 1634
 1040#DMG + 52186#HP + 6223#DEF + 1046#EVA + 1904#CRIT Rate from monstruos Jefe and Elite Monsters is reduced by -15%#DMG against monstruos Jefees +10%#Weapon Skill Level +2#PEN +15%
-1041#DMG + 52186#HP + 6223#DEF + 1046#EVA + 1904#HP máx. + 15% #PRE + 25% #DAÑO recibido de jugadores enemigos -25% #DAÑO repartido a jugadores enemigos + 40%
+1041#DMG + 52186#HP + 6223#DEF + 1046#EVA + 1904#HP máx. + 15% #PRE + 25% #DAÑO recibido de jugadores enemigos -25% #DAÑO  a jugadores enemigos + 40%

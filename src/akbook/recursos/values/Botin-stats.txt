@@ -8,37 +8,37 @@
 2007#CRIT + 183#SPD + 170#EVA + 301#SPD +187 #Potencia de curación +182
 2008#DMG + 586#CRIT + 204#HP + 688#DMG +364 #SPD +93 #PRE + 5%
 2009#SPD + 170#HP + 807#DEF + 92#DEF +140 #daño sufrido -2%
-2010#CRIT + 237#SPD + 217#EVA + 381#EVA +341. #Cada ataque tiene un 4% de probabilidad de aprovechar el Aura de Argus, lo que aumenta el CRIT en 341 CRIT DMG en un 10% durante 15 segundos
-2011#DMG + 744#CRIT + 261#HP + 838#CRIT +227 #Cada ataque tiene un 4% de probabilidad de estar a la altura del potencial de Toto, lo que aumenta el daño infligido por las habilidades en 199 durante 15 segundos.
-2012#SPD + 217#HP + 969#DEF + 119#Max HP +843 #Al ser sanado se activa la Autoridad de Asheara, que aumenta el DMG en 221 y el DEF en 221 durante 15 segundos
-2013#CRIT + 286#SPD + 261#EVA + 455#EVA +394 #Cada ataque tiene un 4% de probabilidad de aprovechar el Poder de Argus, lo que aumenta el CRIT en 394 y el CRIT DMG en un 20% durante 15 segundos
-2014#DMG + 888#CRIT + 313#HP + 969#CRIT +262 #Cada ataque tiene un 4% de probabilidad de invocar la Ira de Toto, lo que aumenta el Daño infligido por las habilidades en 230 durante 15 segundos
-2015#SPD + 261#HP + 1109#DEF + 143#Max HP +933 #Ser sanado activa el comportamiento de Asheara, que aumenta DMG en 256 y DEF en 256 durante 15 segundos
-2016#SPD + 272#HP + 1003#DEF + 178#DEF +176 #Ser atacado tiene un 20% de probabilidad de activar las defensas de Lestaro, que recupera un 3% de HP. #Solo puede ocurrir una vez cada 5 segundos.
+2010#CRIT + 237#SPD + 217#EVA + 381#EVA +341. #Cada ataque tiene un 4% de probabilidad de obtener Magia de Argos, lo que aumenta el CRIT en 341 CRIT DMG en un 10% durante 15 segundos
+2011#DMG + 744#CRIT + 261#HP + 838#CRIT +227 #Cada ataque tiene un 4% de probabilidad de obtener Potencial Liberado, lo que aumenta el daño infligido por las habilidades en 199 durante 15 segundos.
+2012#SPD + 217#HP + 969#DEF + 119#Max HP +843 #Al ser sanado se activa Aire Real de Algana, que aumenta el DMG en 221 y el DEF en 221 durante 15 segundos
+2013#CRIT + 286#SPD + 261#EVA + 455#EVA +394 #Cada ataque tiene un 4% de probabilidad de aprovechar Onda Poderosa de Argos, lo que aumenta el CRIT en 394 y el CRIT DMG en un 20% durante 15 segundos
+2014#DMG + 888#CRIT + 313#HP + 969#CRIT +262 #Cada ataque tiene un 4% de probabilidad de obtener Resentimiento de Genbu, lo que aumenta el Daño infligido por las habilidades en 230 durante 15 segundos
+2015#SPD + 261#HP + 1109#DEF + 143#Max HP +933 #Al ser sanado activa el Aire Imperial de Algana, que aumenta DMG en 256 y DEF en 256 durante 15 segundos
+2016#SPD + 272#HP + 1003#DEF + 178#DEF +176 #Ser atacado tiene un 20% de probabilidad de activar Caparazon de Sheralo, que recupera un 3% de HP. #Solo puede ocurrir una vez cada 5 segundos.
 2017#CRIT + 356#SPD + 272#HP + 1003#CRIT +339 #CRIT DMG + 15%
-2018#SPD + 297#HP + 1073#EVA + 399#Máxima HP +955 #Curación recibida +191
+2018#SPD + 297#HP + 1073#EVA + 399#Máxima HP +955 #efectos curativo +191
 2019#SPD + 297#HP + 1073#DEF + 150#SPD +262 #Potencia de curación +239
 2020#CRIT + 356#DEF + 150#EVA + 436#DMG +511 #DMG + 3%
 2021#CRIT + 327#HP + 1003#EVA + 475#EVA +328 #Mover SPD + 3%
-2022#CRIT + 299#SPD + 273#EVA + 475#SPD +272 #Cada ataque tiene un 4% de probabilidad de abrir un Rift dimensional, lo que reduce la DEF del objetivo en 970 y la Velocidad de movimiento en un 20% durante 15 segundos
-2023#DMG + 926#CRIT + 327#HP + 1003#DMG +530 #Cada ataque tiene un 10% de probabilidad de disparar Poder de Hale, lo que le inflige 1324 p. De daño extra al objetivo
-2024#SPD + 273#HP + 1146#DEF + 149#DEF +203 #Se agrega 1% de DEF a SPD
-2025#CRIT + 299#SPD + 273#EVA + 475#EVA aumenta en 407 #Una evasión exitosa tiene un 10% de probabilidad de invocar la Malicia de Gekasso, lo que hace que el siguiente ataque sea un golpe crítico. El #efecto dura hasta que llega un ataque o hasta que hayan transcurrido 15 segundos.
-2026#SPD + 297#HP + 1146#DEF + 164#DEF +217 #Al ser atacado tiene un 50% de probabilidad de causar que el próximo ataque enemigo haga cero. Daño #Este efecto desaparece después de 8 segundos y solo se puede activar una vez por minuto.
-2027#CRIT + 327#SPD + 297#EVA + 516#EVA +436 #Cada uso de habilidad tiene un 50% de probabilidad de recibir la Bendición de Grass Kingdom, lo que aumenta el SPD en 29 y la Potencia de curación en 28 durante 10 segundos #Este efecto puede acumularse hasta 5 veces
-2028#DMG + 1006#CRIT + 356#HP + 1073#CRIT +290 #Cada ataque tiene un 4% de dominio de The Art of War, lo que aumenta el daño infligido por todas las habilidades en 254 durante 15 segundos.
-2029#SPD + 297#HP + 1146#DEF + 164#HP máx. +601 y Curación recibida +142 #Se agregó 2% de DEF a DMG
+2022#CRIT + 299#SPD + 273#EVA + 475#SPD +272 #Cada ataque tiene un 4% de probabilidad de obtener Energia Espaciotemporal Secreta, lo que reduce la DEF del objetivo en 970 y la Velocidad de movimiento en un 20% durante 15 segundos
+2023#DMG + 926#CRIT + 327#HP + 1003#DMG +530 #Cada ataque tiene un 10% de probabilidad de obtener Onda Electromagnetica, lo que le inflige 1324 p. De daño extra al objetivo
+2024#SPD + 273#HP + 1146#DEF + 149#DEF +203 #Aumenta VEL 1% del valor de DEF
+2025#CRIT + 299#SPD + 273#EVA + 475#EVA aumenta en 407 #Una evasión exitosa tiene un 10% de probabilidad de obtener Fuerza del Rey Camaleon, lo que hace que el siguiente ataque sea un golpe crítico. #El efecto dura hasta que llega un ataque o hasta que hayan transcurrido 15 segundos.
+2026#SPD + 297#HP + 1146#DEF + 164#DEF +217 #Al ser atacado tiene un 50% de probabilidad de obtener Energia Mistica, lo que bloque todo el DMG del siguiente golpe.#Este efecto desaparece después de 8 segundos y solo se puede activar una vez por minuto.
+2027#CRIT + 327#SPD + 297#EVA + 516#EVA +436 #Cada uso de habilidad tiene un 50% de probabilidad de recibir la Bendición de Verdeterno, lo que aumenta el SPD en 29 y la Potencia de curación en 28 durante 10 segundos #Este efecto puede acumularse hasta 5 veces
+2028#DMG + 1006#CRIT + 356#HP + 1073#CRIT +290 #Cada ataque tiene un 4% de posibilidad de obtener Arte de la Guerra, lo que aumenta el daño infligido por todas las habilidades en 254 durante 15 segundos.
+2029#SPD + 297#HP + 1146#DEF + 164#HP máx. +601#Efectos curativos +142 #Aumenta el DMG un 2% de la DEF
 2030#CRIT + 327#SPD + 297#EVA + 516#EVA +290 y SPD +145 #Una evasión exitosa tiene un 20% de probabilidad de infligir 1416 de daño a todos los objetivos en un radio de 5 metros
-2031#DMG + 1136#CRIT + 403#HP + 1183#CRIT +320 #Cada golpe crítico tiene un 10% de invocar las Garras de Malodnak, lo que aumenta el daño de un ataque posterior en un 30%. El #efecto dura hasta que un ataque llegue a tierra o hayan transcurrido 15 segundos.
-2032#SPD + 336#HP + 1390#DEF + 186#Máx HP +1092 #Cada vez que te atacan hay un 6% de probabilidad de disparar el Arcana de Talen, que restaura 262 CV durante 15 segundos.
-2033#CRIT + 371#SPD + 336#EVA + 582#SPD +320 #HP+ 10%
-2034#DMG + 1136#CRIT + 403#HP + 1183#DMG +624 #Cada ataque tiene un 4% de probabilidad de invocar la Directividad de Caroline, que absorbe el 4% del daño infligido como HP durante 15 segundos
-2035#SPD + 336#HP + 1390#DEF + 186#DEF +239 #Cada vez que te atacan hay un 10% de probabilidad de ganar la sangre vital de Talamund, lo que disminuye el daño recibido un 10%.
-2036#DMG + 1322#CRIT + 472#HP + 1390#CRIT +362 #Cada golpe crítico tiene un 10% de probabilidad de invocar la Furia de Malodnak, lo que aumenta el daño del próximo ataque en un 45% si el objetivo es un monstruo jefe. El #efecto dura hasta que un ataque llegue a tierra o hayan transcurrido 15 segundos.
-2037#SPD + 393#HP + 1621#DEF + 218#Max HP +1234 #Cada vez que te atacan hay un 6% de probabilidad de activar la Energía de Talen, que restaura 296 HP durante 15 segundos.
-2038#CRIT + 437#SPD + 393#EVA + 678#SPD +362 #CURACIÓN + 15%
+2031#DMG + 1136#CRIT + 403#HP + 1183#CRIT +320 #Cada golpe crítico tiene un 10% de invocar Salvaje, lo que aumenta el daño del siguente ataque en un 30%. #El efecto dura hasta golpear al enemigo o hayan transcurrido 15 segundos.
+2032#SPD + 336#HP + 1390#DEF + 186#Máx HP +1092 #Cada vez que te atacan hay un 6% de probabilidad de disparar Poder Oscuro de Tarand, que restaura 262 PS durante 15 segundos.
+2033#CRIT + 371#SPD + 336#EVA + 582#SPD +320 #Efectos curativos +10%
+2034#DMG + 1136#CRIT + 403#HP + 1183#DMG +624 #Cada ataque tiene un 4% de probabilidad de invocar Independencia de Carolina, que absorbe el 4% del daño infligido como HP durante 15 segundos
+2035#SPD + 336#HP + 1390#DEF + 186#DEF +239 #Cada vez que te atacan hay un 10% de probabilidad de obtener Poder de talmudan, lo que disminuye el daño recibido un 10%.
+2036#DMG + 1322#CRIT + 472#HP + 1390#CRIT +362 #Cada golpe crítico tiene un 10% de probabilidad de invocar la Furia de Monchester, lo que aumenta el daño del próximo ataque en un 45% si el objetivo es un monstruo jefe.# El efecto dura hasta que un ataque llegue a tierra o hayan transcurrido 15 segundos.
+2037#SPD + 393#HP + 1621#DEF + 218#Max HP +1234 #Cada vez que te atacan hay un 6% de probabilidad de activar la Energía Abismal de Tarand, que restaura 296 HP por segundo durante 15 segundos.
+2038#CRIT + 437#SPD + 393#EVA + 678#SPD +362 #Efectos curativos + 15%
 2039#DMG + 1322#CRIT + 472#HP + 1390#DMG +705 #Cada ataque tiene un 4% de probabilidad de expresar el lamento de Caroline, que absorbe el 5% del daño infligido como HP durante 15 segundos
-2040#SPD + 393#HP + 1621#DEF + 218#DEF +270 #10% de probabilidad de usar las escamas de Talamund cuando es atacado, lo que disminuye el daño recibido de los jefes en 1928
+2040#SPD + 393#HP + 1621#DEF + 218#DEF +270 #10% de probabilidad de obtener Poder Drantino de Talmudan cuando atacas, lo que disminuye el daño recibido un 15%
 2041#DMG + 1476#CRIT + 528#HP + 1561#CRIT +197 y CRIT DMG + 5% #Cada ataque tiene un 3% de probabilidad de activar la Furia del Dragón, que inflige 2307 de daño a todos los enemigos en un radio de 5 metros
 2042#SPD + 440#HP + 1682#DEF + 245#Daño de habilidades de tormenta + 10% #20% de bonificación Daño a los objetivos de tormenta
 2043#CRIT + 490#SPD + 440#EVA + 757#Daño de habilidades Sagradas + 10% #20% de daño adicional a los objetivos Sagrados
@@ -48,47 +48,47 @@
 2047#DMG + 738#CRIT + 528#HP + 1561#Daño a las habilidades de la llama + 10% #20% de bonificación Daños a los objetivos de la llama
 2048#DMG + 1373#CRIT + 408#HP + 1446#DMG +726 #10% de probabilidad de activar el Espíritu de Titán al atacar, lo que supone 1815 DMG extra.
 2049#SPD + 408#HP + 1682#EVA + 605#DEF +278 #CRIT aumentado al equivalente de 3% de DEF.
-2050#CRIT + 378#HP + 1561#EVA + 704#EVA +559 #Mover SPD + 3%
+2050#CRIT + 378#HP + 1561#EVA + 704#EVA +559 #SPD movimiento + 3%
 2051#DMG + 1180#CRIT + 440#HP + 1561#CRIT +372 #CRIT DMG + 10%
-2052#SPD + 440#HP + 1446#EVA + 653#Max HP +1271 #6% de probabilidad de activar el rencor de Rifacimento al atacar, que recupera 254 HP por segundo durante 15 segundos.
-2053#CRIT + 408#SPD + 440#EVA + 605#SPD +372 #4% de probabilidad de activar Evil Gaze al atacar, lo que disminuye la DEF de un objetivo en 1331 y Mueve el SPD en un 20% durante 15 segundos.
+2052#SPD + 440#HP + 1446#EVA + 653#Max HP +1271 #6% de probabilidad de activar Bendicion Diabolica al atacar, que recupera 254 HP por segundo durante 15 segundos.
+2053#CRIT + 408#SPD + 440#EVA + 605#SPD +372 #4% de probabilidad de activar Destello Maligno al atacar, lo que disminuye la DEF de un objetivo en 1331 y aumenta la Vel. movimiento en un 20% durante 15 segundos.
 2054#DMG + 1757#CRIT + 526#HP + 1874#CRIT +477 #10% de probabilidad de activar la Llama de Titán al lanzar un ataque crítico, lo que aumenta el DMG de tu próximo ataque en un 35%. El efecto dura 15 segundos o hasta que aterriza un ataque.
-2055#SPD + 526#HP + 2152#EVA + 785#Max HP +1627 #Ser sanado activa el Alma de hierro de Awaydas, que aumenta DMG en 1162 y DEF en 387 durante 15 segundos.
+2055#SPD + 526#HP + 2152#EVA + 785#Max HP +1627 #Ser sanado activa Alma Ferre de Avidas, que aumenta DMG en 1162 y DEF en 387 durante 15 segundos.
 2056#CRIT + 490#HP + 2010#EVA + 901#SPD +477 #Potencia de curación + 15%
-2057#DMG + 1530#CRIT + 563#HP + 2010#DMG +930 Se agrega #3% de DEF a Max HP.
+2057#DMG + 1530#CRIT + 563#HP + 2010#DMG +930 #Se agrega 3% de DEF a Max HP.
 2058#SPD + 563#HP + 1874#EVA + 841#DEF +356 #10% de probabilidad de activar la Protección del veneno cuando es atacado, lo que reduce el DMG recibido en un 12%.
-2059#CRIT + 526#SPD + 563#EVA + 785#EVA +715 #4% de probabilidad de activar el poder de Gainey al atacar, lo que aumenta el CRIT en 477 y el CRIT DMG en un 20% durante 15 segundos.
+2059#CRIT + 526#SPD + 563#EVA + 785#EVA +715 #4% de probabilidad de activar Dominio de Gainey al atacar, lo que aumenta el CRIT en 477 y el CRIT DMG en un 20% durante 15 segundos.
 2060#DMG + 1641#CRIT + 588#HP + 1744#DMG +836 #DMG causado+ 3%
-2061#SPD + 490#HP + 2010#EVA + 730#HP +1463 #Cuando es atacado, el portador recibe ayuda de los magos arcanos de Von, recuperando un 1% de HP. Esto no puede ocurrir más de una vez cada 15 segundos.
+2061#SPD + 490#HP + 2010#EVA + 730#HP +1463 #Cuando es atacado, recibes el hechizo arcano de Lucius, recuperando un 1% de HP. Esto no puede ocurrir más de una vez cada 15 segundos.
 2062#CRIT + 548#HP + 1874#EVA + 841#EVA +643 #Cada ataque tiene un 4% de probabilidad de activar la Niebla oscura, lo que disminuye el PRE del objetivo en un 5% y distribuye 2090 DMG por segundo durante 15 segundos.
-2063#DMG + 1878#CRIT + 676#HP + 2010#DMG +1003 #DMG repartidos a monstruos Jefe + 6% #Daño infligido + 5%
-2064#SPD + 563#HP + 2301#EVA + 841#Max HP +1755 #DMG recibido de monstruos Jefe -6% #Cuando es atacado, el portador recibe ayuda de los magos arcanos de Von, recuperando un 3% de HP. Esto no puede ocurrir más de una vez cada 15 segundos.#
-2065#CRIT + 631#HP + 2152#EVA + 963#EVA +772 #CRIT Rate contra monstruos Jefe + 4% #Cada ataque tiene un 8% de probabilidad de activar Dark Smog, lo que disminuye el PRE del objetivo en un 8% y reparte 2508 DMG por segundo durante 15 segundos.
-2066#DMG + 2070#CRIT + 747#HP + 2226#DMG +1054 #DMG repartido + 3% #Cada ataque tiene un 20% de probabilidad de activar la Fuerza de los bonos, lo que aumenta el DMG en 342 durante 15 segundos. Este efecto se acumula hasta 10 veces.
-2067#SPD + 622#HP + 2536#EVA + 932#El HP máximo +1844 #DMG recibido -3% #DMG aumenta en una cantidad igual al 1% del HP del usuario
-2068#CRIT + 699#HP + 2378#EVA + 1062#EVA +811 #DMG recibido -3% #Cada ataque tiene un 4% de probabilidad de activar la Fragancia de Dream Brew, lo que reduce la DEF del objetivo en 1932 y el PRE en un 8% durante 15 segundos.
-2069#DMG + 1817#CRIT + 796#HP + 2378#CRIT +540 #DMG repartido + 3% #Cada ataque tiene un 4% de probabilidad de infligir 2634 de daño a los enemigos a menos de 5 metros del objetivo.
-2070#CRIT + 747#SPD + 664#EVA + 932#SPD +540 #DMG repartido + 3% #Cada ataque tiene un 4% de probabilidad de activar Chef's Pride, lo que aumenta todas las estadísticas en 946 durante 15 segundos.
-2071#SPD + 664#HP + 2226#EVA + 995#HP se incrementa en 1844 #DMG recibido -3%. #Incrementa HP en un número igual al 3% de DMG
-2072#CRIT + 699#HP + 2378#EVA + 1062#EVA +811 #DMG recibió -3%. #Tus ataques tienen un 4% de probabilidad de activar el efecto Luz afilada, lo que aumenta CRIT en 1029 y CRIT DMG en 20% durante 15 s.
+2063#DMG + 1878#CRIT + 676#HP + 2010#DMG +1003 #DMG s a monstruos Jefe + 6% #Daño infligido + 5%
+2064#SPD + 563#HP + 2301#EVA + 841#Max HP +1755 #DMG recibido de monstruos Jefe -6% #Cuando es atacado, recibes el hechizo arcano de Lucius, recuperando un 3% de HP. Esto no puede ocurrir más de una vez cada 15 segundos.
+2065#CRIT + 631#HP + 2152#EVA + 963#EVA +772 #CRIT Rate contra monstruos Jefe + 4% #Cada ataque tiene un 8% de probabilidad de activar Polucion Oscura, lo que disminuye el PRE del objetivo en un 8% y reparte 2508 DMG por segundo durante 15 segundos.
+2066#DMG + 2070#CRIT + 747#HP + 2226#DMG +1054 #DMG  + 3% #Cada ataque tiene un 20% de probabilidad de activar la Poder Vinculado, lo que aumenta el DMG en 342 durante 15 segundos. Este efecto se acumula hasta 10 veces.
+2067#SPD + 622#HP + 2536#EVA + 932#El HP máximo +1844 #DMG recibido -3% #DMG aumenta en 1% del HP.
+2068#CRIT + 699#HP + 2378#EVA + 1062#EVA +811 #DMG recibido -3% #Cada ataque tiene un 4% de probabilidad de activar la Fragancia de Brebaje de Ensoñiacion, lo que reduce la DEF del objetivo en 1932 y el PRE en un 8% durante 15 segundos.
+2069#DMG + 1817#CRIT + 796#HP + 2378#CRIT +540 #DMG  + 3% #Cada ataque tiene un 4% de probabilidad de infligir 2634 de daño a los enemigos a menos de 5 metros del objetivo.
+2070#CRIT + 747#SPD + 664#EVA + 932#SPD +540 #DMG  + 3% #Cada ataque tiene un 4% de probabilidad de activar Orgullo Culinario, lo que aumenta todas las estadísticas en 946 durante 15 segundos.
+2071#SPD + 664#HP + 2226#EVA + 995#HP se incrementa en 1844 #DMG recibido -3%. #Incrementa HP en un 3% del DMG
+2072#CRIT + 699#HP + 2378#EVA + 1062#EVA +811 #DMG recibió -3%. #Tus ataques tienen un 4% de probabilidad de activar el efecto Luz Diente Afilado, lo que aumenta CRIT en 1029 y CRIT DMG en 20% durante 15 s.
 2073#CRIT + 747#SPD + 664#EVA + 932#El SPD aumenta en 540 #DMG. 3% #Tus ataques tienen un 4% de probabilidad de activar el efecto Lluvia de meteoros, lo que reduce la DEF del objetivo en 1932 y Mueve el SPD en un 20% durante 15 s.
-2074#DMG + 2070#CRIT + 747#HP + 2226#DMG aumentado en 1054 #DMG 3% #Tus ataques tienen un 10% de probabilidad de afectar la germinación de los brotes, lo que inflige 5015 p. De daño adicionales al objetivo.
+2074#DMG + 2070#CRIT + 747#HP + 2226#DMG aumentado en 1054 #DMG 3% #Tus ataques tienen un 10% de probabilidad de activar Germinado de Brotes, lo que inflige 5015 de daño adicionales al objetivo.
 2075#DMG + 2275#CRIT + 822#SPD + 643#DMG +809 #DMG + 2%
 2076#SPD + 544#HP + 2787#EVA + 1096#DEF +539 #DMG recibido de monstruos Jefe y Elite Monsters -5%.
 2077#SPD + 729#HP + 2618#EVA + 1028#SPD +830 #DMG a monstruos Jefe + 3%
 2078#DMG + 2137#CRIT + 875#SPD + 643#CRIT +415 #CRIT DMG a monstruos Jefe y Elite Monsters + 5%
-2079#DMG + 2803#CRIT + 1017#SPD + 799#DMG +1185 #DMG 3% #Tus ataques tienen un 5% de probabilidad de activar Dark Illusion, lo que inflige 2964 DPS al objetivo durante 15 s.
+2079#DMG + 2803#CRIT + 1017#SPD + 799#DMG +1185 #DMG 3% #Tus ataques tienen un 5% de probabilidad de activar Imagen Virtual, lo que inflige 2964 DPS al objetivo durante 15 s.
 2080#SPD + 643#HP + 3433#EVA + 1356#DEF +634 #DMG recibido de monstruos Jefe y Elite Monsters 8%. #Obtienes una Pluma Eterna cuando te atacan, recuperando HP en un 5%. Este efecto se puede activar una vez cada 15 segundos.
-2081#SPD + 898#HP + 3239#EVA + 1278#SPD +976 #DMG a monstruos Jefe + 7% #Tus ataques tienen un 8% de probabilidad de obtener Time Travel, lo que aumenta todas las estadísticas en un + 3%, se acumula hasta 3 veces y dura 12 s.
-2082#DMG + 2644#CRIT + 1078#SPD + 799#CRIT +976 #CRIT DMG a monstruos Jefe y Elite Monsters + 8% #Tus ataques críticos tienen un 12% de probabilidad de activar Limit Break, infligiendo 2634 de daño a los enemigos a 5 metros del área objetivo.
-2083#SPD + 685#HP + 3634#EVA + 1437#DEF + 8% #DMG recibido -5%. #Cuando te atacan, tienes un 8% de probabilidad de activar sanguijuela sanguínea, lo que reduce el daño recibido en un -25% durante 12 s.
-2084#CRIT + 1017#HP + 3433#EVA + 1356#SPD + 8% #DMG 3% #Tus ataques tienen un 12% de probabilidad de activar Storm Lament, lo que aumenta el CRIT DMG en un 30% durante 12 s.
-2085#SPD + 685#HP + 3634#EVA + 1437#HP +2075 #Incrementa el EVA en un número igual al 5% de la #Potencia de curación DMG + 20%
+2081#SPD + 898#HP + 3239#EVA + 1278#SPD +976 #DMG a monstruos Jefe + 7% #Tus ataques tienen un 8% de probabilidad de obtener Viaje en el Tiempo, lo que aumenta todas las estadísticas en un + 3%, se acumula hasta 3 veces y dura 12 s.
+2082#DMG + 2644#CRIT + 1078#SPD + 799#CRIT +976 #CRIT DMG a monstruos Jefe y Elite Monsters + 8% #Tus ataques críticos tienen un 12% de probabilidad de activar Ruptura Limite, infligiendo 2634 de daño a los enemigos a 5 metros del área objetivo.
+2083#SPD + 685#HP + 3634#EVA + 1437#DEF + 8% #DMG recibido -5%. #Cuando te atacan, tienes un 8% de probabilidad de activar Sangre Revertida, lo que reduce el daño recibido en un -25% durante 12 s.
+2084#CRIT + 1017#HP + 3433#EVA + 1356#SPD + 8% #DMG 3% #Tus ataques tienen un 12% de probabilidad de activar Lamento de Tormenta, lo que aumenta el CRIT DMG en un 30% durante 12 s.
+2085#SPD + 685#HP + 3634#EVA + 1437#HP +2075 #Incrementa el EVA en un 5% del DMG#Potencia de curación + 20%
 2086#SPD + 685#HP + 3634#EVA + 1437#HP +2075 #DMG tomada -5%. #Tus ataques tienen un 8% de probabilidad de activar "Hostilidad extrema", lo que desencadena la generación de Malicia + 30% durante 15 s.
 2087#CRIT + 1017#HP + 3433#EVA + 1356#SPD +1019 #DMG tomada -5%. #Tus ataques tienen un 8% de probabilidad de activar "Control absoluto", lo que activa EVA +1359 y PRE + 8% durante 15 s.
-2088#DMG + 2803#CRIT + 1141#HP + 848#CRIT +1359 #DMG + 5% #Tus ataques tienen un 20% de probabilidad de activar "Thunder Spike", lo que activa CRIT +510 durante 15 s. Se puede apilar hasta 5 veces.
-2089#CRIT + 1017#HP + 3433#EVA + 1356#EVA +1019 #DMG + 3% #Tus ataques tienen un 6% de probabilidad de activar "Molten Core", lo que activa todas las estadísticas +1189 durante 15 s.
-2090#SPD + 685#HP + 3634#EVA + 1437#DEF +662 #DMG tomada -5%. #Cuando es atacado, la Bendición de Warbringer se activa, recuperando HP en un 6%. Este efecto se puede activar una vez cada 12 segundos.
+2088#DMG + 2803#CRIT + 1141#HP + 848#CRIT +1359 #DMG + 5% #Tus ataques tienen un 20% de probabilidad de activar Pua Tronadora, lo que activa CRIT +510 durante 15 s. Se puede apilar hasta 5 veces.
+2089#CRIT + 1017#HP + 3433#EVA + 1356#EVA +1019 #DMG + 3% #Tus ataques tienen un 6% de probabilidad de activar Nucleo Fundido, lo que activa todas las estadísticas +1189 durante 15 s.
+2090#SPD + 685#HP + 3634#EVA + 1437#DEF +662 #DMG tomada -5%. #Cuando es atacado, recibes la Bendicion Guerrera, recuperando HP en un 6%. Este efecto se puede activar una vez cada 12 segundos.
 2091#CRIT + 1017#HP + 3433#EVA + 1356#SPD +1019 #DMG + 3% #Tus ataques tienen un 4% de probabilidad de activar "Espinas de hielo", lo que inflige DEF -2428 y Mueve SPD -20% al objetivo durante 15 s.
 2092#DMG + 3051#CRIT + 1109#SPD + 924#DMG +1185 #DMG + 3% a Elite Monsters
 2093#SPD + 707#HP + 3738#EVA + 1479#DEF +790 #DMG recibido de monstruos Jefe y Elite Monsters -8%.
@@ -96,37 +96,37 @@
 2095#DMG + 3051#CRIT + 1174#SPD + 873#CRIT +868 #CRIT DMG a monstruos Jefe y Elite Monsters + 8%
 2096#DMG + 3687#CRIT + 1345#SPD + 1062#DMG +1369 #DMG + 5% #Tus ataques tienen un 8% de probabilidad de activar Radiación demoníaca, lo que inflige 3681 DPS al objetivo durante 15 s.
 2097#SPD + 873#HP + 4516#EVA + 1793#DEF +913 #DMG recibido de Elites -12% #Los ataques enemigos tienen una probabilidad de activar el Corazón de Hierro, lo que aumenta todos los efectos de sanación en un 10% durante 10 s. Este efecto no puede ocurrir más de una vez cada 15 s.
-2098#SPD + 1182#HP + 4284#EVA + 1699#SPD +1404 #DMG + 5% a los monstruos jefes #Tus ataques tienen un 6% de probabilidad de activar Viento enredante, lo que reduce la DEF del objetivo en 2608 y Mueve el SPD en un 25% durante 12 s.
+2098#SPD + 1182#HP + 4284#EVA + 1699#SPD +1404 #DMG + 5% a los monstruos jefes #Tus ataques tienen un 6% de probabilidad de activar Viento Entorpecedor, lo que reduce la DEF del objetivo en 2608 y su Vel. de movimiento en un 25% durante 12 s.
 2099#DMG + 3497#CRIT + 1418#SPD + 1062#CRIT +1103 #CRIT DMG a monstruos Jefe and Elites + 15% #Tus golpes críticos tienen un 15% de probabilidad de activar la Noche Eterna, lo que aumenta tu DMG en 1956 y CRIT DMG en un 12% durante 12 s.
-2100#SPD + 924#HP + 4757#EVA + 1891#DEF +814 #DMG recibido -8% #Los ataques enemigos tienen un 10% de probabilidad de activar la Barrera antigua, lo que reduce tu DMG recibida un 15% durante 12 s.
+2100#SPD + 924#HP + 4757#EVA + 1891#DEF +814 #DMG recibido -8% #Los ataques enemigos tienen un 10% de probabilidad de activar la Barrera Arcaica, lo que reduce tu DMG recibida un 15% durante 12 s.
 2101#SPD + 1245#HP + 4516#EVA + 1793#SPD +1252 #DMG tomada -5%. #Tus habilidades tienen un 50% de probabilidad de activar la Oración del Demonlord, aumentando tu SPD en 417 y todos los efectos de sanación en 114 durante 12 segundos, apilando hasta 5 veces.
 2102#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +1670 #DMG + 5% #Tus ataques tienen un 20% de probabilidad de activar la Prueba de General, lo que aumenta el CRIT en 626, CRIT DMG en un 3% durante 12 segundos, apilando hasta 5 veces.
 2103#SPD + 1245#HP + 4516#EVA + 1793#SPD +1252 #DMG + 3% #Tus ataques tienen un 8% de probabilidad de activar una Llama abrasadora, lo que reduce el DEF del objetivo en 2713, el EVA en 2087 durante 15 s.
-2104#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +1461 #CRIT DMG + 25% #Tus ataques tienen un 4% de probabilidad de disparar Rayo zelote, lo que provoca que infliges un 3% más de daño a los objetivos de cualquier atributo durante 10 segundos, apilando hasta 3 veces.
-2105#DMG + 3883#CRIT + 1418#SPD + 1121#DMG +2035 #DMG + 5% #Tus golpes críticos tienen un 10% de probabilidad de activar Luz enfocada, lo que aumenta el DMG de tu próximo ataque en un 35%. Efectivo durante 15 segundos.
-2106#SPD + 924#HP + 4757#EVA + 1891#Habilidades de tormenta DAÑO + 20% #DAÑO Trato a Tormenta Atributos objetivos + 30%
-2107#SPD + 1245#HP + 4516#EVA + 1793#Habilidades sagradas DAÑO + 20% #DAÑO Dada a Luz Sagrada Atributos objetivos + 30%
-2108#DMG + 3883#CRIT + 1418#SPD + 1121#Habilidades Oscuras DAÑO + 20% #DAÑO Dañado a los objetivos Atributo Oscuro + 30%
-2109#SPD + 924#HP + 4757#EVA + 1891#Habilidades de Rayo DMG + 20% #DAÑO Dada a Rayo Atributos objetivos + 30%
-2110#SPD + 1245#HP + 4516#EVA + 1793#Hielo habilidades DAÑO + 20% #DAÑO Dada a Hielo Atributos objetivos + 30%
-2111#DMG + 3883#CRIT + 1418#SPD + 1121#Habilidades de fuego DAÑO + 20% #DAÑO Reparto a Llama Atributo objetivos + 30%
-2112#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +2088 #CRIT DMG + 25% #Cada ataque CRIT tiene un 10% de probabilidad de infligir Golpe paralizante, que inflige 2442 DPS durante 6 segundos. Se acumula hasta 5 veces y dura hasta 10 segundos.
-2113#SPD + 1245#HP + 4516#EVA + 1793#SPD +4174 DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Bombardeo de Ventisca, lo que aumenta el SPD de ATQ en un 20% y la probabilidad de doble ataque en un 10% durante 12 segundos.
-2114#SPD + 924#HP + 4757#EVA + 1891#EVA +1044 DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Guardia, aumentando la DEF de todo el grupo en 271 y HP en +285 durante 15 segundos. Se acumula hasta 5 veces.
-2115#DMG + 3883#CRIT + 1418#SPD + 1121#DAÑO +2848 DAÑO #+ 5% #Tus ataques tienen un 12% de probabilidad de activar Fatiga, disminuyendo la DEF en 652 durante 15 segundos. Se acumula hasta 5 veces.
+2104#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +1461 #CRIT DMG + 25% #Tus ataques tienen un 4% de probabilidad de activar Fanatico Relampagueante, lo que provoca que infliges un 3% más de daño a los objetivos de cualquier atributo durante 10 segundos, apilando hasta 3 veces.
+2105#DMG + 3883#CRIT + 1418#SPD + 1121#DMG +2035 #DMG + 5% #Tus golpes críticos tienen un 10% de probabilidad de aumentar el DMG de tu próximo ataque en un 35%. Efectivo durante 15 segundos.
+2106#SPD + 924#HP + 4757#EVA + 1891#Habilidades de tormenta DAÑO + 20% #DAÑOa objetivos atributo tormenta + 30%
+2107#SPD + 1245#HP + 4516#EVA + 1793#Habilidades sagradas DAÑO + 20% #DAÑO a objetivos atributo Luz + 30%
+2108#DMG + 3883#CRIT + 1418#SPD + 1121#Habilidades Oscuras DAÑO + 20% #DAÑO a objetivos atributo Oscuro + 30%
+2109#SPD + 924#HP + 4757#EVA + 1891#Habilidades de Rayo DMG + 20% #DAÑO a objetivos atributo Rayo + 30%
+2110#SPD + 1245#HP + 4516#EVA + 1793#Hielo habilidades DAÑO + 20% #DAÑO a objetivos atributo Hielo + 30%
+2111#DMG + 3883#CRIT + 1418#SPD + 1121#DAÑO de habilidades de fuego + 20% #DAÑO a objetivos atributo Fuego + 30%
+2112#DMG + 3687#CRIT + 1493#SPD + 1121#CRIT +2088 #CRIT DMG + 25% #Cada ataque CRIT tiene un 10% de probabilidad de infligir Debilidad Devastadora, que inflige 2442 DPS durante 6 segundos. Se acumula hasta 5 veces y dura hasta 10 segundos.
+2113#SPD + 1245#HP + 4516#EVA + 1793#SPD +4174 DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Poder Helado, lo que aumenta el SPD de ATQ en un 20% y la probabilidad de doble ataque en un 10% durante 12 segundos.
+2114#SPD + 924#HP + 4757#EVA + 1891#EVA +1044#DAÑO recibido #-5% #Tus ataques tienen un 20% de probabilidad de activar Guardia, aumentando la DEF de todo el grupo en 271 y HP en +285 durante 15 segundos. Se acumula hasta 5 veces.
+2115#DMG + 3883#CRIT + 1418#SPD + 1121#DAÑO +2848#DAÑO + 5% #Tus ataques tienen un 12% de probabilidad de activar Fatiga, disminuyendo la DEF en 652 durante 15 segundos. Se acumula hasta 5 veces.
 2116#SPD + 924#HP + 4757#EVA + 1891#HP +2279 #CRIT DMG -30% #50% de activación del estado Fanático cada vez que se recibe CRIT DMG, disminuyendo el siguiente DMG tomado en un 40% durante 10 segundos.
-2117#DMG + 3687#CRIT + 1493#SPD + 1121#HP +2075 #CRIT Rate + 5% #12% de probabilidad de activar Respiración hipotérmica con cada CRIT Attackm aumentando el DAÑO en 819 y HP en +570 durante 15 segundos. Se acumula hasta 3 veces.
-2118#SPD + 898#HP + 6341#EVA + 1943#HP +2853 #DMG recibido -8% Obtienes un hechizo #antiguo cuando eres atacado, recuperando HP en un 8%. Este efecto se puede activar una vez cada 12 segundos.
+2117#DMG + 3687#CRIT + 1493#SPD + 1121#HP +2075 #CRIT Rate + 5% #12% de probabilidad de activar Aliento Helado Devastador con tus ataques criticos, aumentando el DAÑO en 819 y HP en +570 durante 15 segundos. Se acumula hasta 3 veces.
+2118#SPD + 898#HP + 6341#EVA + 1943#HP +2853 #DMG recibido -8%#Obtienes un hechizo antiguo cuando eres atacado, recuperando HP en un 8%. Este efecto se puede activar una vez cada 12 segundos.
 2119#SPD + 1274#HP + 6046#EVA + 1714#SPD +1528 #CRIT DMG + 25% #Tus ataques tienen un 4% de probabilidad de activar Boogeyman y activar DEF -2874 del objetivo y Move SPD -20%. Dura 10 segundos
 2120#DMG + 4664#CRIT + 1529#SPD + 1071#CRIT +2293 #CRIT Rate + 8% #Tus ataques tienen un 6% de probabilidad de activar Warrior's Faith y activar todas las estadísticas +1516 durante 15 segundos.
-2121#DMG + 4892#CRIT + 1458#SPD + 1071#DAÑO +3179 #Detalle- DAÑO + 5% #Tus ataques tienen un 10% de probabilidad de disparar Llamas del Purgatorio en un radio de 5 metros desde un objetivo específico, con 3031 DAÑO. Se acumula hasta 3 veces, dura 15 segundos.
+2121#DMG + 4892#CRIT + 1458#SPD + 1071#DAÑO +3179 #DAÑO + 5% #Tus ataques tienen un 10% de probabilidad de disparar Llamas del Purgatorio en un radio de 5 metros desde un objetivo específico, con 3031 DAÑO. Se acumula hasta 3 veces, dura 15 segundos.
 2122#DMG + 4664#CRIT + 1529#SPD + 1071#CRIT +2140 #CRIT DMG + 25% #Tus golpes CRIT tienen un 10% de probabilidad de activar Thunder Force, DMG subsiguiente + 50%. Dura 15 segundos.
-2123#SPD + 898#HP + 6341#EVA + 1943#DEF +1223 DAÑO #recibido -8% #Los ataques enemigos tienen un 9% de probabilidad de activar Trance demoníaco, disminuyendo el DAÑO recibido de todos los miembros del grupo en un 15% dentro de un radio de 8 metros y restaurando continuamente 6% HP. Dura 5 segundos El enfriamiento de la habilidad es de 10 segundos.#
+2123#SPD + 898#HP + 6341#EVA + 1943#DEF +1223 DAÑO #recibido -8% #Los ataques enemigos tienen un 9% de probabilidad de activar Trance demoníaco, disminuyendo el DAÑO recibido de todos los miembros del grupo en un 15% dentro de un radio de 8 metros y restaurando continuamente 6% HP. Dura 5 segundos El enfriamiento de la habilidad es de 10 segundos.
 2124#DMG + 3725#CRIT + 1106#SPD + 875#DMG +1490#DMG +3% to Elite Monsters
 2125#SPD + 978#HP + 4829#EVA + 1475#DEF +1074%#Received DMG from monstruos Jefe and Elite Monsters -8%.
 2126#SPD + 970#HP + 4589#EVA + 1364#SPD +1455#DMG +3% to monstruos Jefe
 2127#DMG + 3540#CRIT + 1164#SPD + 875#CRIT +1164#CRIT DMG to monstruos Jefe and Elite Monsters +8%
 2128#DMG + 4777#CRIT + 1423#SPD + 1046#DMG +1910#CRIT DMG +25% on monstruos Jefe#Your attacks have an 8% chance to trigger Death Praise, inflicting 3990 DPS to the target for 10 secs.
-2129#SPD + 875#HP + 6193#EVA + 1673#DEF +1378 #DMG recibido de monstruos Jefe y Elite Monsters -8%. #La curaci�n desencadena el eco nocturno fr�gil, SPD +2121 y DEF +1940. Dura 15 segundos.
-2130#SPD + 1244#HP + 5902#EVA + 1673#SPD +1866 DA�O #+ 5% a monstruos Jefe #Tus ataques tienen un 7% de probabilidad de obtener Bloodthirsty Nature, convirtiendo el 10% del DA�O infligido por los ataques normales para restaurar HP. Tiene una duraci�n de 20 segundos.
-2131#DMG + 4553#CRIT + 1493#SPD + 1046#CRIT +1493 #CRIT DMG a monstruos Jefe y �lites + 15% #Tus ataques CRIT tienen un 15% de probabilidad de activar Toque de Escarcha y activar el DEF -876 del objetivo. Se acumula hasta 5 veces, dura 15 segundos.
+2129#SPD + 875#HP + 6193#EVA + 1673#DEF +1378 #DMG recibido de monstruos Jefe y Elite Monsters -8%. #La curacion desencadena el eco nocturno fragil, SPD +2121 y DEF +1940. Dura 15 segundos.
+2130#SPD + 1244#HP + 5902#EVA + 1673#SPD +1866 DAÑO #+ 5% a monstruos Jefe #Tus ataques tienen un 7% de probabilidad de obtener Bloodthirsty Nature, convirtiendo el 10% del DAÑO infligido por los ataques normales para restaurar HP. Tiene una duracion de 20 segundos.
+2131#DMG + 4553#CRIT + 1493#SPD + 1046#CRIT +1493 #CRIT DMG a monstruos Jefe y elites + 15% #Tus ataques CRIT tienen un 15% de probabilidad de activar Toque de Escarcha y activar el DEF -876 del objetivo. Se acumula hasta 5 veces, dura 15 segundos.

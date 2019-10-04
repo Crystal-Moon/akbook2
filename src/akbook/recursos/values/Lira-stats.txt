@@ -23,7 +23,7 @@
 1522#DMG + 15042#CRIT + 530#SPD + 513#HP + 1821#Mueve SPD + 5% #5% de probabilidad de activar Melodia del Dios Igneo al usar una habilidad, lo que aumenta el SPD en 559 y la Potencia de curación en 545 durante 15 segundos.
 1523#DMG + 15042#CRIT + 572#SPD + 441#HP + 1962#Máx. De HP + 5% #5% de probabilidad de activar Luz Brumosa al usar habilidades, que es de 660 HP por segundo para todos los miembros del grupo dentro de los 10 metros durante 15 segundos.
 1524#DMG + 17517#CRIT + 639#SPD + 614#HP + 2186
-1525#DMG + 21347#CRIT + 815#SPD + 774#HP + 2774#DMG recibido de monstruos Jefe y Elite Monsters -5% #DMG repartido a monstruos Jefe + 10%
+1525#DMG + 21347#CRIT + 815#SPD + 774#HP + 2774#DMG recibido de monstruos Jefe y Elite Monsters -5% #DMG  a monstruos Jefe + 10%
 1526#DMG + 22521#CRIT + 929#SPD + 726#HP + 3152#DMG + 6% por Lira#curacion de Coro Sanador aumenta + 10%
 1527#DMG + 21347#CRIT + 815#SPD + 774#HP + 2774#HP + 8% #PRE + 10% #DMG recibido de los jugadores oponentes se reduce en un 15%. El #daño causado a los jugadores oponentes aumenta un 30%
 1528#DMG + 22521#CRIT + 871#SPD + 825#HP + 2959#Máx. HP + 3%. #El daño de arma de arpa aumenta un 3%. El #nivel de habilidad de "Balada" aumenta un 5.
@@ -39,4 +39,4 @@
 1538#DMG + 36318#CRIT + 1569#SPD + 1452#HP + 5269#DMG por arpa + 10% #Nivel de habilidad de arpa +3 #Al lanzar Electro Funk, los objetivos reciben el efecto Siren Swirl. DMG de Melodia Tormenta, Melodia Divina y Electro Funk + 20%, dura 6 segundos #PEN + 12%
 1539#DMG + 34563#CRIT + 1225#SPD + 1132#HP + 5354
 1540#DMG + 39139#CRIT + 1428#SPD + 1417#HP + 6223#DMG recibido de monstruos Jefe y Elite Monsters -8% #DMG contra Jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
-1541#DMG + 39139#CRIT + 1428#SPD + 1417#HP + 6223#HP máx. + 15% #PRE + 25% #DAÑO recibido de jugadores enemigos -25% #DAÑO repartido a jugadores enemigos + 40%
+1541#DMG + 39139#CRIT + 1428#SPD + 1417#HP + 6223#HP máx. + 15% #PRE + 25% #DAÑO recibido de jugadores enemigos -25% #DAÑO  a jugadores enemigos + 40%

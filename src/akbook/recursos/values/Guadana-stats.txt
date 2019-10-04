@@ -23,7 +23,7 @@
 2622#DMG + 20458#CRIT + 572#SPD + 441#HP + 1962#Max HP + 5% #5% de probabilidad de activar Bendicion de Pelamis cuando atacas, lo que aumenta el CRIT en 1117 durante 15 segundos.
 2623#DMG + 20458#CRIT + 572#SPD + 513#HP + 1962#SPD + 5% #5% de probabilidad de activar la Fragancia de la Flor cuando ataca, lo que aumenta el SPD en 1117 durante 15 segundos.
 2624#DMG + 23823#CRIT + 686#SPD + 532#HP + 2345
-2625##CRIT + 871#SPD + 679#HP + 2959#CRIT DMG contra monstruos Jefe + 25% #DMG repartido a monstruos Jefe + 10%
+2625##CRIT + 871#SPD + 679#HP + 2959#CRIT DMG contra monstruos Jefe + 25% #DMG  a monstruos Jefe + 10%
 2626#DMG + 30629#CRIT + 929#SPD + 825#HP + 2774#DMG +6 equipado con Guadaña#nivel de habilidad "murciélagos del purgatorio" +5
 2627#DMG + 30629#CRIT + 929#SPD + 726#HP + 3152#HP + 3%#DMG por Guadaña +3%#DMG por Muerte en Vida +15%
 2628#DMG + 29032#CRIT + 871#SPD + 679#HP + 2959#HP + 8% #PRE + 10% #CRIT La tasa contra jugadores se incrementa en un 15%. El #daño infligido a jugadores aumenta un 30%
@@ -35,8 +35,8 @@
 2634#DMG + 35718#CRIT + 1118#SPD + 877#HP + 3779
 2635#DMG + 40308#CRIT + 1294#SPD + 1018#HP + 4361
 2636#DMG + 47281#CRIT + 1569#SPD + 1239#HP + 5269#CRIT DMG en monstruos Jefe + 30% #DMG contra monstruos Jefe + 10% #Nivel de habilidad con armas +2 #PEN + 12%
-2637#DMG + 47281#CRIT + 1569#SPD + 1239#HP + 5269#HP + 12% #PRE+ 20% #Tasa CRIT contra jugadores + 25% #DMG repartido contra jugadores + 40%
+2637#DMG + 47281#CRIT + 1569#SPD + 1239#HP + 5269#HP + 12% #PRE+ 20% #Tasa CRIT contra jugadores + 25% #DMG  contra jugadores + 40%
 2638#DMG + 49393#CRIT + 1654#SPD + 1308#HP + 5550#Daño de guadaña + 10% de #Nivel de habilidad de guadaña +3 #Al lanzar Pacto Demoniaco, recibe el estado Espectro del alma de la oscuridad. Reduzca el DAÑO recibido en un -10% y aumente el DAÑO de la habilidad Hielo, Oscuro y Llama en un + 10%. Duran 20 segundos #PEN + 12%
 2639#DMG + 47005#CRIT + 1291#SPD + 1021#HP + 5634
 2640#DMG + 53230#CRIT + 1500#SPD + 1190#HP + 7054#Tasa de CRIT + 20% contra jefes #DMG contra jefes + 10% #Nivel de habilidad de arma +2 #PEN + 15%
-2641#DMG + 53230#CRIT + 1500#SPD + 1190#HP + 7054#HP máximo + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%
+2641#DMG + 53230#CRIT + 1500#SPD + 1190#HP + 7054#HP máximo + 15% #PRE + 25% #Tasa de CRIT contra jugadores enemigos + 30% #DAÑO  a jugadores enemigos + 40%

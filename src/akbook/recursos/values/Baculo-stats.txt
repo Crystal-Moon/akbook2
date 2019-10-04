@@ -23,7 +23,7 @@
 2222#DMG +21059#CRIT +616#SPD +441#EVA +762#CRIT +3%#5% de probabilidad de activar Pescador Solar cuando atacas, lo que aumenta el DMG en 3630 durante 15 segundos.
 2223#DMG +21059#CRIT +530#SPD +513#EVA +762#SPD +5%#5% de probabilidad de activar Poder de Cañon cuando atacas, lo que reparte 2269 DPS continuos durante 15 segundos.
 2224#DMG +24524#CRIT +736#SPD +532#EVA +915
-2225#DMG +29886#CRIT +929#SPD +679#EVA +1161#CRIT DMG contra monstruos Jefe +25%#DMG repartido a monstruos Jefe +10%
+2225#DMG +29886#CRIT +929#SPD +679#EVA +1161#CRIT DMG contra monstruos Jefe +25%#DMG  a monstruos Jefe +10%
 2226#DMG +31530#CRIT +871#SPD +825#EVA +1239#DMG +6% equipando baculo#Bomba Ignea DMG + 15%
 2227#DMG +29886#CRIT +929#SPD +679#EVA +1161#CRIT +6%#PRE +10%#Daño crítico + 30% contra jugadores#Daño +30% contra jugadores
 2228#DMG +31530#CRIT +990#SPD +726#EVA +1239#Máx. HP +3%#Daño con baculo +3%#La tasa de CRIT de "Meteorito en Llamas" aumenta un 5%.
@@ -37,5 +37,5 @@
 2236#DMG +48671#CRIT +1654#SPD +1239#EVA +2092#CRIT DMG en monstruos Jefe + 30%#DMG contra monstruos jefe + 10%#Nivel de habilidad con armas +2#Penetracion + 12%
 2237#DMG + 50845#CRIT + 1742#SPD + 1308#EVA + 2206#Daño con baculo aumentó en un 10%. #Nivel de habilidad de baculo +3 #Al lanzar Rafaga Elemental, recibe el estado Rugido elemental. DAÑO y DAÑO recibido en un 10%, dura 5 segundos #PEN + 12%
 2238#DMG + 48388#CRIT + 1358#SPD + 1021#EVA + 1721
-2239#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRITER DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
+2239#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRIT DAÑO a monstruos Jefe + 30% #DAÑO contra Jefes + 10% #Nivel de Habilidad Arma +2 #PEN + 15%
 2240#DMG + 54795#CRIT + 1701#SPD + 1190#EVA + 2000#CRIT + 15% #PRE + 25% #CRIT DMG contra jugadores enemigos + 50% #DMG Reparto a jugadores enemigos + 40%

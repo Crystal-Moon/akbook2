@@ -35,8 +35,8 @@
 2534#DMG + 38520#CRIT + 1187#HP + 3353#EVA + 1491
 2535#DMG + 43469#CRIT + 1369#HP + 3891#EVA + 1725
 2536#DMG + 50989#CRIT + 1654#HP + 4736#EVA + 2092#CRIT DMG en Jefes + 30% #DMG contra Jefes + 10% #Nivel de habilidad con armas +2 #PEN + 12%
-2537#DMG + 50989#CRIT + 1654#HP + 4736#EVA + 2092#CRIT + 12%. #PRE + 20% #TASA DE CRITO contra jugadores + 25% #DMG repartido entre jugadores + 40%
+2537#DMG + 50989#CRIT + 1654#HP + 4736#EVA + 2092#CRIT + 12%. #PRE + 20% #TASA DE CRIT contra jugadores + 25% #DMG  entre jugadores + 40%
 2538#DMG + 53267#CRIT + 1742#HP + 4998#EVA + 2206#DMG de arma de Tachi + 10% #Nivel de habilidad de Tachi +3 #Mientras lanzas Iaido, recibe el estado de Sharp Edge Slice, aumenta el DMG de Black Swallow y Brilliant Dragon Flash en un 15%, dura 5 segundos #PEN + 12%
 2539#DMG + 50692#CRIT + 1358#HP + 5083#EVA + 1721
 2540#DMG + 57405#CRIT + 1701#HP + 5923#EVA + 2000#CRIT DMG en Jefes + 30% #DMG contra Jefes + 10% #Nivel de habilidad con arma +2 #PEN + 15%
-2541#DMG + 57405#CRIT + 1701#HP + 5923#EVA + 2000#CRIT + 15% #PRE + 25% #CRIT Rate contra jugadores enemigos + 30% #DAÑO repartido a jugadores enemigos + 40%
+2541#DMG + 57405#CRIT + 1701#HP + 5923#EVA + 2000#CRIT + 15% #PRE + 25% #CRIT Rate contra jugadores enemigos + 30% #DAÑO  a jugadores enemigos + 40%
