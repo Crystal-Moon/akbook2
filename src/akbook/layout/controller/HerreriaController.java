@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package akbook.layout.controller;
 
 import akbook.entidades.base.CtrlPrincipal;
@@ -12,7 +8,6 @@ import akbook.entidades.complementarias.app.Ruta;
 import akbook.entidades.complementarias.game.Origen;
 import akbook.entidades.complementarias.app.Value;
 import akbook.entidades.complementarias.game.Calidad;
-import static akbook.entidades.complementarias.game.Calidad.orange;
 import akbook.entidades.refinacion.Equipamiento;
 import akbook.entidades.refinacion.Mineral;
 import akbook.entidades.refinacion.Nucleo;
@@ -23,7 +18,6 @@ import java.net.URL;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-import java.util.StringJoiner;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -211,18 +205,8 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
      */
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        // TODO
-     /*   
-        tabEnt1.setDisable(true);
-        tabEnt2.setDisable(true);
-        tabEnt3.setDisable(true);       //toda esta parte ya esta eb clearDer()
-        tabEnt4.setDisable(true);
-        lblBooleanComerciante.setVisible(false);
-        
-      */
         clearAll();
         cargarItem(equipo0, 0);
-        
     }
 
     @FXML
@@ -242,12 +226,6 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
                 cargarIconosSet();
                                 
                 Value statSetCompleto=Value.buscarStat("stats-sets.txt", idSet);
-               // StringJoiner statSet =new StringJoiner("");
-               /* for (String atributo : statSetCompleto.atributo) {
-                //statSet = statSet + "\n" + atributo;
-                statSet.add(atributo+"\n");
-                }  */ 
-               // lblSetCompleto.setText(statSet.toString());
                 lblSetCompleto.setText(String.join("\n", statSetCompleto.atributo));
                 
             } catch (SQLException ex) {
@@ -257,7 +235,6 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
             } catch (Exception ex) {
             ErrorAK.errorGenerico(ex);
             }
-            
         } else {
             Alert alert = new Alert(Alert.AlertType.INFORMATION);
             alert.setTitle("");
@@ -314,32 +291,12 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
             verArrow(arrow);
             
             Value status = equipo.getStat();
-           // StringJoiner stat = new StringJoiner("");
-         /*   for (String atributo : status.atributo) {
-                //stat = stat + atributo+"\n" ;
-                stat.add(atributo+"\n");  
-            }*/
             lblStats.setText(String.join("\n", status.atributo));
             if(equipo.getSet()!=0){
                 btnSet.setDisable(false);
             }else{
                 btnSet.setDisable(true);
             }
-            
-            /*              /// esta parte est aen el boton buscar set
-            Value statSetCompleto=null;
-            try{
-                statSetCompleto=Value.buscarStat("sets-stats.txt", equipo.getSet());
-                } catch (IOException ex) {
-                ErrorAK.errorTxt("statsSets",ex);
-                }
-            StringJoiner statSet =new StringJoiner("");
-            for (String atributo : statSetCompleto.atributo) {
-                //statSet = statSet + "\n" + atributo;
-                statSet.add(atributo);
-            }   
-            lblSetCompleto.setText(statSet.toString());
-            */
             
             if(equipo.isRefinado()){
                 Equipamiento thisBase=equipo.getBase();
@@ -637,7 +594,7 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
 
     @FXML
     private void handlerMineral(MouseEvent event) { 
-  
+        if(equipoDerecha.isRefinado()){
         tabEnt1.setDisable(true);
         tabEnt2.setDisable(true);
         tabEnt3.setDisable(true);
@@ -677,34 +634,25 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
         }else{
             cambiarStacke(anchorMineral);
             ArrayList<Origen> entidades=mineral.todaUbicacion();
-         //   if(entidades.size()>2){
                 tabEnt1.setDisable(false);
                 lblEntidad1.setText(entidades.get(0).getNombreObj());
                 imgEntidad1.setImage(new Image(getClass().getResourceAsStream(entidades.get(0).getFileObjeto())));
-          /*  }else {
-                tabEnt1.setDisable(true);*/
-           // }
             if(entidades.size()>=2){
                 tabEnt2.setDisable(false);
                 lblEntidad2.setText(entidades.get(1).getNombreObj());
                 imgEntidad2.setImage(new Image(getClass().getResourceAsStream(entidades.get(1).getFileObjeto())));
-            }/*else {
-                tabEnt2.setDisable(true);
-            }*/
+            }
             if(entidades.size()>=3){
                 tabEnt3.setDisable(false);
                 lblEntidad3.setText(entidades.get(2).getNombreObj());
                 imgEntidad3.setImage(new Image(getClass().getResourceAsStream(entidades.get(2).getFileObjeto())));
-            }/*else {
-                tabEnt3.setDisable(true);
-            }*/
+            }
             if(entidades.size()==4){
                 tabEnt4.setDisable(false);
                 lblEntidad4.setText(entidades.get(3).getNombreObj());
                 imgEntidad4.setImage(new Image(getClass().getResourceAsStream(entidades.get(3).getFileObjeto())));
-            }/*else {
-                tabEnt4.setDisable(true);
-            }*/
+            }
+        }
         }
     }
 
@@ -718,12 +666,7 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
     }
  
     private void setAnchorInfo(Value value){
-      /*  String dungs = "";
-            for (String ubicacion : value.atributo) {
-                dungs = dungs + "\n" + ubicacion;
-                lblInfo.setText(dungs);
-            }*/
-           lblInfo.setText(String.join("\n", value.atributo));
+        lblInfo.setText(String.join("\n", value.atributo));
     }
 
     @FXML
@@ -737,7 +680,6 @@ public class HerreriaController extends CtrlPrincipal implements Initializable {
         cambiarStacke(anchorInfo);       
         Receta receta=equipoDerecha.getReceta();
         setearDetalles(receta);
-       
         setAnchorInfo(receta.getDung());      
         }
     }

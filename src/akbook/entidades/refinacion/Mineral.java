@@ -63,7 +63,7 @@ public class Mineral extends Item {
                     Origen origen=Origen.traerOrigen(idUbi, conn);
                     mineral.entidades.add(origen);
                 }
-            } // en el archivo dungs pongo "instancias xx o superior" respetando los lvl esactos
+            }
             }
             
             mineral.colorBorde=Calidad.valueOf(rs.getString("calidad"));

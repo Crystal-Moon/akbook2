@@ -33,10 +33,7 @@ public class FoodBase extends Item {
 
 //------- DAO ---------
     public static FoodBase traerFoodBase(int id, Connection conn) throws SQLException {
-        /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+       
         Statement stmtConsulta = null;
         ResultSet rs = null;
         FoodBase comidaBase = new FoodBase();

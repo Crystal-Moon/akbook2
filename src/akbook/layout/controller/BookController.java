@@ -120,8 +120,8 @@ public class BookController extends CtrlPrincipal implements Initializable {
     @FXML
     private void handlerBtnBuscarLista(ActionEvent event) throws URISyntaxException {
 
-       // Wait t=new Wait();
-      //  t.run();
+        Wait t=new Wait();
+        t.run();
         paraSeleccionar.clear();
         idsElegidos.clear();
         foodData.clear();
@@ -153,7 +153,7 @@ public class BookController extends CtrlPrincipal implements Initializable {
         }
         
         tableBuscar.setItems(foodData);
-      //  t.setControl();
+        t.setControl();
         if(foodData.isEmpty()){
             foodData.clear();
             tableBuscar.setItems(foodData);
@@ -250,7 +250,7 @@ public class BookController extends CtrlPrincipal implements Initializable {
         lvlInfoFood.setText("Nivel " + FoodElegida.getLvl() + " o superior.");
         setearPanelDerecho(FoodElegida);
         tabFood.getSelectionModel().select(0);
-        alSeleccionarGreen(event);
+        alSeleccionarGreen(null);
     }
 
     @FXML
@@ -434,7 +434,8 @@ public class BookController extends CtrlPrincipal implements Initializable {
     
     FoodElegida = a; 
     try{
-        if (a.getCantIngPrincipal() != 0) {
+        //if (a.getCantIngPrincipal() != 0) {
+        if (a!= null) {
             cambioDeTab(1);
             // Articulo fusion
             Image imgIP = new Image(getClass().getResourceAsStream(a.getIngPrincipal().getArchivo()));
@@ -590,7 +591,6 @@ public class BookController extends CtrlPrincipal implements Initializable {
     
     public void cambioDeTab(int tab){
         tabPane.getSelectionModel().select(tab);
-        //System.out.println(tabPane);
     }
 
     public TabPane getThis(){

@@ -37,10 +37,7 @@ public class SemiFacturado extends Item{
     public SemiFacturado() {}
     
     public static SemiFacturado traerAleacion(int id, Connection conn) throws SQLException, IOException{
-        /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+
         Statement stmtConsulta = null;
         ResultSet rs = null;
         SemiFacturado aleacion=new SemiFacturado();

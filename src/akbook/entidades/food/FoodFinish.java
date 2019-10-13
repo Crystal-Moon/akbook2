@@ -81,7 +81,6 @@ try{
                 + "name_green, name_orange, name_purple, name_golden, "
                 + "ip, c_ip, base, i2, c_i2 ,b2, c_b2, "
                 + "g, s, archivo FROM food_finish WHERE lvl>=" + lvl + " order by lvl;";
-        System.out.println(laConsulta);
         stmtConsulta = laConexion.createStatement();
         rs = stmtConsulta.executeQuery(laConsulta);
 
@@ -112,7 +111,6 @@ try{
 
         return foods;
 }catch(Exception e){
-    System.out.println(" error en la clase Food Finish" + e);
     return null;
 }
         

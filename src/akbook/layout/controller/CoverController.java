@@ -30,7 +30,7 @@ public class CoverController extends CtrlPrincipal implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
          //TODO
-         lblVersion.setText("Version: 1.0.4");
+         lblVersion.setText("Version: 2.1.0");
     }
 
     @FXML

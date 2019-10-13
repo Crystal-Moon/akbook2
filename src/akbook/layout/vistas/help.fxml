@@ -14,9 +14,9 @@
    <children>
       <ScrollPane prefHeight="300.0" prefWidth="300.0">
         <content>
-          <AnchorPane maxHeight="700.0" minHeight="0.0" minWidth="0.0" prefHeight="600.0" prefWidth="283.0" styleClass="anchor-pane">
+          <AnchorPane maxHeight="950.0" minHeight="0.0" minWidth="0.0" prefHeight="950.0" prefWidth="283.0" styleClass="anchor-pane">
                <children>
-                  <VBox prefHeight="354.0" prefWidth="283.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                  <VBox prefHeight="950.0" prefWidth="283.0" AnchorPane.bottomAnchor="-63.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                      <children>
                         <Label fx:id="lblHelp" text="Instrucciones..." textOverrun="WORD_ELLIPSIS" wrapText="true" />
                         <Label text="Creditos:" />
@@ -37,7 +37,7 @@
                                  <children>
                                     <ImageView fitHeight="86.0" fitWidth="73.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@../../../../../../Descargas/prof_20190130_191249-1.png" />
+                                          <Image url="@../frames/CM_logo.png" />
                                        </image>
                                     </ImageView>
                                     <VBox alignment="CENTER" prefHeight="87.0" prefWidth="150.0">

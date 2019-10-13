@@ -33,6 +33,7 @@ hs_err_pid*
 **/nbproject/Package-*.bash
 build/
 nbbuild/
+frames/
 dist/
 nbdist/
 .nb-gradle/

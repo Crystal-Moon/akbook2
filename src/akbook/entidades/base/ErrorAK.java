@@ -23,6 +23,8 @@ public abstract class ErrorAK extends Exception{
                 + "Revise la ruta de ejecucion del programa.\n"
                 + "Una correcta reinstalacion solucionaria el problema"
                 +"\n"+ex.getSQLState()+"\n"+ex.getMessage());
+        alert.getOwner().centerOnScreen();
+        
         alert.showAndWait();
     }
     //IOExceptions

@@ -31,10 +31,7 @@ public class NPC {
     
 //------- DAO ---------
     public static NPC traerNpc(int id, Connection conn) throws SQLException{
-        /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+       
         Statement stmtConsulta=null;
         ResultSet rs = null;
         NPC elNpc=new NPC();

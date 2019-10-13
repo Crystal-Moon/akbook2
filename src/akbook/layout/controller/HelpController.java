@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 /* 
     Created on : 25/07/2018, 21:03:11
     Author     : crystal
@@ -55,17 +50,21 @@ public class HelpController extends CtrlPrincipal implements Initializable {
         // TODO
         lblHelp.setText("Aura Kingdom - Recipe's Book\n\n" +
         "Seccion 'Buscar' - 'Alimentos'\n" +
-        "Seleccione todos los status que desee encontrar. Precione el boton 'Busar' para visualizar una lista de todos los resultados que contengan los atributos seleccionados.\n" +
+        "Seleccione todos los status que desee encontrar. Precione el boton 'Buscar' para visualizar una lista de todos los resultados que contengan los atributos seleccionados.\n" +
         "Seleccione cualquier item de la tabla para ver detalles de la preparacion en la seccion 'Cocina'.\n" +
+        "El boton 'Ubicacion' desplegara una mini ventana con el/los mapas donde se encuentra dicho ingrediente. Esta ventana se mantiene superpuesta aun dentro del juego.\n"+
         "\n" +
         "Seccion 'Buscar' - 'Mineria'\n" +
-        "(Proximamente)\n" +
+        "Seleccione el nivel y el tipo de equipamiento a buscar. Seleccione cualquier item de la lista para ver mas detalles en la seccion 'Herreria'.\n" +
         "\n" +
         "Seccion 'Cocina'\n" +
         "Haga click en cualquiera de los items para ver detalles como ubicacion de los ingredientes, ubicacion de los NPC y detalles de los status otorgados por el alimento resultante.\n" +
         "\n" +
         "Seccion 'Herreria'\n" +
-        "(Proximamente)\n\n");
+        "Puede hacer click en cualquier item para ver mas detalles en el cuadro inferior derecho, como localización o detalles generales.\n"+
+        "Presione el boton 'Set' para buscar y mostrar todos los items que correspondan asi como tambien los beneficios de equipar el set completo. Haga click en cada item del set para ver detalles de cada uno.\n"+
+        "El boton 'Ubicacion' desplegara una mini ventana con el/los mapas donde se encuentra dicho mineral. Esta ventana se mantiene superpuesta aun dentro del juego.\n"+
+        "\n");
         lblHelp.setFocusTraversable(true); //hacer foco en el primer label
         lblAutor.setText("Aura Kingdom Recipe's Book ©2018\nCreated by CrystalMoon.");
         

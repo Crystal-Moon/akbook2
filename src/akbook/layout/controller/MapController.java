@@ -42,16 +42,16 @@ public class MapController extends CtrlPrincipal implements Initializable {
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        
+
         tab1.setDisable(true);
         tab2.setDisable(true);
         tab3.setDisable(true);
         tab4.setDisable(true);
-        
+ 
         imgMap1.setImage(new Image(getClass().getResourceAsStream(ubicacionElegida.getArchivoMapa1())));
         tab1.setText(ubicacionElegida.getNameMap1());
         tab1.setDisable(false);
-        
+       
         if (ubicacionElegida.map2Exist()) {
             imgMap2.setImage(new Image(getClass().getResourceAsStream(ubicacionElegida.getArchivoMapa2())));
             tab2.setText(ubicacionElegida.getNameMap2());
@@ -67,7 +67,6 @@ public class MapController extends CtrlPrincipal implements Initializable {
             tab4.setText(ubicacionElegida.getNameMap4());
             tab4.setDisable(false);
         }
-        
     }
 
     public static void setarUbicacion(Origen ubi) {

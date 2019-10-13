@@ -44,10 +44,7 @@ public class Nucleo extends Item{
     public Nucleo() {}
     
     public static Nucleo traerNucleo(int id, Connection conn) throws SQLException, IOException{
-        /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+ 
         Statement stmtConsulta = null;
         ResultSet rs = null;
         Nucleo nucleo=new Nucleo();

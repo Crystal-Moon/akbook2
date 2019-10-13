@@ -18,7 +18,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.Arrays;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
@@ -84,9 +83,7 @@ public class Equipamiento extends Item {
                 elEquipo.nucleo=Nucleo.traerNucleo(rs.getInt("nucleo"), conn);
                 elEquipo.base=Equipamiento.traerEquipamientoDropeable(rs.getInt("base"), tabla, conn);
             }
-            System.out.println("id: "+elEquipo.id_base+"nombre: "+elEquipo.nombre[0]+"lvl: "+elEquipo.lvl+"parte: "+elEquipo.parte+"setID: "+elEquipo.setId
-                    +"stat: "+elEquipo.stat.atributo[0]+"dung: "+elEquipo.dung.atributo[0]+"archivo: "+elEquipo.archivo+"rafinado: "
-                    +elEquipo.refinado+"receta: "+elEquipo.receta);
+
             equipos.add(elEquipo);
         }
         rs.close();
@@ -96,79 +93,12 @@ public class Equipamiento extends Item {
         return equipos;
     }
     
-    /*
-    public static ArrayList traerTodoEquipo(int lvl, String tabla) throws SQLException, Exception {
-
-        Connection laConexion = null;
-        Statement stmtConsulta = null;
-        ResultSet rs = null;
-        ArrayList<Item> equipos = new ArrayList();
-
-        laConexion = Conexion.getConnection();      
-        String laConsulta = "SELECT id, nombre, lvl, calidad "
-                + "FROM "+tabla+" WHERE lvl=" + lvl + ";";
-        stmtConsulta = laConexion.createStatement();
-        rs = stmtConsulta.executeQuery(laConsulta);
-
-        while (rs.next()) {
-            Equipamiento elEquipo = new Equipamiento();
-            elEquipo.id_base = rs.getInt("id");
-            elEquipo.nombre[0] = rs.getString("nombre");
-            elEquipo.lvl = rs.getInt("lvl_requerido");
-            elEquipo.colorBorde=Calidad.valueOf(rs.getString("calidad"));
-            equipos.add(elEquipo);
-        }
-        rs.close();
-        stmtConsulta.close();
-        laConexion.close();
-
-        return equipos;
-    }
-    
-    public static Equipamiento traerEquipamientoRefinado(int id, String tabla) throws SQLException, IOException, Exception{
-        
-        Connection laConexion = null;
-        Statement stmtConsulta = null;
-        ResultSet rs = null;
-        Equipamiento equipo = new Equipamiento();
-
-        laConexion = Conexion.getConnection();
-        String laConsulta = "SELECT id, nombre, lvl, "
-                + "nucleo, base, set, calidad, archivo "
-                + "FROM "+tabla+" WHERE id=" + id + ";";
-        stmtConsulta = laConexion.createStatement();
-        rs = stmtConsulta.executeQuery(laConsulta);
-
-        while (rs.next()) {
-            equipo.id_base = rs.getInt("id");
-            equipo.nombre[0] = rs.getString("nombre");
-            equipo.lvl = rs.getInt("lvl");
-            equipo.parte=tabla;
-            equipo.set_id=rs.getInt("set");
-            equipo.nucleo=Nucleo.traerNucleo(rs.getInt("nucleo"), laConexion);
-            equipo.base=Equipamiento.traerEquipamientoDropeable(rs.getInt("base"), tabla);
-            equipo.colorBorde=Calidad.valueOf(rs.getString("calidad"));
-            equipo.stat=Value.buscarStat("archivo de txt", rs.getInt("id"));
-            equipo.archivo = Ruta.equipo.getRuta()+tabla+"/"+rs.getString("archivo");
-            equipo.refinado=true;
-        }
-        rs.close();
-        stmtConsulta.close();
-        laConexion.close();
-        
-        return equipo;
-    }
-    */
-    
-    
     public static Equipamiento traerEquipamientoDropeable(int id, String tabla, Connection conn) throws SQLException, IOException, Exception{
         
-        //Connection laConexion = null;
         Statement stmtConsulta = null;
         ResultSet rs = null;
         Equipamiento equipo = new Equipamiento();
 
-        //laConexion = Conexion.getConnection();
         String laConsulta = "SELECT id, nombre, lvl, "
                 + "set_id, calidad, archivo "
                 + "FROM "+tabla+" WHERE id=" + id + ";";
@@ -189,8 +119,6 @@ public class Equipamiento extends Item {
         }
         rs.close();
         stmtConsulta.close();
-       // laConexion.close();
-        
         return equipo;
     }
     
@@ -202,16 +130,7 @@ public class Equipamiento extends Item {
         ArrayList listElegida = new ArrayList();
         ArrayList<String> armadura =Armadura.namesToString();
         ArrayList<String> acc =Accesorio.namesToString();
-        
-        
-        /*Armadura arm1[]= Armadura.values();
-        armadura=(ArrayList)Arrays.asList(arm1);
-        Accesorio acc1[] = Accesorio.values();
-        acc=(ArrayList)Arrays.asList(acc1);
-        /*
-        for (Accesorio item : Accesorio.values()) { acc.add(item.name()); }
-        for (Armadura item : Armadura.values()) { armadura.add(item.name()); }
-        */
+      
         if(armadura.contains(parte)){
             listElegida=armadura; 
             listElegida.remove(parte);
@@ -220,9 +139,6 @@ public class Equipamiento extends Item {
             listElegida=acc; 
             listElegida.remove(parte);
         }
-        
-      
-        //listElegida.remove(parte);
         
         for(int x=0;x<listElegida.size();x++){
             String tabla=(String) listElegida.get(x);
@@ -243,7 +159,6 @@ public class Equipamiento extends Item {
                 equipo.archivo = Ruta.equipo.getRuta()+tabla+"/"+rs.getString("archivo");
                 equipo.refinado=Boolean.parseBoolean(rs.getString("refinado"));
                 equipo.receta=(rs.getInt("receta")!=0)? new Receta(rs.getInt("receta"), equipo.nombre[0], equipo.lvl) : null;
-            //    equipo.receta=rs.getBoolean("receta");
                 if(equipo.refinado){
                     equipo.nucleo=Nucleo.traerNucleo(rs.getInt("nucleo"), laConexion);
                     equipo.base=Equipamiento.traerEquipamientoDropeable(rs.getInt("base"), tabla, laConexion);

@@ -28,10 +28,7 @@ public class Ingrediente extends Item{
     public Ingrediente() {}
     
     public static Ingrediente traerIngrediente(int id, Connection conn) throws SQLException{
-        /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+
         Statement stmtConsulta=null;
         ResultSet rs = null;
         Ingrediente ingr=new Ingrediente();

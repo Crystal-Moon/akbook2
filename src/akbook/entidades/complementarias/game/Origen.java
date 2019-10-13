@@ -58,10 +58,7 @@ public class Origen {
     
 //------- DAO ---------
     public static Origen traerOrigen(int id, Connection conn) throws SQLException{
-       /*
-        id - identificador unico en la db
-        conn - conexion compartida entre toda la busqueda
-        */
+      
     Statement stmtConsulta=null;
     ResultSet rs = null;
     Origen elOrigen=new Origen();
@@ -73,17 +70,10 @@ public class Origen {
     rs = stmtConsulta.executeQuery(laConsulta); 
         
     while(rs.next()){
-        //elOrigen.id_base=rs.getInt("id");
-   // System.out.println(rs.getInt("id"));
         elOrigen.nombre=rs.getString("nombre");
-   //  System.out.println(rs.getString("mapa1"));
-      //  if(!rs.getString("mapa1").equalsIgnoreCase("")) 
             elOrigen.mapa1=Mapas.valueOf(rs.getString("mapa1")).getNombre();
-  //   System.out.println(rs.getString("mapa2"));
         if(rs.getString("mapa2")!=null) elOrigen.mapa2=Mapas.valueOf(rs.getString("mapa2")).getNombre();
-  //   System.out.println(rs.getString("mapa3"));
         if(rs.getString("mapa3")!=null) elOrigen.mapa3=Mapas.valueOf(rs.getString("mapa3")).getNombre();
-  //   System.out.println(rs.getString("mapa4"));
         if(rs.getString("mapa4")!=null) elOrigen.mapa4=Mapas.valueOf(rs.getString("mapa4")).getNombre();
         elOrigen.fileObjeto=Ruta.fonts.getRuta()+rs.getString("archivo");
     }

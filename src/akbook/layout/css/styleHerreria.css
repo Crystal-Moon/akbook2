@@ -27,12 +27,12 @@
     -fx-background-size: 100% 100%;
 }
 
-#white{-fx-text-fill: white;-fx-font-size:13;}
-#blue{-fx-text-fill: #1B62B1;-fx-font-size:13;}
-#green{-fx-text-fill: #6DBC49;-fx-font-size:13;}
-#orange{-fx-text-fill: #DC8030;-fx-font-size:13;}
-#purple{-fx-text-fill: #8D46C9;-fx-font-size:13;}
-#gold{-fx-text-fill: #FFE363;-fx-font-size:13;}
+#white{-fx-text-fill: white;-fx-font-size:12;}
+#blue{-fx-text-fill: #1B62B1;-fx-font-size:12;}
+#green{-fx-text-fill: #6DBC49;-fx-font-size:12;}
+#orange{-fx-text-fill: #DC8030;-fx-font-size:12;}
+#purple{-fx-text-fill: #8D46C9;-fx-font-size:12;}
+#gold{-fx-text-fill: #FFE363;-fx-font-size:12;}
 
 
 /*-------TabPane Mineral -----------------*/

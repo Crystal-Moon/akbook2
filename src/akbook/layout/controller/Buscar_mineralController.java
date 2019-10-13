@@ -6,37 +6,28 @@ package akbook.layout.controller;
 
 import akbook.entidades.base.CtrlPrincipal;
 import akbook.entidades.base.ErrorAK;
-import akbook.entidades.complementarias.app.Ruta;
+import akbook.entidades.complementarias.app.Wait;
 import akbook.entidades.complementarias.game.EnumsEquipo;
 import akbook.entidades.complementarias.game.EnumsEquipo.Accesorio;
 import akbook.entidades.complementarias.game.EnumsEquipo.Arma;
 import akbook.entidades.complementarias.game.EnumsEquipo.Armadura;
 import akbook.entidades.refinacion.Equipamiento;
-import java.io.IOException;
 import java.net.URL;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.ResourceBundle;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
-import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
-import javafx.scene.control.TabPane;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
-import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
-import javafx.stage.Stage;
-import javafx.stage.StageStyle;
 
 /**
  * FXML Controller class
@@ -73,7 +64,6 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
     public void initialize(URL url, ResourceBundle rb) {
 
         lblInfoTable.setVisible(false);
-//        tabPane.getSelectionModel().select(tabBuscar);
         cargarTodo();
 
         columnLvl.setCellValueFactory(cellData -> cellData.getValue().getLvlProperty());
@@ -88,40 +78,20 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
 
         HerreriaController.setEquipo0(item);
         BookController c = new BookController();
-        //c.cambioDeTab(2);
-        //probar get scene, getParents, getPane,, hasta tomar el TabPane q lo tiene de hijo i ahi hacer 
-        //getSelectonModel.select(2)
         CtrlPrincipal aa=CtrlPrincipal.ctrlBook;
         BookController bb=(BookController) aa;
         bb.cambioDeTab(2);
         HerreriaController cc=bb.getHerreriaController();
         cc.initialize(null, null);
-          
-        /*
-        try{
-            if (item.isRefinado()) {
-                equipoSelec = Equipamiento.traerEquipamientoRefinado(item.getId_base(), parteSelec);
-            }else{
-                equipoSelec = Equipamiento.traerEquipamientoDropeable(item.getId_base(), parteSelec);
-            }
-            BookController c = new BookController();
-            c.cambioDeTab(2);
-        }catch (SQLException ex) {
-                ErrorAK.errorBaseDatos();
-        } catch (IOException ex) {
-                ErrorAK.errorTxt("stat" + parteSelec);
-        } catch (Exception ex) {
-                ErrorAK.errorGenerico();
-        }
-        HerreriaController.setEquipo0(equipoSelec);
-        */  
     }
 
     @FXML
     private void handlerBtnBuscar(ActionEvent event) {
-
+        
+        Wait t=new Wait();
+        t.run();
         equipoData.clear();
-
+        
         int lvl = Integer.parseInt(menuLvl.getSelectionModel().getSelectedItem());
         String parte = menuArt2.getSelectionModel().getSelectedItem();
         ArrayList<Equipamiento> elegidos = new ArrayList();
@@ -132,20 +102,26 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
                 equipoData.addAll(elegidos);
                 lblInfoTable.setVisible(true);
             } catch (SQLException ex) {
-             //   System.out.println(ex.getMessage());
                 ErrorAK.errorBaseDatos(ex);
             } catch (Exception ex) {
-            //     System.out.println(ex.getMessage());
                 ErrorAK.errorGenerico(ex);
             }
             tableBuscar.setItems(equipoData);
             CtrlPrincipal aa=CtrlPrincipal.ctrlBook;
             BookController bb=(BookController) aa;
             bb.cambioDeTab(0);
-        
+            
+            if(equipoData.isEmpty()){
+            equipoData.clear();
+            tableBuscar.setItems(equipoData);
+            lblInfoTable.setVisible(false);
+            noResults();
+            }
         } else {
             mjeEmpty();
         }
+         
+        t.setControl();
     }
 
     @FXML
@@ -155,6 +131,7 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
 
     private void cargarTodo() {
         menuLvl.getItems().add("40");
+        menuLvl.getItems().add("45");
         menuLvl.getItems().add("50");
         menuLvl.getItems().add("55");
         menuLvl.getItems().add("60");
@@ -173,7 +150,6 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
                 menuArt.getItems().add(arma.name());
         }
         menuArt.getSelectionModel().selectFirst();
-
         menuArt2.setDisable(true);
     }
 
@@ -214,6 +190,13 @@ public class Buscar_mineralController extends CtrlPrincipal implements Initializ
         alert.setTitle("");
         alert.setHeaderText("");
         alert.setContentText("Por favor seleccione el articulo a buscar.");
+        alert.showAndWait();
+    }
+    private void noResults() {
+        Alert alert = new Alert(Alert.AlertType.INFORMATION);
+        alert.setTitle("");
+        alert.setHeaderText("");
+        alert.setContentText("No se encontraron resultados.");
         alert.showAndWait();
     }
 }

@@ -42,7 +42,7 @@ public class Wait implements Runnable{
         root.getChildren().add(gif);
         Scene scene = new Scene(root);
         stage.setScene(scene);
-        stage.setAlwaysOnTop(true);
+        //stage.setAlwaysOnTop(true);
         stage.show();
 
     }
