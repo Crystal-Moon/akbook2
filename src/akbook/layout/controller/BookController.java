@@ -21,6 +21,7 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -564,7 +565,7 @@ public class BookController extends CtrlPrincipal implements Initializable {
         int id = 0;
         boolean hash = true;
         try {
-            Reader reader = new InputStreamReader(input);  
+            Reader reader = new InputStreamReader(input,StandardCharsets.UTF_8);  
             buffTxt = new BufferedReader(reader);
             while (hash) {
                 String linea = buffTxt.readLine();

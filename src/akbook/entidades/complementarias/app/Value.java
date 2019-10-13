@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
+import java.nio.charset.StandardCharsets;
 
 /**
  *
@@ -30,7 +31,7 @@ public class Value {
         InputStream input = Value.class.getResourceAsStream(Ruta.text.getRuta() + txt);
         BufferedReader buffTxt = null;
 
-        Reader reader = new InputStreamReader(input);
+        Reader reader = new InputStreamReader(input,StandardCharsets.UTF_8);
         boolean hash = true;
         buffTxt = new BufferedReader(reader);
         while (hash) {
@@ -58,7 +59,7 @@ public class Value {
         InputStream input = Value.class.getResourceAsStream(Ruta.text.getRuta() + txt);
        
 
-        Reader reader = new InputStreamReader(input);
+        Reader reader = new InputStreamReader(input,StandardCharsets.UTF_8);
         boolean hash = true;
         BufferedReader buffTxt = new BufferedReader(reader);
         while (hash) {

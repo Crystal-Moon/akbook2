@@ -43,7 +43,7 @@ public class Ingrediente extends Item{
         //ingr.lvl=rs.getInt("lvl");
         ingr.ubicacion=Origen.traerOrigen(rs.getInt("ubi_id"),conn);
         ingr.colorBorde=blue;
-        ingr.comerciante=rs.getBoolean("npc");
+        ingr.comerciante=Boolean.parseBoolean(rs.getString("npc"));
         ingr.archivo=Ruta.ings.getRuta()+rs.getString("archivo");
         }
         rs.close();
