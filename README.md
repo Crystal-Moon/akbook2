@@ -36,8 +36,9 @@ _Referido a la app:_ Aplicar hibernate y consolidar una unica base de datos port
 _Referido al juego:_ Agregar 'Pesca' (localizacion, dias, sets, etc.) y 'Alquimia' (pociones)
 
 ## Descargas
-Todo el proyecto es de libre uso y mejora para el que desee hacerlo :octocat:.
 _Puedes encontrar la version instalable en_ :inbox_tray:_[MEGA](https://mega.nz/#!H4hAWCrS!S5oe2nXVtV5J2TnAS8AHG3ohXSMKJy3U62b5nn-cFuA)_
+
+Todo el proyecto es de libre uso y mejora para el que desee hacerlo :octocat:.
 
 ### Agradecimientos
 
