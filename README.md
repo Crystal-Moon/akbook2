@@ -14,16 +14,16 @@ La estructura del proyecto está basada en MVC (modelo-vista-controlador) y cone
 Tecnoogias usadas: :hotsprings:Java, :point_up_2:JavaFx y :notebook_with_decorative_cover:SQLite
 
 ### Mejoras
-###### Nuevo trato a los fxml
+#### Nuevo trato a los fxml
 Se aplica la inyeccion de archivos xml externos con sus respectivos controladores para un mejor mantenimiento del codigo.
 
-###### Base de datos externa
+#### Base de datos externa
 Sigo utilizando una base de datos local con SQLite pero ahora esta se encuentra separada del .jar para q sea mas facil una actualizacion a nuevos items del juego.
 
-###### Mejora de rendimineto consultas
+#### Mejora de rendimineto consultas
 Ademas del uso de la misma conexion en cada busqueda se simplificaron las tablas y se reutiliza codigo para dar lugar a la escabilidad que se viene.
 
-###### Mejora de usabilidad para clientes
+#### Mejora de usabilidad para clientes
 Las pequeñas ventanas con informacion util para jugadores se mantienen siempre visible, incluso durante la ejecucion del juego en pantalla completa.
 
 ### Requisitos de sistema
